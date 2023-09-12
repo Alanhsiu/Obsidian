@@ -1,0 +1,10 @@
+{
+  "accentColor": "#31a1dd",
+  "baseFontSize": 16,
+  "cssTheme": "Obsidianite",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dot_relationship_line"
+  ]
+}
