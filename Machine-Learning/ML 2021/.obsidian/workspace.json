@@ -11,12 +11,8 @@
             "id": "ba1e66afb9b2d8af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Deep Learning - Loss of Classification.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Deep Learning - Loss of Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Deep Learning - Loss of Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 Deep Learning - Loss of Classification.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,14 @@
   },
   "active": "ba1e66afb9b2d8af",
   "lastOpenFiles": [
+    "Pasted image 20230911123239.png",
+    "Pasted image 20230911122153.png",
+    "Pasted image 20230911121926.png",
+    "Pasted image 20230911121540.png",
+    "02 Deep Learning - 類神經網路優化技巧.md",
+    "02 Deep Learning - Loss of Classification.md",
+    "02 Deep Learning - General Guidance.md",
+    "01 Overview.md",
     "hotkeys.json",
     "core-plugins-migration.json",
     "themes/Things/theme.css",
@@ -157,8 +157,6 @@
     "themes/Minimal/theme.css",
     "themes/Minimal/manifest.json",
     "themes/Dracula for Obsidian/theme.css",
-    "themes/Dracula for Obsidian/manifest.json",
-    "themes/Things",
-    "02 Deep Learning - Loss of Classification.md"
+    "themes/Dracula for Obsidian/manifest.json"
   ]
 }
