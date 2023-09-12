@@ -25,4 +25,3 @@
 * Subsampling (Pooling)
 	* 舉例而言，把偶數行拿掉，把基數列拿掉，不會影響圖片的辨析，同時可以減少運算量
 	* eg. Max Pooling, Mean Pooling
-	* 
