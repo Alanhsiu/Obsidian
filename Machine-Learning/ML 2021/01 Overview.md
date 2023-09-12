@@ -5,9 +5,9 @@
 	3. **Structured learning**: The function learns to map input data to structured output data, which can be more complex than a simple scalar or class label.
 * 訓練三步驟
 	1. Function with Unknown Parameters
-		* Feature (x1)
-		* Weight (w)
-		* Bias (b)
+		* Feature ($x_1$)
+		* Weight ($w$)
+		* Bias ($b$)
 	2. Define Loss from Training Data
 		* MAE (mean absolute error)
 		* MSE (mean square error)

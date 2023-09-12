@@ -1,6 +1,9 @@
 {
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "attachmentFolderPath": "./attachments",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "autoPairMarkdown": false,
+  "showFrontmatter": true
 }
