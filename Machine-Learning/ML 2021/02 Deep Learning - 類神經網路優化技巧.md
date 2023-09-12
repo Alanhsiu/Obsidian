@@ -21,7 +21,7 @@
 	* Learning Rate Decay: 隨著時間的不斷地前進，η^t 越來越小
 	* Warm Up: 讓 learning rate 先變大後再變小
 * Batch Normalization
-	* 不同的參數發生變化，引起損失函數變化的程度不同，原因是因受**不同維度輸入值的差異的影響**
+	* 不同的參數發生變化，引起損失函數變化的程度不同，是因受**不同維度輸入值的差異的影響**
 	* Feature Normalization（歸一化）
 		* 對不同 feature 向量的同一維度進行標準化（Standardization）
 		* 每一層都需要一次 Normalization

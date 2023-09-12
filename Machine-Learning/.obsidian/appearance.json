@@ -6,5 +6,8 @@
   "enabledCssSnippets": [
     "dashboard",
     "dot_relationship_line"
-  ]
+  ],
+  "textFontFamily": "PingFang TC",
+  "interfaceFontFamily": "Microsoft Sans Serif,PingFang TC",
+  "monospaceFontFamily": "PingFang TC"
 }

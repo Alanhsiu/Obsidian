@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "readableLineLength": true,
-  "attachmentFolderPath": "ML 2021"
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current"
 }
