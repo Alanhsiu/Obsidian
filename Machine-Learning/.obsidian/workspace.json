@@ -54,19 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "51dab10adf93753d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51dab10adf93753d",
+  "active": "303fb3e7801a03ee",
   "lastOpenFiles": [
     "ML 2021/attachments/Pasted image 20230913105423.png",
     "ML 2021/attachments/Pasted image 20230913100243.png",
