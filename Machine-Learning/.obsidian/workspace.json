@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa22c41c3cd28b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "2023-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "2023-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md"
+                "file": "2023-09-13.md"
               }
             }
           }
@@ -192,12 +204,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "303fb3e7801a03ee",
+  "active": "aa22c41c3cd28b58",
   "lastOpenFiles": [
+    "ML 2021/Untitled.md",
+    "2023-09-13.md",
+    "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/attachments/Pasted image 20230913105423.png",
     "ML 2021/attachments/Pasted image 20230913100243.png",
     "ML 2021/04 Self Attention.md",
-    "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/attachments/Pasted image 20230913010003.png",
     "ML 2021/attachments/Pasted image 20230913005756.png",
     "ML 2021/attachments/Pasted image 20230913004611.png",
@@ -211,7 +225,6 @@
     "ML 2021/01 Overview.md",
     "ML 2021/attachments/Pasted image 20230912194817.png",
     "ML 2021/attachments/Pasted image 20230912194549.png",
-    "ML 2021/attachments/Pasted image 20230912193836.png",
     "Untitled.md",
     "ML 2021/attachments",
     "ML 2021/Untitled.canvas",
