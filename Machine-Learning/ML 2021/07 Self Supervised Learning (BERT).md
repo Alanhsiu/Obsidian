@@ -19,7 +19,9 @@
 		* 微調（Fine-tune）：利用一些特別的訊息，使 BERT 能夠完成某種任務
 		* eg. Sentiment analysis / POS tagging / Natural Language Inference (NLI) / Extraction-based Question Answering (QA)
 		* ![[Pasted image 20230913105423.png]]
-
+	* **Embedding**
+		* 輸入一串文字，每個文字都有對應的向量
+		* 這些向量代表了輸入詞的含義 → 比較相似的詞，它們的向量比較接近
 
 
 * **應用場景：圖像分類** (by ChatGPT)
