@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa22c41c3cd28b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-13.md",
+                "file": "ML 2021/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-13.md",
+                "file": "ML 2021/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-13.md",
+                "file": "ML 2021/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-13.md"
+                "file": "ML 2021/Untitled.md"
               }
             }
           }
@@ -204,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa22c41c3cd28b58",
+  "active": "303fb3e7801a03ee",
   "lastOpenFiles": [
-    "ML 2021/Untitled.md",
-    "2023-09-13.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
+    "2023-09-13.md",
+    "ML 2021/Untitled.md",
     "ML 2021/attachments/Pasted image 20230913105423.png",
     "ML 2021/attachments/Pasted image 20230913100243.png",
     "ML 2021/04 Self Attention.md",
