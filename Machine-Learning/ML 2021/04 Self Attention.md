@@ -19,7 +19,7 @@
 		2. 藉由一個計算 attention 的模組來得到 $α$。（q = query、k = key）![[Pasted image 20230913003411.png]]
 		3. 計算完 $a^1$ 跟其他向量的相關性 $α$ 後（也必須計算 $a^1$ 跟自己的 $α$），把所有的 $α$ 經過 softmax （也可使用其他激勵函數，如： ReLu）得到 $α'$ ![[Pasted image 20230913004258.png]]
 		4. 把向量 $a^1$ 到 $a^4$ 乘上 $W^v$ 得到新的向量：$v^1$、$v^2$、$v^3$ 和 $v^4$，接下來把每一個向量都去乘上 $α'$ 後再求和得到 $b^1$ →如果 a^1 跟 a^2 有高相關性，即 $α'_{1,2}$ 的值很大，再做加權和後，得到的 b^1 就可能會比較接近 v^2。所以誰的注意力的分數最大，誰的 v 就會主導（dominant） 抽出來的結果![[Pasted image 20230913004611.png]]
-* Self-Attention vs RNN
+* Self-Attention vs. RNN
 	* 同：Recurrent Neural Network 跟 Self-attention 做的事情非常像，它們的 input 都是一個 vector sequence，前一個時間點的輸出也會作為輸入丟進 RNN 產生新的向量，也同時會輸入到 FC
 	* 異
 		* 對 RNN 來說，假設最右邊黃色的 vector 要考慮最左邊的輸入，那它必須要把最左邊的輸入**存在 memory 中都不能夠忘掉**一路帶到最右邊，才能夠在最後的時間點被考慮 → 無法平行化
