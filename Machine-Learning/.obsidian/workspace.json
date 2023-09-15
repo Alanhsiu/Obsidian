@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/04 Self Attention.md",
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/04 Self Attention.md",
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/04 Self Attention.md",
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/04 Self Attention.md"
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md"
               }
             }
           }
@@ -181,12 +181,12 @@
   },
   "active": "6c05972fdb9c1935",
   "lastOpenFiles": [
+    "ML 2021/04 Self Attention.md",
     "ML 2021/Untitled.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "2023-09-13.md",
     "ML 2021/attachments/Pasted image 20230913105423.png",
     "ML 2021/attachments/Pasted image 20230913100243.png",
-    "ML 2021/04 Self Attention.md",
     "ML 2021/attachments/Pasted image 20230913010003.png",
     "ML 2021/attachments/Pasted image 20230913005756.png",
     "ML 2021/attachments/Pasted image 20230913004611.png",
