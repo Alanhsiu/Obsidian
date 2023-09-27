@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a8b64107a8b4615d",
+            "id": "0b4c9a677b4ad32e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-26.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-26.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-26.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-26.md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           }
@@ -167,14 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8b64107a8b4615d",
+  "active": "0b4c9a677b4ad32e",
   "lastOpenFiles": [
+    "ML 2021/01 Overview.md",
+    "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/04 Self Attention.md",
+    "ML 2021/Untitled 1.md",
     "2023-09-26.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/03 CNN.md",
     "2023-09-18.md",
-    "ML 2021/Untitled.md",
     "2023-09-13.md",
     "ML 2021/attachments/Pasted image 20230913105423.png",
     "ML 2021/attachments/Pasted image 20230913100243.png",
@@ -187,7 +190,6 @@
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
-    "ML 2021/01 Overview.md",
     "ML 2021/attachments/Pasted image 20230912194817.png",
     "ML 2021/attachments/Pasted image 20230912194549.png",
     "Untitled.md",
@@ -211,7 +213,6 @@
     "CEP Midterm.md",
     "ROS.md",
     "ICN.md",
-    "EndOfWeb.md",
-    "2022-10-19.md"
+    "EndOfWeb.md"
   ]
 }
