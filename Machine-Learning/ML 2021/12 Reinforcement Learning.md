@@ -26,5 +26,31 @@
 	* 問題：
 		* actor 具有隨機性：由於 action 是 sample 產生的，給定相同的 s，產生的 a 可能不一樣
 		* environment 和 reward 是黑盒子：environment 和 reward 都不是 network，也都具有隨機性
-* Optimization: Policy Gradient
+* Optimization: **Policy Gradient**
+	* 如何控制 Actor
+		* 若希望 actor 在看到某個 s 時採取某一 action，只需將其看做一般的分類問題即可，為其設定 ground truth $\hat{a}$，loss e 採用 cross-entropy
+		* 若希望 actor 在看到某個 s 時不採取某一 action，只需將 cross-entropy 乘一個負號，最小化 L 等同於最大化 e，以使 actor 的 action 離 $\hat{a}$ 更遠
+		* 綜合以上兩種情況，可將 L 定義為 $e_1-e_2$，找到一組參數最小化 $e_1$，同時最大化 $e_2$，即可最小化 loss L
+	* 收集訓練資料
+		* 為每個行為標註為”好”或”不好”（+1、-1）
+		* 每個行為給定一個分數$A_n$ (不再是只有正負 1)
+	* 如何定義 A
+		* Version 0 （不正確）：將 reward 作為 A 用於定義 loss → 短視近利
+		* Version 1（Cumulated Reward）：假設遊戲非常長，把 $r_N$ 歸功於 $a_1$ 也不合適
+		* Version 2（Discounted Cumulated Reward）：新增 discount factor $\gamma$（$\gamma$<1），離 $a_t$ 比較近的 reward 給予較大的權重，較遠的 reward 給予較小的權重，使較遠的 reward 影響較小
+		* Version 3（標準化：-b）：假設某一遊戲得到的 reward 永遠都是正的，只是有大有小不同，因此每個 G 都會是正的，就算某些行為是不好的，還是會鼓勵機器採取某些行為
+		* Version 3.5（b = value function）：訓練一個 critic，給一個 observation s，輸出 $V^\theta(s)$，讓 Version 3 的 b = $V^\theta(s)​$
+		* Version 4（Advantage Actor-Critic）：在 observation $s_t$ 下，採取 action $a_t$ 到 $s_{t+1}$，考慮在 $s_{t+1}$ 下採取各種 action $a_{t+1}$ 的情况，並求所有 $G'_{t+1}$ 的平均值（期望值）。因為 **value function 意義上可以代表各種 action 的平均 discounted cumulated reward**，因此直接使用 $V^\theta(s_{t+1})$ 表示 $s_{t+1}$下各種 $a_{t+1}$ 得到的 $G'_{t+1}$的平均值（期望值），所以將 $G'_{t}$ 替換為 $r_t+V^\theta(s_{t+1})$ ⇒ $A_t=r_t+V^\theta(s_{t+1})-V^\theta(s_{t})$
+	* 訓練過程
+		1. 隨機初始化 actor，參數為 $\theta^0$
+		2. 迭代更新 actor：用參數為 $\theta^{i-1}$ 的 actor 蒐集資料，並以此資料計算 $A$，再計算 loss $L$，做 gradient descent 更新參數
+		* On-policy Learning：訓練的 actor 跟與環境互動的 actor 是同一個
+		* Off-policy Learning：訓練的 actor 跟與環境互動的 actor 是不同的 好處是不用一直收集資料，可以用一次收集到的資料，更新多次 actor
+		* Exploration（增加 actor 做 action 的隨機性）
+* Critic
+	* Value Function：有一 actor 參數為 $\theta$，當前的 observation 為 s，value function $V^\theta(s)$ 為基於參數為 $\theta$ 的 actor 及 observation s，所預期的 discounted cumulated reward (期望值的概念）
+	* How to train critic
+		* Monte Carlo（MC） Based Approach：將 actor 拿去跟環境互動很多輪（episodes），得到一些遊戲的記錄（訓練資料）
+		* Temporal-Difference（TD） Approach：不需玩完整場遊戲（一個 episode）得到訓練資料。只要在看到 observation $s_t$， actor 執行 action $a_t$，得到 reward $r_t$，接下來再看到 observation $s_{t+1}$，就能夠更新一次 critic 參數。此方法對於很長的遊戲或玩不完的遊戲非常合適
+	* Deep Q Network（DQN）https://youtu.be/o_g9JUMw1Oc
 	* 
