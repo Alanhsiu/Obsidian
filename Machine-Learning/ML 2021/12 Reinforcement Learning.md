@@ -26,3 +26,5 @@
 	* 問題：
 		* actor 具有隨機性：由於 action 是 sample 產生的，給定相同的 s，產生的 a 可能不一樣
 		* environment 和 reward 是黑盒子：environment 和 reward 都不是 network，也都具有隨機性
+* Optimization: Policy Gradient
+	* 
