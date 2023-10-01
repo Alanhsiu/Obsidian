@@ -53,4 +53,19 @@
 		* Monte Carlo（MC） Based Approach：將 actor 拿去跟環境互動很多輪（episodes），得到一些遊戲的記錄（訓練資料）
 		* Temporal-Difference（TD） Approach：不需玩完整場遊戲（一個 episode）得到訓練資料。只要在看到 observation $s_t$， actor 執行 action $a_t$，得到 reward $r_t$，接下來再看到 observation $s_{t+1}$，就能夠更新一次 critic 參數。此方法對於很長的遊戲或玩不完的遊戲非常合適
 	* Deep Q Network（DQN）https://youtu.be/o_g9JUMw1Oc
-	* 
+* Reward Shaping
+	* Sparse Reward
+		* 問題： Sparse Reward 就是 reward 大多數情況都是 0，只有在少數情況是一個非常大的數值。意味著很多 actions 無從判斷是好是壞。例如圍棋到遊戲結束才會有 reward，過程中都沒有 reward。
+		* 解決：Reward Shaping 定義一些額外的 reward 來幫助 actor 學習。
+	* Curiosity
+		* Curiosity based reward shaping
+		* 基於好奇心，讓 actor 看到有意義的新東西時獲得 reward
+* No Reward：Imitation Learning
+	* 問題：
+		* 遊戲中雖然容易定義 reward，但在其他任務要定義 reward 很困難
+		* 人工設置一些 reward（reward shaping）教機器學時，若 reward 沒設定好，機器可能會產生奇怪、無法預期的行為
+	* 解決：沒有 reward 的狀況下，可使用 imitation learning
+	* Imitation Learning：在沒有 reward 的情況下訓練 actor
+		* 引入 expert（通常為人類）的示範。找很多 experts 跟環境互動，記錄互動的結果 $\hat{\tau}$，每個 $\hat{\tau}$ 代表一個 trajectory
+	* Behavior Cloning：類似於監督式學習，讓機器做出的 action 跟 export 做出的 action 越接近越好，又稱作 Behavior Cloning
+	* Inverse Reinforcement Learning：從 expert 的 demonstration，還有 environment 去反推 reward function，學出一個 reward function 後，再用一般的 RL 來訓練 actor
