@@ -21,3 +21,6 @@
 	4. 重複步驟 2. 和 3.
 	* generator 的參數是隨機初始化的，例如從高斯分布中 random sample 一堆 vector 丟到 generator，起初一些圖片會跟正常的二次元人物非常的不像
 	* 對於 discriminator 來說，這就是一個分類或是回歸問題。需要拿真正的二次元人物頭像跟 generator 產生出來的結果，去訓練 discriminator 來分辨他們的差異
+* Conditional Generation
+	* case 1: Text-to-Image
+	* 
