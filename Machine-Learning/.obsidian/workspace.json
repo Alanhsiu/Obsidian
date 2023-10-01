@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d46bc46e204844fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391014371ad6538d",
+  "active": "d46bc46e204844fc",
   "lastOpenFiles": [
     "ML 2021/04 Self Attention.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
