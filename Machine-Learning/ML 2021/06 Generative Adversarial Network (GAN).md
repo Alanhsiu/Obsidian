@@ -16,11 +16,18 @@
 	* 把 generator 的輸出（一個高維向量）輸入到 discriminator，discriminator 會產生一個數字 scalar，越大代表 generator 的輸出越真實越合理
 * Algorithm
 	1. 初始化 generator 與 discriminator
-	2. 固定 generator G，更新 discriminator D
-	3. 固定 discriminator D，更新 generator G
+	2. **固定 generator G，更新 discriminator D
+	3. **固定 discriminator D，更新 generator G**
 	4. 重複步驟 2. 和 3.
 	* generator 的參數是隨機初始化的，例如從高斯分布中 random sample 一堆 vector 丟到 generator，起初一些圖片會跟正常的二次元人物非常的不像
 	* 對於 discriminator 來說，這就是一個分類或是回歸問題。需要拿真正的二次元人物頭像跟 generator 產生出來的結果，去訓練 discriminator 來分辨他們的差異
 * Conditional Generation
 	* case 1: Text-to-Image
-	* 
+		* 操控 generator 的輸出，給它 condition x，再從一個簡單分布中抽樣 z，讓 generator 根據 x 和 z 來產生圖片 y​
+		* discriminator 不再只輸入圖片 y，它還要輸入 condition x。一方面圖片要好，另外一方面圖片跟文字的敘述必須要相配，discriminator 才會給高分
+	* case 2: Image Translation（pix2pix）
+		* 單純利用 supervised learning 訓練會造成輸出模糊，因為同樣的輸入可能對應到不一樣的輸出（同一個轉角，小精靈可能左轉也可能右轉，最後學到的就是同時左轉跟右轉）
+		* 單純利用 GAN 產生出來的圖片雖比較真實，但是問題是它的想像力過度豐富，出現不該出現的東西
+		* **結合 GAN 跟 supervised learning，測試上就可以有比較好的結果**
+	* case 3: Sound-to-Image
+	* case 4: 產生會動的圖像
