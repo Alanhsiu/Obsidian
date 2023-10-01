@@ -31,3 +31,14 @@
 		* **結合 GAN 跟 supervised learning，測試上就可以有比較好的結果**
 	* case 3: Sound-to-Image
 	* case 4: 產生會動的圖像
+* Learning from Unpaired Data
+	* 把 GAN 應用在 unsupervised learning 上，因為有時無法蒐集到成對的資料（稱為 unlabeled data）
+	* 影像風格轉換
+		* 套用原來的方法，但這邊將 sample 的對象從一個 simple distribution 改為 domain x，而 discriminater 利用 domain y 中的圖像做訓練，確保輸出圖片屬於 domain
+		* ![[Pasted image 20231001212421.png]]
+	* Cycle GAN
+		* 有一個循環，從 $x$ 到 $y$ 在從 $y$ 回到 $x$，是一個 cycle 所以叫做 Cycle GAN。利用這種架構，強迫 generator 輸出的 domain $y$ 圖片跟輸入的 domain $x$ 圖片有一些關係
+		* 增加第二個 generator，第一個 generator 的工作是把 $x$ 轉成 $y$，第二個 generator 的工作是要把 $y$ 還原回原來的 $x$，而 discriminator 的工作仍然是要看第一個 generator 的輸出像不像是 domain $y$ 的圖
+		* ![[Pasted image 20231001212551.png]]
+		* Cycle GAN 可以是雙向的，給橘色的 generator domain y 的圖片，讓它產生 domain x 的圖片，然後輸入到藍色的 generator 還原回原來 domain y 的圖片
+		* ![[Pasted image 20231001212619.png]]
