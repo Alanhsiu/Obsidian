@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d46bc46e204844fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -177,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46bc46e204844fc",
+  "active": "391014371ad6538d",
   "lastOpenFiles": [
     "ML 2021/04 Self Attention.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
