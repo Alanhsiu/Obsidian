@@ -16,7 +16,7 @@
 	2. Define "Loss"
 		* 1局遊戲 = 1個episode
 		* Reward：每個行為得到的反饋
-		* Return：整場遊戲得到的reward總和
+		* Return：整場遊戲得到的total reward
 		* Loss：**-R** (to maximize return)
 	3. Optimization
 		* 對環境的 observation $s_1$，會變成 actor 的輸入，actor 依此輸出 action $a_1$，$a_1$又作為環境的輸入，根據 $a_1$ 輸出 $s_2$，以此類推，直至滿足遊戲終止條件
@@ -24,7 +24,7 @@
 		* ![[Pasted image 20230927211259.png]]
 	* 目標：找到 actor 的一組參數，使得 $R(\tau)$ 越大越好
 	* 問題：
-		* actor 具有隨機性：由於 action 是 sample 產生的，給定相同的 s，產生的 a 可能不一樣
+		* actor (network) 具有隨機性：由於 action 是 sample 產生的，給定相同的 s，產生的 a 可能不一樣
 		* environment 和 reward 是黑盒子：environment 和 reward 都不是 network，也都具有隨機性
 * Optimization: **Policy Gradient**
 	* 如何控制 Actor
@@ -39,7 +39,7 @@
 		* Version 1（Cumulated Reward）：假設遊戲非常長，把 $r_N$ 歸功於 $a_1$ 也不合適
 		* Version 2（Discounted Cumulated Reward）：新增 discount factor $\gamma$（$\gamma$<1），離 $a_t$ 比較近的 reward 給予較大的權重，較遠的 reward 給予較小的權重，使較遠的 reward 影響較小
 		* Version 3（標準化：-b）：假設某一遊戲得到的 reward 永遠都是正的，只是有大有小不同，因此每個 G 都會是正的，就算某些行為是不好的，還是會鼓勵機器採取某些行為
-		* Version 3.5（b = value function）：訓練一個 critic，給一個 observation s，輸出 $V^\theta(s)$，讓 Version 3 的 b = $V^\theta(s)​$
+		* Version 3.5（b = value function）：訓練一個 critic，給一個 observation s，輸出 $V^\theta(s)$，讓 Version 3 的 b = $V^\theta(s)​$  
 		* Version 4（Advantage Actor-Critic）：在 observation $s_t$ 下，採取 action $a_t$ 到 $s_{t+1}$，考慮在 $s_{t+1}$ 下採取各種 action $a_{t+1}$ 的情况，並求所有 $G'_{t+1}$ 的平均值（期望值）。因為 **value function 意義上可以代表各種 action 的平均 discounted cumulated reward**，因此直接使用 $V^\theta(s_{t+1})$ 表示 $s_{t+1}$下各種 $a_{t+1}$ 得到的 $G'_{t+1}$的平均值（期望值），所以將 $G'_{t}$ 替換為 $r_t+V^\theta(s_{t+1})$ ⇒ $A_t=r_t+V^\theta(s_{t+1})-V^\theta(s_{t})$
 	* 訓練過程
 		1. 隨機初始化 actor，參數為 $\theta^0$

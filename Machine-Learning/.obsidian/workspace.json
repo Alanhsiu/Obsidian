@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/05 Transformer.md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           }
@@ -182,23 +181,22 @@
   },
   "active": "2524e1343b043171",
   "lastOpenFiles": [
+    "ML 2021/05 Transformer.md",
+    "ML 2021/attachments/Pasted image 20231002161800.png",
+    "ML 2021/attachments/Pasted image 20231002161743.png",
+    "ML 2021/attachments/Pasted image 20231002161012.png",
+    "ML 2021/attachments/Pasted image 20231002160923.png",
+    "ML 2021/attachments/Pasted image 20231002160705.png",
+    "ML 2021/attachments/Pasted image 20231002160414.png",
     "ML 2021/attachments/Pasted image 20231002155327.png",
     "ML 2021/attachments/Pasted image 20231002155317.png",
     "ML 2021/attachments/Pasted image 20231002154922.png",
     "ML 2021/attachments/Pasted image 20231002154400.png",
     "ML 2021/04 Self Attention.md",
-    "ML 2021/05 Transformer.md",
-    "ML 2021/attachments/Pasted image 20231002153656.png",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
-    "ML 2021/attachments/Pasted image 20231001212619.png",
-    "ML 2021/attachments/Pasted image 20231001212551.png",
-    "ML 2021/attachments/Pasted image 20231001212421.png",
-    "ML 2021/attachments/Pasted image 20231001194107.png",
-    "ML 2021/attachments/Pasted image 20231001193607.png",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/01 Overview.md",
     "9bf5c9a116f145158ba3f79dc4dc147c?pvs=25.md",
-    "ML 2021/attachments/Pasted image 20230927211259.png",
     "ML 2021/Untitled 1.md",
     "2023-09-26.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
