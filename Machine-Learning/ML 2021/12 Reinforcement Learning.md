@@ -69,3 +69,5 @@
 		* 引入 expert（通常為人類）的示範。找很多 experts 跟環境互動，記錄互動的結果 $\hat{\tau}$，每個 $\hat{\tau}$ 代表一個 trajectory
 	* Behavior Cloning：類似於監督式學習，讓機器做出的 action 跟 export 做出的 action 越接近越好，又稱作 Behavior Cloning
 	* Inverse Reinforcement Learning：從 expert 的 demonstration，還有 environment 去反推 reward function，學出一個 reward function 後，再用一般的 RL 來訓練 actor
+* 三種方法
+	* Policy - Actor-Critic - DQN
