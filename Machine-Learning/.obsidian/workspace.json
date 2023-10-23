@@ -44,14 +44,12 @@
             }
           },
           {
-            "id": "4c9e771d368a917c",
+            "id": "15f845dc1382ff53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -191,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c9e771d368a917c",
+  "active": "15f845dc1382ff53",
   "lastOpenFiles": [
     "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/12 Reinforcement Learning.md",
