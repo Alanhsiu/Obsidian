@@ -52,9 +52,33 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "8c086be28e91ee9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef52d19dc410f6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cadathlon/Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -128,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Cadathlon/Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Cadathlon/Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md"
+                "file": "Cadathlon/Problems.md"
               }
             }
           }
@@ -189,8 +214,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f845dc1382ff53",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
+    "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
+    "Cadathlon/Problems.md",
+    "Cadathlon",
+    "Untitled.canvas",
+    "2023-10-23.md",
+    "Untitled.md",
+    "Cadathlon/Untitled.md",
+    "Cadathlon",
     "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/05 Transformer.md",
@@ -217,23 +250,17 @@
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
-    "Untitled.md",
     "ML 2021/attachments",
     "ML 2021/Untitled.canvas",
     "Untitled 1.md",
     "ML 2021/ML 2021/Untitled.md",
     "ML 2021/ML 2021",
     "Pasted image 20230911122239.png.md",
-    "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "ML 2021",
     "TOEFL iBT/Key Sentences/Anthropology & Archaeology.md",
     "TOEFL iBT/Others/2023-07-15.md",
-    "TOEFL iBT/Others/2023-07-08.md",
     "TOEFL iBT/Others",
-    "Untitled.canvas",
     "TOEFL iBT/Key Sentences",
-    "TOEFL iBT",
-    "2023-07-07.md",
-    "1020 Delta Meeting.md"
+    "TOEFL iBT"
   ]
 }
