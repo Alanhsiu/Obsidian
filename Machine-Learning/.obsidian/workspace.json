@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "ESLab.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "ESLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "ESLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md"
+                "file": "ESLab.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   },
   "active": "2524e1343b043171",
   "lastOpenFiles": [
+    "ML 2021/12 Reinforcement Learning.md",
+    "ESLab.md",
     "2023-11-18.md",
     "2023-11-11.md",
     "2023-11-14.md",
@@ -194,7 +196,6 @@
     "Cadathlon/Untitled.md",
     "Cadathlon",
     "ML 2021/00 Pytorch tutorial.md",
-    "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/05 Transformer.md",
     "ML 2021/attachments/Pasted image 20231002161800.png",
     "ML 2021/attachments/Pasted image 20231002161743.png",
@@ -221,7 +222,6 @@
     "ML 2021/attachments",
     "ML 2021/Untitled.canvas",
     "Untitled 1.md",
-    "ML 2021/ML 2021/Untitled.md",
     "ML 2021/ML 2021",
     "ML 2021",
     "TOEFL iBT/Others",
