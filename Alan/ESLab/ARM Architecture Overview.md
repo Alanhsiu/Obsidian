@@ -9,11 +9,11 @@
 	* Used in **Intel/AMD**
 * RISC (Reduced Instruction Set Computer)
 	* Limited and simple instruction set
-		* fixed instruction format / **fixed instruction execution time**.
+		* fixed instruction format / **fixed instruction execution time**
 		* Arithmetic Logic Operations: register-to-register (不用動到memory)
 		* Specific load/store instructions
 	* Large number of **general purpose registers**.
-	* Emphasis on optimizing the **instruction pipeline**: increasing the processor clock frequency.
+	* Emphasis on optimizing the **instruction pipeline**: increasing the processor clock frequency
 	* Used in **ARM**
 * RISC vs CISC
 	* Many design borrow from both philosophies.
@@ -28,4 +28,8 @@
 	* M-profile (Microcontroller)
 		* **smallest/lowest power**
 		* **IoT devices**
-* 
+* **Architecture** 
+	* specifies what a processor will **behave**
+	* instruction set, register set, ...
+	* Architecture does not tell you how a processor is built and works
+	* **Micro-architecture** tells you how a processor **works**
