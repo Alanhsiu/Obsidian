@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/Overview of Embedded System Labs.md",
+                "file": "ESLab/1.1 Overview of Embedded System Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/ARM Architecture Overview.md",
+                "file": "ESLab/1.3 TCP IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac3ff5f5ffaf0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLab/ARM Architecture Overview.md",
+                "file": "ESLab/1.3 TCP IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESLab/ARM Architecture Overview.md",
+                "file": "ESLab/1.3 TCP IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLab/ARM Architecture Overview.md"
+                "file": "ESLab/1.3 TCP IP.md"
               }
             }
           }
@@ -164,13 +176,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "58904d6c576f3e04",
   "lastOpenFiles": [
-    "ESLab/Overview of Embedded System Labs.md",
-    "ESLab/ARM Architecture Overview.md",
+    "ESLab/1.2 ARM Architecture Overview.md",
+    "Template/Table.md",
+    "ESLab/1.3 TCP IP.md",
+    "ESLab/Untitled.md",
+    "Template",
+    "ESLab/1.1 Overview of Embedded System Labs.md",
     "Others/2023-11-14.md",
     "ML 2021/00 Pytorch tutorial.md",
     "WorldQuant/2023-11-11.md",
@@ -208,14 +225,10 @@
     "ML 2021/03 CNN.md",
     "2023-09-18.md",
     "2023-09-13.md",
-    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
-    "ML 2021/02 Deep Learning - Loss of Classification.md",
-    "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/attachments",
     "ML 2021/Untitled.canvas",
     "ML 2021/ML 2021",
     "ML 2021",
-    "TOEFL iBT/Others",
-    "TOEFL iBT/Key Sentences"
+    "TOEFL iBT/Others"
   ]
 }
