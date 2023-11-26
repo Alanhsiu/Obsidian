@@ -7,7 +7,7 @@
     "dashboard",
     "dot_relationship_line"
   ],
-  "textFontFamily": "PingFang TC",
+  "textFontFamily": "Georgia,Arial,PingFang TC",
   "interfaceFontFamily": "Microsoft Sans Serif,PingFang TC",
   "monospaceFontFamily": "PingFang TC",
   "theme": "obsidian"
