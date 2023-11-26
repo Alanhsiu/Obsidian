@@ -11,14 +11,11 @@
             "id": "759049f99cc53b49",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ESLab/Overview of Embedded System Labs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ESLab/Overview of Embedded System Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ESLab/Overview of Embedded System Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "ESLab/Overview of Embedded System Labs.md"
               }
             }
           }
@@ -159,22 +156,25 @@
   },
   "active": "759049f99cc53b49",
   "lastOpenFiles": [
-    "2023-11-18.md",
+    "Others/2023-11-14.md",
+    "ML 2021/00 Pytorch tutorial.md",
+    "ESLab/Overview of Embedded System Labs.md",
+    "WorldQuant/2023-11-11.md",
+    "ESLab",
+    "Cadathlon/Problems.md",
+    "Others",
     "Untitled.canvas",
-    "ESLab.md",
-    "2023-11-11.md",
-    "2023-11-14.md",
+    "WorldQuant/2023-11-18.md",
+    "WorldQuant",
     "ML 2021/04 Self Attention.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/12 Reinforcement Learning.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
-    "Cadathlon/Problems.md",
     "Cadathlon",
     "2023-10-23.md",
     "Untitled.md",
     "Cadathlon/Untitled.md",
     "Cadathlon",
-    "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/05 Transformer.md",
     "ML 2021/attachments/Pasted image 20231002161800.png",
     "ML 2021/attachments/Pasted image 20231002161743.png",
@@ -202,7 +202,6 @@
     "ML 2021/ML 2021",
     "ML 2021",
     "TOEFL iBT/Others",
-    "TOEFL iBT/Key Sentences",
-    "TOEFL iBT"
+    "TOEFL iBT/Key Sentences"
   ]
 }

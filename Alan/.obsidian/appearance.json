@@ -1,7 +1,7 @@
 {
   "accentColor": "#31a1dd",
   "baseFontSize": 21,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "Dracula for Obsidian",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "dashboard",
@@ -9,5 +9,6 @@
   ],
   "textFontFamily": "PingFang TC",
   "interfaceFontFamily": "Microsoft Sans Serif,PingFang TC",
-  "monospaceFontFamily": "PingFang TC"
+  "monospaceFontFamily": "PingFang TC",
+  "theme": "obsidian"
 }
