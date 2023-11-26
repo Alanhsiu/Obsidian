@@ -11,40 +11,18 @@
             "id": "759049f99cc53b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ML 2021/04 Self Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "391014371ad6538d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2524e1343b043171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-11.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-11.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-11.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-11.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -179,18 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2524e1343b043171",
+  "active": "759049f99cc53b49",
   "lastOpenFiles": [
-    "2023-11-14.md",
     "2023-11-18.md",
+    "Untitled.canvas",
     "ESLab.md",
-    "ML 2021/12 Reinforcement Learning.md",
     "2023-11-11.md",
+    "2023-11-14.md",
+    "ML 2021/04 Self Attention.md",
+    "ML 2021/06 Generative Adversarial Network (GAN).md",
+    "ML 2021/12 Reinforcement Learning.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Cadathlon/Problems.md",
-    "ML 2021/04 Self Attention.md",
     "Cadathlon",
-    "Untitled.canvas",
     "2023-10-23.md",
     "Untitled.md",
     "Cadathlon/Untitled.md",
@@ -207,7 +186,6 @@
     "ML 2021/attachments/Pasted image 20231002155317.png",
     "ML 2021/attachments/Pasted image 20231002154922.png",
     "ML 2021/attachments/Pasted image 20231002154400.png",
-    "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/01 Overview.md",
     "9bf5c9a116f145158ba3f79dc4dc147c?pvs=25.md",
     "ML 2021/Untitled 1.md",
@@ -221,7 +199,6 @@
     "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/attachments",
     "ML 2021/Untitled.canvas",
-    "Untitled 1.md",
     "ML 2021/ML 2021",
     "ML 2021",
     "TOEFL iBT/Others",
