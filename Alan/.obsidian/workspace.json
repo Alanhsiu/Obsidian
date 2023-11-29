@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ca1ec9db262d1d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESLab/7.1 PWM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "07c1e0972c4387b5",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLab/6.1 BLE Programming.md",
+                "file": "ESLab/7.1 PWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESLab/6.1 BLE Programming.md",
+                "file": "ESLab/7.1 PWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLab/6.1 BLE Programming.md"
+                "file": "ESLab/7.1 PWM.md"
               }
             }
           }
@@ -228,10 +240,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f01dac280c3cfc3a",
+  "active": "ca1ec9db262d1d98",
   "lastOpenFiles": [
-    "ESLab/5.1 BLE Introduction.md",
     "ESLab/6.1 BLE Programming.md",
+    "ESLab/7.1 PWM.md",
+    "ESLab/5.1 BLE Introduction.md",
     "ESLab/3.2 Serial Communication.md",
     "ESLab/2.1 ARM Mbed OS.md",
     "ESLab/5.2 Raspberry Pi.md",
@@ -264,7 +277,6 @@
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Cadathlon",
     "2023-10-23.md",
-    "Untitled.md",
     "Cadathlon",
     "ML 2021/attachments/Pasted image 20231002161800.png",
     "ML 2021/attachments/Pasted image 20231002161743.png",
