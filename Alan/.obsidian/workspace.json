@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/5.1 BLE Introduction.md",
+                "file": "ESLab/6.1 BLE Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/5.1 BLE Introduction.md",
+                "file": "ESLab/6.1 BLE Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLab/5.1 BLE Introduction.md",
+                "file": "ESLab/6.1 BLE Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESLab/5.1 BLE Introduction.md",
+                "file": "ESLab/6.1 BLE Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLab/5.1 BLE Introduction.md"
+                "file": "ESLab/6.1 BLE Programming.md"
               }
             }
           }
@@ -228,17 +228,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07c1e0972c4387b5",
+  "active": "f01dac280c3cfc3a",
   "lastOpenFiles": [
+    "ESLab/5.1 BLE Introduction.md",
+    "ESLab/6.1 BLE Programming.md",
     "ESLab/3.2 Serial Communication.md",
     "ESLab/2.1 ARM Mbed OS.md",
     "ESLab/5.2 Raspberry Pi.md",
     "ESLab/1.3 TCP IP.md",
     "ESLab/1.1 Overview of Embedded System Labs.md",
     "ESLab/1.2 ARM Architecture Overview.md",
-    "ESLab/6.1 BLE Programming.md",
     "ESLab/3.1 STM32 IoT Node Onboard Sensors.md",
-    "ESLab/5.1 BLE Introduction.md",
     "WorldQuant/2023-11-28.md",
     "ESLab/attachments/Pasted image 20231128004632.png",
     "ESLab/attachments/Pasted image 20231128003849.png",
