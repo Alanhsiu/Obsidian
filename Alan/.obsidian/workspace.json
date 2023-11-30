@@ -85,19 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/9.1 ARM Architecture.md",
+                "file": "ESLab/9.2 ARM Assembly.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09fd29be9f5fb076",
+            "id": "eb69d855d27bcd7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/9.2 ARM Assembly.md",
+                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLab/9.2 ARM Assembly.md",
+                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESLab/9.2 ARM Assembly.md",
+                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLab/9.2 ARM Assembly.md"
+                "file": "ESLab/10.1 IoT device connection via Serial Interface.md"
               }
             }
           }
@@ -288,10 +288,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09fd29be9f5fb076",
+  "active": "eb69d855d27bcd7c",
   "lastOpenFiles": [
-    "ESLab/9.1 ARM Architecture.md",
     "ESLab/9.2 ARM Assembly.md",
+    "ESLab/10.1 IoT device connection via Serial Interface.md",
+    "ESLab/9.1 ARM Architecture.md",
     "ESLab/1.2 ARM Architecture Overview.md",
     "ESLab/8.2 CMSIS-DSP Programming.md",
     "ESLab/8.1 Data Acquisition.md",
@@ -322,7 +323,6 @@
     "Cadathlon/Problems.md",
     "Others",
     "Untitled.canvas",
-    "WorldQuant/2023-11-18.md",
     "WorldQuant",
     "Cadathlon",
     "Cadathlon",
