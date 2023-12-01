@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
+                "file": "ESLab/1.1 Overview of Embedded System Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
+                "file": "ESLab/1.1 Overview of Embedded System Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
+                "file": "ESLab/1.1 Overview of Embedded System Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLab/10.1 IoT device connection via Serial Interface.md"
+                "file": "ESLab/1.1 Overview of Embedded System Labs.md"
               }
             }
           }
@@ -290,11 +290,11 @@
   },
   "active": "eb69d855d27bcd7c",
   "lastOpenFiles": [
+    "ESLab/10.1 IoT device connection via Serial Interface.md",
     "ESLab/attachments/Pasted image 20231201011016.png",
     "ESLab/3.2 Serial Communication.md",
     "ESLab/attachments/Pasted image 20231201010833.png",
     "ESLab/attachments/Pasted image 20231201010720.png",
-    "ESLab/10.1 IoT device connection via Serial Interface.md",
     "ESLab/9.2 ARM Assembly.md",
     "ESLab/9.1 ARM Architecture.md",
     "ESLab/1.2 ARM Architecture Overview.md",
@@ -333,7 +333,6 @@
     "ML 2021/attachments/Pasted image 20231002161012.png",
     "ML 2021/attachments/Pasted image 20231002160923.png",
     "ML 2021/attachments/Pasted image 20231002160705.png",
-    "ML 2021/attachments/Pasted image 20231002160414.png",
     "ML 2021/attachments",
     "ML 2021/Untitled.canvas",
     "ML 2021/ML 2021",
