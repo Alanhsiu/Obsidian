@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESLab/7.1 PWM.md",
+                "file": "ESLab/10.1 IoT device connection via Serial Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8705b4cc44d2f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ESLab/11.1 JTAG.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLab/7.1 PWM.md",
+                "file": "ESLab/11.1 JTAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESLab/7.1 PWM.md",
+                "file": "ESLab/11.1 JTAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLab/7.1 PWM.md"
+                "file": "ESLab/11.1 JTAG.md"
               }
             }
           }
@@ -288,13 +300,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb69d855d27bcd7c",
+  "active": "a8705b4cc44d2f51",
   "lastOpenFiles": [
-    "ESLab/8.1 Data Acquisition.md",
-    "ESLab/8.2 CMSIS-DSP Programming.md",
-    "ESLab/9.1 ARM Architecture.md",
-    "ESLab/9.2 ARM Assembly.md",
     "ESLab/10.1 IoT device connection via Serial Interface.md",
+    "ESLab/11.1 JTAG.md",
+    "ESLab/9.2 ARM Assembly.md",
+    "ESLab/9.1 ARM Architecture.md",
+    "ESLab/8.2 CMSIS-DSP Programming.md",
+    "ESLab/8.1 Data Acquisition.md",
     "ESLab/7.1 PWM.md",
     "ESLab/5.2 Raspberry Pi.md",
     "ESLab/6.1 BLE Programming.md",
