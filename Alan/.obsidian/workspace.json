@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "2023-12-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/05 Transformer.md"
+                "file": "2023-12-26.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "ML 2021/05 Transformer.md",
+    "2023-12-26.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "2023-12-08.md",
     "attachments/Pasted image 20231214220259.png",
@@ -189,8 +191,6 @@
     "ESLab/attachments/Pasted image 20231128003849.png",
     "ESLab/attachments",
     "Template/Table.md",
-    "ML 2021/03 CNN.md",
-    "ML 2021/02 Deep Learning - Loss of Classification.md",
     "Template",
     "ESLab",
     "Others",
