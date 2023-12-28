@@ -21,18 +21,17 @@
 	* 一般的 Seq2Seq 模型會分成 encoder 和 decoder，**encoder 負責處理輸入的序列，再把處理好的結果給 decoder 決定要輸出的序列**
 	* Encoder：
 		* 編碼器要做的事情就是給一排向量，輸出另外一排向量。
-		* 自注意力、循環神經網絡（Recurrent Neural Network，RNN）、卷積神經網路都能做到。
+		* 傳統方法：自注意力、循環神經網絡（Recurrent Neural Network，RNN）、卷積神經網路都能做到。
 		* ![[Pasted image 20231002154400.png]]
-		* Encoder 中會分成很多的 block，每一個 block 都是輸入一排向量，輸出一排向量。最後一個 block 會輸出最終的向量序列
-		* Encoder 的每個 block 並不是神經網絡的一層，在每個 block 中，輸入一排向量後做 Self-attention，考慮整個序列的信息，輸出另外一排向量。接下來這排向量會進到 FC，輸出另外一排向量，這一排向量就是一個 block 的輸出
+		* 傳統方法：Encoder 中會分成很多的 block，每一個 block 都是輸入一排向量，輸出一排向量。最後一個 block 會輸出最終的向量序列。Encoder 的每個 block 並不是神經網絡的一層，在每個 block 中，輸入一排向量後做 Self-attention，考慮整個序列的信息，輸出另外一排向量。接下來這排向量會進到 FC，輸出另外一排向量，這一排向量就是一個 block 的輸出
 		* ![[Pasted image 20231002154922.png]]
 	* Transformer 的 Encoder：
-		* 加入了 residual connection 和 layer normalization 的設計
+		* 加入了 residual connection & layer normalization 的設計 (Add & Norm)
 		* 步驟
-			1. 考慮全部向量經由 Self-attention 得到輸出向量 a，向量 a 加上其輸入向量 b 得到新的輸出，稱為 residual connection
+			1. 考慮全部向量經由 Self-attention 得到輸出向量 a，向量 a 加上其輸入向量 b 得到新的輸出，稱為 residual connection（每個子層的輸出加上其輸入）
 			2. 計算輸入向量 a+b 的 mean 和 standard deviation，做 layer normalization
 			3. 得到的輸出作為 FC 的輸入，FC 輸出結果和原輸入做 residual connection，再做一次 layer normalization 得到的輸出就是 Transformer Encoder 中一個 block 的一個輸出向量
-		* N 表示 N 個 block。首先在輸入需要加上 positional encoding。Multi-head attention 就屬 Self-attention。過後再做 residual connection 和 layer normalization，接下來還要經過 FC，接著再做一次 residual connection 和 layer normalization。如此是一個 block 的輸出，總共會重覆 N 次
+		* N 表示 N 個 block。首先在輸入需要加上 positional encoding（額外的機制來考慮元素的順序，cf. RNN直接是序列處理）。Multi-head attention 就屬 Self-attention。過後再做 residual connection 和 layer normalization，接下來還要經過 FC（Feed Forward: 包含兩個全連接層，其中間有一個激活函數，通常是 ReLU 或 GELU），接著再做一次 residual connection 和 layer normalization。如此是一個 block 的輸出，總共會重覆 N 次
 		* ![[Pasted image 20231002155317.png]]
 		* ![[Pasted image 20231002155327.png]]
 	* Decoder：
@@ -59,8 +58,8 @@
 			* NAT 的 decoder 的 performance 往往都比 AT 還差，原因：[Multi-Modality](https://youtu.be/jvyKmU4OM3c)
 	* Transformer 的 decoder：
 		* ![[Pasted image 20231002160923.png]]
-		* 除了中間的部分，encoder跟 decoder，並沒有甚麼差別。最後會再做一個 softmax，使得它的輸出變成一個機率分布，最主要差別是 decoder 的第一個 self-attention 是使用 masked multi-head attention
-		* Masked Multi-Head Attention：產生的輸出並不考慮”右邊“的部分，原因是因為 decoder 輸出原理是順次產生
+		* 除了中間的部分，encoder跟 decoder，並沒有甚麼差別。最後會再做一個 softmax，使得它的輸出變成一個機率分布，最主要差別是 decoder 的第一個 self-attention 是使用 **masked multi-head attention**
+		* Masked Multi-Head Attention：產生的輸出並不考慮”右邊“的部分，原因是因為 decoder 輸出原理是順次產生（確保在訓練時每個位置只能依賴於先前的位置）
 			* ![[Pasted image 20231002161012.png]]
 * Transformer 訓練過程
 	* 訓練資料：一段音頻與對應的文字，文字為 one-hot encoding 的向量
