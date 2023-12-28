@@ -1,4 +1,4 @@
-* concept
+* Concept
 	* **Forward propagation**: the process of computing predictions using a model
 	* **Backward propagation**: the calculation of gradients to update model parameters
 	*    ```x = torch.tensor([3.0])  
@@ -11,7 +11,7 @@
 			loss = loss_func(y, a * x)  -> forward
 			loss.backward()  -> backward
 			optimizer.step()```
-* code explanation
+* Code explanation
 	* `a.grad.zero_()`：在每個迭代步驟的開始，將 `a` 的梯度（`a.grad`）歸零。
 	* `with torch.no_grad():`：這是一個上下文管理器，用於指示 PyTorch 不要跟踪梯度變化。
 * Ref

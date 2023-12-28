@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "ML 2021/00 Pytorch tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "ML 2021/00 Pytorch tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "ML 2021/00 Pytorch tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/01 Overview.md"
+                "file": "ML 2021/00 Pytorch tutorial.md"
               }
             }
           }
@@ -157,6 +158,8 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "ML 2021/02 Deep Learning - General Guidance.md",
+    "ML 2021/01 Overview.md",
     "ML 2021/00 Pytorch tutorial.md",
     "2023-12-26.md",
     "attachments/Pasted image 20231226235026.png",
@@ -188,11 +191,9 @@
     "ESLab/5.1 BLE Introduction.md",
     "ESLab/1.2 ARM Architecture Overview.md",
     "ESLab/3.2 Serial Communication.md",
-    "ESLab/1.1 Overview of Embedded System Labs.md",
     "ESLab/attachments/Pasted image 20231201011016.png",
     "ESLab/attachments/Pasted image 20231201010833.png",
     "ESLab/attachments/Pasted image 20231201010720.png",
-    "WorldQuant/2023-11-28.md",
     "ESLab/attachments/Pasted image 20231128004632.png",
     "ESLab/attachments",
     "Template",
