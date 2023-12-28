@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-26.md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           }
@@ -157,10 +157,10 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
-    "2023-12-28.md",
-    "2023-12-26.md",
-    "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
+    "ML 2021/06 Generative Adversarial Network (GAN).md",
+    "2023-12-26.md",
+    "2023-12-28.md",
     "ML 2021/05 Transformer.md",
     "ML 2021/attachments/Pasted image 20231228184330.png",
     "ML 2021/04 Self Attention.md",
