@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "ML 2021/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "ML 2021/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "ML 2021/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-26.md"
+                "file": "ML 2021/01 Overview.md"
               }
             }
           }
@@ -151,18 +151,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "ML 2021/00 Pytorch tutorial.md",
+    "2023-12-26.md",
     "attachments/Pasted image 20231226235026.png",
     "attachments/Pasted image 20231226231922.png",
     "attachments/Pasted image 20231226231854.png",
     "attachments/Pasted image 20231226231833.png",
     "attachments/Pasted image 20231226231829.png",
     "ML 2021/05 Transformer.md",
-    "2023-12-26.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "2023-12-08.md",
     "attachments/Pasted image 20231214220259.png",
@@ -192,7 +194,6 @@
     "ESLab/attachments/Pasted image 20231201010720.png",
     "WorldQuant/2023-11-28.md",
     "ESLab/attachments/Pasted image 20231128004632.png",
-    "ESLab/attachments/Pasted image 20231128003849.png",
     "ESLab/attachments",
     "Template",
     "ESLab",
