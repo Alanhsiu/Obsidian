@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md"
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "2023-12-26.md",
@@ -188,7 +189,6 @@
     "ESLab/8.2 CMSIS-DSP Programming.md",
     "ESLab/9.2 ARM Assembly.md",
     "ESLab/10.1 IoT device connection via Serial Interface.md",
-    "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/Untitled.md",
     "ESLab/11.1 JTAG.md",
     "ESLab/attachments/Pasted image 20231201011016.png",
