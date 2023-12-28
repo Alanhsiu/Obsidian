@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/03 CNN.md",
+                "file": "ML 2021/05 Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/03 CNN.md",
+                "file": "ML 2021/05 Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/03 CNN.md",
+                "file": "ML 2021/05 Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/03 CNN.md"
+                "file": "ML 2021/05 Transformer.md"
               }
             }
           }
@@ -155,8 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af8b03a407d75688",
+  "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "ML 2021/04 Self Attention.md",
+    "ML 2021/05 Transformer.md",
+    "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
@@ -168,13 +171,11 @@
     "attachments/Pasted image 20231226231854.png",
     "attachments/Pasted image 20231226231833.png",
     "attachments/Pasted image 20231226231829.png",
-    "ML 2021/05 Transformer.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "2023-12-08.md",
     "attachments/Pasted image 20231214220259.png",
     "attachments",
     "2023-12-10.md",
-    "ML 2021/04 Self Attention.md",
     "ESLab/2.1 ARM Mbed OS.md",
     "ESLab/1.3 TCP IP.md",
     "ESLab/6.1 BLE Programming.md",
@@ -189,7 +190,6 @@
     "ESLab/11.1 JTAG.md",
     "ESLab/9.1 ARM Architecture.md",
     "ESLab/5.2 Raspberry Pi.md",
-    "ESLab/5.1 BLE Introduction.md",
     "ESLab/attachments/Pasted image 20231201011016.png",
     "ESLab/attachments/Pasted image 20231201010833.png",
     "ESLab/attachments/Pasted image 20231201010720.png",

@@ -13,7 +13,7 @@
 	* 一般而言，model bias 小、model 的 flexibility 很高的時候，比較容易 overfitting。fully connected layer 可以有各式各樣的變化，但是它可能沒有辦法在任何特定的任務上做好
 	* ![[Pasted image 20230912193836.png]]
 * Basic Definition
-	* 卷積層中有若干個 filters，每個 filter 可以“抓取”圖片中的某一種 pattern
+* 卷積層中有若干個 filters，每個 filter 可以“抓取”圖片中的某一種 pattern
 	* filter 的參數就是神經元中的 weight
 	* filter 的計算是“內積”
 	* 不同的 filter 掃過一張圖片，將會產生“新的圖片”，每個 filter 將會產生圖片中的一個 channel → feature map
