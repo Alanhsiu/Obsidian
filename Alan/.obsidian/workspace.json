@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "ML 2021/03 CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "ML 2021/03 CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "ML 2021/03 CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md"
+                "file": "ML 2021/03 CNN.md"
               }
             }
           }
@@ -156,8 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88df7dd6bfe23b80",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
+    "ML 2021/02 Deep Learning - Loss of Classification.md",
+    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/01 Overview.md",
     "ML 2021/00 Pytorch tutorial.md",
@@ -189,8 +190,6 @@
     "ESLab/9.1 ARM Architecture.md",
     "ESLab/5.2 Raspberry Pi.md",
     "ESLab/5.1 BLE Introduction.md",
-    "ESLab/1.2 ARM Architecture Overview.md",
-    "ESLab/3.2 Serial Communication.md",
     "ESLab/attachments/Pasted image 20231201011016.png",
     "ESLab/attachments/Pasted image 20231201010833.png",
     "ESLab/attachments/Pasted image 20231201010720.png",
