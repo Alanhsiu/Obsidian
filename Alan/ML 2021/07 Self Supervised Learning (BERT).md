@@ -4,19 +4,22 @@
 	* 把訓練資料分為兩部分，一部分為輸入資料、另一部分為標註資料
 	* ![[Pasted image 20230913100243.png]]
 * **BERT**
-	* 是一個 transformer 的 encoder
+	* 是一個 **transformer 的 encoder**
 	* 輸入一排向量，然後輸出另一排向量，輸出的長度與輸入的長度相同
 	* 訓練 BERT 有兩個任務，分別是 Masking Input 及 Next Sentence Prediction
 	* **Masking Input**
 		* 方法一：用一個特殊的 token “MASK” 蓋住句子中的一個詞
 		* 方法二：隨機把某一個字換成另一個字
 		* 兩種方法都可以使用，使用哪種方法也是隨機決定的
+		* 本質上就是在解決一個分類問題，BERT 要做的是預測什麼字被蓋住
 	* **Next Sentence Prediction**
 		* 在兩個句子之間添加一個特殊標記 [SEP]，代表兩句子的分隔，如此 BERT 就知道是兩個不同的句子，此外還會在句子的開頭添加另一個特殊標記 [CLS]
 		* 只看 [CLS] 的輸出，把它乘以一個 linear transform，做一個二分類問題，輸出 yes/no，判斷兩句是否前後連續
+		* 另一種更有用的方法叫做 Sentence Order Prediction，該方法選擇兩個句子本來就是連接在一起，但順序可能顛倒或沒有顛倒兩種可能性，BERT 要回答是哪一種可能性。（ALBERT）
 	* BERT 可以用於其他任務，這些任務不一定與填空有關， 它可能是完全不同的東西，這些任務是真正使用 BERT 的任務，其稱為 **downstream tasks**
 		* 預訓練（Pre-train）：產生 BERT 的過程
 		* 微調（Fine-tune）：利用一些特別的訊息，使 BERT 能夠完成某種任務
+		* GLUE 指標（General Language Understanding Evaluation）：測試 self-supervised 學習的能力
 		* eg. Sentiment analysis / POS tagging / Natural Language Inference (NLI) / Extraction-based Question Answering (QA)
 		* ![[Pasted image 20230913105423.png]]
 	* **Embedding**

@@ -64,7 +64,9 @@
 * Transformer 訓練過程
 	* 訓練資料：一段音頻與對應的文字，文字為 one-hot encoding 的向量
 	* 訓練過程：decoder 輸出的是機率分布，可以通過輸出的機率分布與 ground truth 之間的計算 cross entropy 並求梯度實現優化，使 cross entropy 的值越小越好
-	* ![[Pasted image 20231002161800.png]]
+		* ![[Pasted image 20231002161800.png]]
+		* Cross attention
+		  ![[Pasted image 20231228184330.png]]
 	* 在訓練 decoder 時，輸入的是正確答案（ground truth）而不是自己產生的答案，稱作 **Teacher Forcing**
 	* Seq2Seq 模型訓練技巧
 		* Copy Mechanism：decoder 沒有必要自己創造輸出，它需要做的事情是從輸入的資料中複製一些東西出來，而不是“創造詞彙”

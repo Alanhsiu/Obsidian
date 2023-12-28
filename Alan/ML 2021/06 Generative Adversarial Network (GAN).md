@@ -34,7 +34,7 @@
 * Learning from Unpaired Data
 	* 把 GAN 應用在 unsupervised learning 上，因為有時無法蒐集到成對的資料（稱為 unlabeled data）
 	* 影像風格轉換
-		* 套用原來的方法，但這邊將 sample 的對象從一個 simple distribution 改為 domain x，而 discriminater 利用 domain y 中的圖像做訓練，確保輸出圖片屬於 domain
+		* 套用原來的方法，但這邊將 sample 的對象從一個 simple distribution 改為 domain x，而 discriminator 利用 domain y 中的圖像做訓練，確保輸出圖片屬於 domain
 		* ![[Pasted image 20231001212421.png]]
 	* Cycle GAN
 		* 有一個循環，從 $x$ 到 $y$ 在從 $y$ 回到 $x$，是一個 cycle 所以叫做 Cycle GAN。利用這種架構，強迫 generator 輸出的 domain $y$ 圖片跟輸入的 domain $x$ 圖片有一些關係
