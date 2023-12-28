@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/05 Transformer.md",
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/05 Transformer.md"
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md"
               }
             }
           }
@@ -157,10 +157,10 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
-    "ML 2021/attachments/Pasted image 20231228184330.png",
     "ML 2021/07 Self Supervised Learning (BERT).md",
-    "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/05 Transformer.md",
+    "ML 2021/attachments/Pasted image 20231228184330.png",
+    "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/04 Self Attention.md",
     "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
@@ -193,7 +193,6 @@
     "ESLab/attachments/Pasted image 20231201011016.png",
     "ESLab/attachments/Pasted image 20231201010833.png",
     "ESLab/attachments/Pasted image 20231201010720.png",
-    "ESLab/attachments/Pasted image 20231128004632.png",
     "ESLab/attachments",
     "Template",
     "ESLab",
