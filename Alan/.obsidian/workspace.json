@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -157,10 +157,10 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "ML 2021/12 Reinforcement Learning.md",
+    "2023-12-26.md",
     "ML 2021/05 Transformer.md",
     "ML 2021/04 Self Attention.md",
-    "2023-12-26.md",
-    "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "2023-12-28.md",
