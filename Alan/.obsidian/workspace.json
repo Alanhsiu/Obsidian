@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de754902c071f0ec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de754902c071f0ec",
+  "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
