@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "2023-12-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md"
+                "file": "2023-12-26.md"
               }
             }
           }
@@ -151,23 +151,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "2023-12-08.md",
+    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
+    "ML 2021/02 Deep Learning - General Guidance.md",
+    "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/05 Transformer.md",
     "ML 2021/04 Self Attention.md",
-    "ML 2021/07 Self Supervised Learning (BERT).md",
     "2023-12-26.md",
     "ML 2021/12 Reinforcement Learning.md",
     "2023-12-28.md",
     "ML 2021/attachments/Pasted image 20231228184330.png",
     "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
-    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
-    "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/01 Overview.md",
     "ML 2021/00 Pytorch tutorial.md",
     "attachments/Pasted image 20231226235026.png",
@@ -175,7 +177,6 @@
     "attachments/Pasted image 20231226231854.png",
     "attachments/Pasted image 20231226231833.png",
     "attachments/Pasted image 20231226231829.png",
-    "2023-12-08.md",
     "attachments/Pasted image 20231214220259.png",
     "attachments",
     "2023-12-10.md",
