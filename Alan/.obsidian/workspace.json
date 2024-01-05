@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "336f58d4fab42227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "336f58d4fab42227",
+  "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
     "2024-01-03.md",
     "Untitled.md",
