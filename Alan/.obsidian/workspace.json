@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "2024-01-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "2024-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-26.md",
+                "file": "2024-01-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-26.md"
+                "file": "2024-01-06.md"
               }
             }
           }
@@ -157,9 +157,10 @@
   },
   "active": "88df7dd6bfe23b80",
   "lastOpenFiles": [
+    "2023-12-26.md",
+    "2024-01-06.md",
     "2024-01-03.md",
     "Untitled.md",
-    "2023-12-26.md",
     "2023-12-08.md",
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
@@ -190,7 +191,6 @@
     "ESLab/8.1 Data Acquisition.md",
     "ESLab/8.2 CMSIS-DSP Programming.md",
     "ESLab/9.2 ARM Assembly.md",
-    "ESLab/10.1 IoT device connection via Serial Interface.md",
     "ESLab/attachments/Pasted image 20231201011016.png",
     "ESLab/attachments/Pasted image 20231201010833.png",
     "ESLab/attachments/Pasted image 20231201010720.png",
