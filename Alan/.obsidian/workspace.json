@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-13.md",
+                "file": "2024-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-13.md",
+                "file": "2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-13.md",
+                "file": "2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-13.md"
+                "file": "2024-01-14.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "3141f665f5cf6b6d",
   "lastOpenFiles": [
-    "2024-01-10.md",
     "2024-01-13.md",
+    "2024-01-14.md",
+    "2024-01-10.md",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
     "Others/2023-12-26.md",
@@ -207,7 +208,6 @@
     "ESLab/1.3 TCP IP.md",
     "ESLab/6.1 BLE Programming.md",
     "ESLab/3.1 STM32 IoT Node Onboard Sensors.md",
-    "ESLab/7.1 PWM.md",
     "ESLab/attachments",
     "Template",
     "ESLab",
