@@ -6,7 +6,6 @@
       {
         "id": "51b6f162a384b04c",
         "type": "tabs",
-        "dimension": 45.92774035517452,
         "children": [
           {
             "id": "3141f665f5cf6b6d",
@@ -27,25 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "ML 2021/12 Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "16ccc75701569dd5",
-        "type": "tabs",
-        "dimension": 54.07225964482547,
-        "children": [
-          {
-            "id": "5151098741452ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speech Lab/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,7 +167,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5151098741452ffa",
+  "active": "3141f665f5cf6b6d",
   "lastOpenFiles": [
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "Speech Lab/2024-01-18.md",
