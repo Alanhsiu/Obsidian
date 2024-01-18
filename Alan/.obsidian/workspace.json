@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-06.md",
+                "file": "TOEFL/2024-01-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-06.md",
+                "file": "Speech Lab/2023-12-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-06.md",
+                "file": "Speech Lab/2023-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-06.md",
+                "file": "Speech Lab/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-06.md"
+                "file": "Speech Lab/2023-12-26.md"
               }
             }
           }
@@ -168,20 +168,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3141f665f5cf6b6d",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
-    "2024-01-10.md",
-    "2024-01-13.md",
-    "2024-01-14.md",
+    "Speech Lab/2024-01-18.md",
+    "Others/2024-01-10.md",
+    "Speech Lab/Untitled.md",
+    "Speech Lab/2023-12-26.md",
+    "TOEFL/2024-01-14.md",
+    "Others/2024-01-03.md",
+    "TOEFL/2024-01-13.md",
+    "TOEFL/2024-01-06.md",
+    "Others/2023-11-14.md",
+    "Others/2023-12-10.md",
+    "Others/2023-12-08.md",
+    "TOEFL/TOEFL Speaking.md",
+    "Speech Lab",
+    "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
-    "Others/2023-12-26.md",
-    "Others/2023-12-08.md",
     "TOEFL",
-    "Others/2023-12-10.md",
-    "Others/2024-01-03.md",
-    "2024-01-06.md",
-    "TOEFL/TOEFL Speaking.md",
     "Cadathlon/Problems.md",
     "attachments/Pasted image 20240106110750.png",
     "attachments/Pasted image 20240106110722.png",
@@ -204,10 +209,6 @@
     "attachments/Pasted image 20231226231833.png",
     "attachments/Pasted image 20231226231829.png",
     "attachments",
-    "ESLab/2.1 ARM Mbed OS.md",
-    "ESLab/1.3 TCP IP.md",
-    "ESLab/6.1 BLE Programming.md",
-    "ESLab/3.1 STM32 IoT Node Onboard Sensors.md",
     "ESLab/attachments",
     "Template",
     "ESLab",
@@ -216,7 +217,6 @@
     "WorldQuant",
     "Cadathlon",
     "Cadathlon",
-    "ML 2021/attachments",
     "ML 2021/Untitled.canvas"
   ]
 }
