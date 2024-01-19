@@ -4,8 +4,15 @@
 	* **Take me for example.**
 	* **So. That's the reason why.**
 * 課業方面
-	* 高中：
-		* When I was a senior student, I was preparing for my college entrance exams, which were very important to me. I often felt stressed when I was at school, and I would always watch TV to help me relax.
+	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
+* 修課&作業
+	* It helps students to broaden their horizons.
+	* I majored in electrical engineering.
+	* It helps me cultivate diverse interests and know more about the world.
+	* Just last week, my friends and I worked on a science project together.
+* 看電視
+	* I like to watch some channels like **National Geographic**. They showed us amazing places around the world and taught us about wildlife and different cultures.
+	* Working in a group means we learn how to talk and share ideas better. That's a really important skill.
 * 文法
 	* Prefer
 		* 直接+N: I prefer cake.
