@@ -1,7 +1,7 @@
 * TPO1 Speaking
 	* P2: Some people believe that television has had a positive influence on society. Others believe it has had a negative influence on society. Which do you agree with and why? Use details and examples to explain your opinion.
 	* Ans: Generally speaking, I believe that TV has a positive influence on society because that's what I learned from my experience. Take me for example, I used to watch TV shows after school, from cartoons to entertainment shows. It helps me release my pressure, and forget the bad things that happened during the day. Sometimes, I also watch some channels like National Geographic. They show us amazing places around the world and teach us about wildlife and different cultures. So, I think watching TV is beneficial to all of us.
-	* when i was a senior student, i was prepare my colledge student, it's an important test for me. I often feel stressed when i was at school. and i always watch tv to help me...
+	* When I was a senior student, I was preparing for my college entrance exams, which were very important to me. I often felt stressed when I was at school, and I would always watch TV to help me relax.
 * TPO2 Speaking
 	* P2: Some college students choose to take courses in a variety of subject areas in order to get a broad education. Others choose to focus on a single subject area in order to have a deeper understanding of that area. Which approach to course selection do you think is better for students and why?
 	* Ans: I think it's better for students to study different subjects. Because it helps students broaden their horizons. For example, I majored in electrical engineering, but I took various courses outside my major field, like economics. It helps me cultivate diverse interests and know more about the world. Besides, I like to learn many things because I am curious about the unknown fields. So that's the reason why.
@@ -12,4 +12,4 @@
 	* For example, when writing a plot 
 	* brainstorming
 	* specifically...
-* 高分助教可問：4篇整合寫作 / 6-8題口說第一題
+*  
