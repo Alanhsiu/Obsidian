@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/2024-01-13.md",
+                "file": "WorldQuant/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/2024-01-13.md",
+                "file": "WorldQuant/2023-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/2024-01-13.md",
+                "file": "WorldQuant/2023-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/2024-01-13.md"
+                "file": "WorldQuant/2023-11-11.md"
               }
             }
           }
@@ -169,21 +169,25 @@
   },
   "active": "3141f665f5cf6b6d",
   "lastOpenFiles": [
-    "TOEFL/2024-01-14.md",
-    "TOEFL/2024-01-13.md",
-    "TOEFL/2024-01-18.md",
+    "WorldQuant/2023-11-18.md",
+    "WorldQuant/2023-11-28.md",
+    "WorldQuant/2023-11-11.md",
+    "Template/Table.md",
     "Speech Lab/2024-01-18.md",
-    "ML 2021/07 Self Supervised Learning (BERT).md",
-    "ML 2021/12 Reinforcement Learning.md",
-    "Others/2024-01-10.md",
-    "ML 2021/05 Transformer.md",
-    "TOEFL/2024-01-06.md",
     "Speech Lab/2023-12-26.md",
-    "Speech Lab/Untitled.md",
+    "Others/2024-01-10.md",
     "Others/2024-01-03.md",
-    "Others/2023-11-14.md",
     "Others/2023-12-10.md",
     "Others/2023-12-08.md",
+    "Others/2023-11-14.md",
+    "TOEFL/2024-01-13.md",
+    "TOEFL/2024-01-14.md",
+    "TOEFL/2024-01-18.md",
+    "ML 2021/07 Self Supervised Learning (BERT).md",
+    "ML 2021/12 Reinforcement Learning.md",
+    "ML 2021/05 Transformer.md",
+    "TOEFL/2024-01-06.md",
+    "Speech Lab/Untitled.md",
     "TOEFL/TOEFL Speaking.md",
     "Speech Lab",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
@@ -197,11 +201,7 @@
     "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/04 Self Attention.md",
-    "2023-12-28.md",
     "ML 2021/attachments/Pasted image 20231228184330.png",
-    "ML 2021/03 CNN.md",
-    "ML 2021/02 Deep Learning - Loss of Classification.md",
-    "ML 2021/01 Overview.md",
     "attachments/Pasted image 20231226235026.png",
     "attachments/Pasted image 20231226231922.png",
     "attachments/Pasted image 20231226231854.png",
