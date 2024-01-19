@@ -5,12 +5,15 @@
 	* **So. That's the reason why.**
 * 課業方面
 	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
+	* **get refreshed after** ...
 * 修課&作業
 	* broaden their horizons.
 	* **I majored in electrical engineering**.
 	* cultivate diverse interests and know more about the world.
 	* Just last week, my friends and I worked on a challenging programming assignment together. It was awesome because we helped each other **figure out difficult parts** and **come up with more creative solutions**.
 	* teamwork also teaches us how to communicate with others efficiently, and that's an important skill to learn.
+* 工作方面
+	* 
 * 網路方面
 	* I prefer learning in a classroom **over** learning online because it helps me concentrate more.
 * 看電視
