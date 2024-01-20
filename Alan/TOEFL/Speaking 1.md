@@ -17,3 +17,7 @@
 	* Do you agree or disagree with the following statement? Why or why not? Use details and examples to explain your answer. Is it more important to study math or science than it is to study art or literature?
 	* I don't agree with ..., because both of them have advantages.
 	* feel refresh
+* TPO6 Speaking
+	* Some people have one career throughout their lives. Other people do different kinds of work at different points in their lives. Which do you think is better? Explain why.
+	* I am a person who likes to challenge new things.
+* TPO7 Spe

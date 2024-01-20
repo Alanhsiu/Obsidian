@@ -13,7 +13,8 @@
 	* Just last week, my friends and I worked on a challenging programming assignment together. It was awesome because we helped each other **figure out difficult parts** and **come up with more creative solutions**.
 	* teamwork also teaches us how to communicate with others efficiently, and that's an important skill to learn.
 * 工作方面
-	* 
+	* I majored in electrical engineering in college, so I started working as a software engineer immediately after graduation.
+	* After three years of doing the same thing, I found the job increasingly boring, so I switched my career to become a writer.
 * 網路方面
 	* I prefer learning in a classroom **over** learning online because it helps me concentrate more.
 * 看電視
