@@ -3,9 +3,12 @@
 	* ..., **because that's what I learned from my experience.**
 	* **Take me for example.**
 	* **So. That's the reason why.**
+* 轉折詞
+	* In contrast,
+	* As a result,
 * 個性方面
-	*  I am a person who enjoys challenging new things.
-	* For example, when most of my classmates chose to continue their graduate studies in Taiwan, I decided to study in the United States. Although it was full of unknown adventures, I felt I could grow more when I stepped out of my comfort zone, and also broaden my horizons.
+	*  **I am a person who enjoys embracing new challenges.**
+	* For example, when most of my classmates chose to continue their graduate studies in Taiwan, I decided to study in the United States. Although it was full of unknown adventures, it could broaden my horizons. And I felt I could grow more when I stepped out of my comfort zone.
 * 課業方面
 	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
 	* **get refreshed after** ...
