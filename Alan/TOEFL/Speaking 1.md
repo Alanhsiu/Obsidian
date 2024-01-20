@@ -23,3 +23,6 @@
 * TPO7
 	* Q: Learning through online courses is more effective than learning in the traditional classroom setting.
 	* there are more interactions in traditional classrooms than in online courses.
+* TPO8
+	* Q: Some people enjoy taking risks and trying new things. Others are not adventurous; they are cautious and prefer to avoid danger.
+	* I am someone who enjoys challenging new things. For example, when everyone else chose to continue their graduate studies in Taiwan, I decided to study in the United States. Although it was full of unknown adventures, I felt that it would allow me to grow more. This decision not only broadened my academic horizons but also exposed me to diverse cultures and perspectives. Navigating through a different educational system and lifestyle, I learned to be more adaptable and independent. It was a journey that transformed my worldview and enhanced my ability to tackle challenges head-on.
