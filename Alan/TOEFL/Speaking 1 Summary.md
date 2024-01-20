@@ -11,7 +11,10 @@
 	*  **I am a person who enjoys embracing new challenges.**
 	* For example, when most of my classmates chose to continue their graduate studies in Taiwan, I decided to study in the United States. Although it was full of unknown adventures, it could broaden my horizons. And I felt I could grow more when I stepped out of my comfort zone.
 * 語言方面
-	* 
+	* speak clearly and fluently
+	* deliver my ideas effectively
+	* master my English abilities
+	* practice English 3 hours a day for 6 moths
 * 課業方面
 	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
 	* **get refreshed after** ...
