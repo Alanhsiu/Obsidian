@@ -1,6 +1,7 @@
 * 萬用句
 	* (Generally speaking,) **I believe that** 
 	* ..., **because that's what I learned from my experience.**
+	* because it is beneficial to us.
 	* **Take me for example.**
 	* **So. That's the reason why.**
 * 轉折詞
@@ -12,6 +13,7 @@
 * 課業方面
 	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
 	* **get refreshed after** ...
+	* I could **be more concentrated on** class.
 * 修課&作業
 	* broaden their horizons.
 	* **I majored in electrical engineering**.

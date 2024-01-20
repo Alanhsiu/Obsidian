@@ -13,13 +13,17 @@
 *  TPO4
 	* Many universities now offer academic courses over the Internet. However, some people still prefer learning in traditional classrooms. Which do you think is better? Explain why.
 	* I prefer learning in a classroom over learning online. Take me, for example. **I often found myself getting distracted when sitting in front of the computer.** In contrast, I could more concentrate when I was in the classroom. Because traditional classrooms offer more interactions with classmates and teachers. We can discuss with each other face-to-face. Besides, if I have any questions in a classroom, I can **simply raise my hand and ask them**.
+	* I could **be more concentrated on** class.
+	* I could catch what their feeling more when face-to-face discussions.
 * TPO5
 	* Do you agree or disagree with the following statement? Why or why not? Use details and examples to explain your answer. Is it more important to study math or science than it is to study art or literature?
 	* I don't agree with ..., because both of them have advantages.
-	* feel refresh
+	* feel refreshed
 * TPO6
 	* Some people have one career throughout their lives. Other people do different kinds of work at different points in their lives. Which do you think is better? Explain why.
 	* I am a person who likes to challenge new things.
+	* I should move on to the next challenging things.
+	* Everyone should dig into their habits.
 * TPO7
 	* Q: Learning through online courses is more effective than learning in the traditional classroom setting.
 	* there are more interactions in traditional classrooms than in online courses.
@@ -31,4 +35,6 @@
 	* For example, many of my friends like to play basketball and watch the NBA, and **as a result**, I've also become interested in the sport.
 	* **In contrast,** the influence of family is relatively smaller because we spend less time together.
 * TPO10
-	* 
+	* All children should be required to learn a second language in school.
+	* because it is beneficial to us.
+	* when I went to the United States last year, 
