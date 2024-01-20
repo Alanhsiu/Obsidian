@@ -38,3 +38,5 @@
 	* All children should be required to learn a second language in school.
 	* because it is beneficial to us.
 	* when I went to the United States last year, 
+	* broaden my horizons
+	* Much information online is written in English, so that is important.
