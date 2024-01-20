@@ -12,7 +12,7 @@
 	* brainstorming
 *  TPO4
 	* Many universities now offer academic courses over the Internet. However, some people still prefer learning in traditional classrooms. Which do you think is better? Explain why.
-	* I prefer learning in a classroom over learning online. Take me, for example. **During the pandemic, I often found myself getting distracted when sitting in front of the computer.** In contrast, traditional classrooms offer more interactions with classmates and teachers. We can discuss with each other face-to-face. Besides, if I have any questions in a classroom, I can **simply raise my hand and ask them**.
+	* I prefer learning in a classroom over learning online. Take me, for example. **I often found myself getting distracted when sitting in front of the computer.** In contrast, I could more concentrate when I was in the classroom. Because traditional classrooms offer more interactions with classmates and teachers. We can discuss with each other face-to-face. Besides, if I have any questions in a classroom, I can **simply raise my hand and ask them**.
 * TPO5
 	* Do you agree or disagree with the following statement? Why or why not? Use details and examples to explain your answer. Is it more important to study math or science than it is to study art or literature?
 	* I don't agree with ..., because both of them have advantages.
@@ -22,4 +22,4 @@
 	* I am a person who likes to challenge new things.
 * TPO7
 	* Q: Learning through online courses is more effective than learning in the traditional classroom setting.
-	* 
+	* there are more interactions in traditional classrooms than in online courses.

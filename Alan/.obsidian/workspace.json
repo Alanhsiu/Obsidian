@@ -6,7 +6,7 @@
       {
         "id": "51b6f162a384b04c",
         "type": "tabs",
-        "dimension": 63.34149326805385,
+        "dimension": 57.72921108742004,
         "children": [
           {
             "id": "3141f665f5cf6b6d",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "TOEFL/Speaking 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "d3d19c7930f66fe4",
         "type": "tabs",
-        "dimension": 36.65850673194615,
+        "dimension": 42.27078891257996,
         "children": [
           {
             "id": "8e465a2d633a4b5f",
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "TOEFL/Speaking 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "TOEFL/Speaking 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Lab/2024-01-18.md"
+                "file": "TOEFL/Speaking 1.md"
               }
             }
           }
@@ -177,18 +178,18 @@
   },
   "active": "3141f665f5cf6b6d",
   "lastOpenFiles": [
-    "ML 2021/12 Reinforcement Learning.md",
-    "Speech Lab/2024-01-18.md",
     "TOEFL/Speaking 1 Summary.md",
     "TOEFL/Speaking 1.md",
-    "TOEFL/題型.md",
+    "Speech Lab/2024-01-18.md",
     "TOEFL/2024-01-14.md",
+    "Speech Lab/2023-12-26.md",
+    "ML 2021/12 Reinforcement Learning.md",
+    "TOEFL/題型.md",
     "TOEFL/2024-01-18.md",
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-28.md",
     "Template/Table.md",
-    "Speech Lab/2023-12-26.md",
     "Others/2024-01-10.md",
     "Others/2024-01-03.md",
     "Others/2023-12-10.md",
