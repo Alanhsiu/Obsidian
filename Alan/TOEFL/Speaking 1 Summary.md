@@ -17,6 +17,7 @@
 	* After three years of doing the same thing, I found the job increasingly boring, so I switched my career to become a writer.
 * 網路方面
 	* I prefer learning in a classroom **over** learning online because it helps me concentrate more.
+	* Online courses are indeed more convenient for us, but they lack face-to-face interaction.
 * 看電視
 	* I like to watch some channels like **National Geographic**. They showed us amazing places around the world and taught us about wildlife and different cultures.
 	* Working in a group means we learn how to talk and share ideas better. That's a really important skill.

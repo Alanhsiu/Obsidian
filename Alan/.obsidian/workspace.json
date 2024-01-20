@@ -6,7 +6,7 @@
       {
         "id": "51b6f162a384b04c",
         "type": "tabs",
-        "dimension": 46.74840085287846,
+        "dimension": 63.34149326805385,
         "children": [
           {
             "id": "3141f665f5cf6b6d",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Speaking 1.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "d3d19c7930f66fe4",
         "type": "tabs",
-        "dimension": 53.25159914712153,
+        "dimension": 36.65850673194615,
         "children": [
           {
             "id": "8e465a2d633a4b5f",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/TOEFL Speaking P1.md",
+                "file": "TOEFL/Speaking 1 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Speaking 1.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Speaking 1.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Speaking 1.md"
+                "file": "Speech Lab/2024-01-18.md"
               }
             }
           }
@@ -178,7 +177,9 @@
   },
   "active": "3141f665f5cf6b6d",
   "lastOpenFiles": [
-    "TOEFL/TOEFL Speaking P1.md",
+    "ML 2021/12 Reinforcement Learning.md",
+    "Speech Lab/2024-01-18.md",
+    "TOEFL/Speaking 1 Summary.md",
     "TOEFL/Speaking 1.md",
     "TOEFL/題型.md",
     "TOEFL/2024-01-14.md",
@@ -187,7 +188,6 @@
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-28.md",
     "Template/Table.md",
-    "Speech Lab/2024-01-18.md",
     "Speech Lab/2023-12-26.md",
     "Others/2024-01-10.md",
     "Others/2024-01-03.md",
@@ -195,7 +195,6 @@
     "Others/2023-12-08.md",
     "Others/2023-11-14.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
-    "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/05 Transformer.md",
     "Speech Lab/Untitled.md",
     "Speech Lab",
