@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-21.md",
+                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physical Design/Chap 1 - Introduction.md",
+                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Design/Chap 1 - Introduction.md",
+                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physical Design/Chap 1 - Introduction.md",
+                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physical Design/Chap 1 - Introduction.md"
+                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md"
               }
             }
           }
@@ -314,12 +314,12 @@
   },
   "active": "df78e925088ca9a6",
   "lastOpenFiles": [
-    "Physical Design/Chap 2 -.md",
-    "2024-01-21.md",
-    "IC Design/Appendix..md",
+    "Interview",
     "Physical Design/Chap 1 - Introduction.md",
+    "Physical Design/Chap 2 -.md",
+    "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+    "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
-    "Untitled",
     "IC Design/Chap 4 - Power.md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
@@ -342,7 +342,6 @@
     "TOEFL/2024-01-18.md",
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
-    "WorldQuant/2023-11-28.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
