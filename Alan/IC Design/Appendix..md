@@ -2,4 +2,4 @@
 	* Levels of Abstraction
 		* Behavioral 
 		* Register Transfer Level (RTL)
-		* Structural: G
+		* Structural: gate-level, switch-level circuits.

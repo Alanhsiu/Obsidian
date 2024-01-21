@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC Design/Appendix..md",
+                "file": "IC Design/Chap. 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Appendix..md",
+                "file": "IC Design/Chap. 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Appendix..md",
+                "file": "IC Design/Chap. 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Appendix..md"
+                "file": "IC Design/Chap. 0.md"
               }
             }
           }
@@ -182,10 +182,10 @@
   },
   "active": "3a34e65956d2b710",
   "lastOpenFiles": [
+    "IC Design/Appendix..md",
     "Physical Design",
     "IC Design/Untitled 2.md",
-    "IC Design/Appendix..md",
-    "IC Design/Untitled 1.md",
+    "IC Design/Chap. 0.md",
     "IC Design",
     "TOEFL/Speaking 1.md",
     "TOEFL/Speaking 1 Summary.md",
@@ -228,7 +228,6 @@
     "Others",
     "Untitled.canvas",
     "WorldQuant",
-    "Cadathlon",
     "ML 2021/Untitled.canvas"
   ]
 }
