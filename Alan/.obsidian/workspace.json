@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4b9ce6857228fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC Design/Chap 9 - Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Chap 8 - Datapath.md",
+                "file": "IC Design/Chap 9 - Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Chap 8 - Datapath.md",
+                "file": "IC Design/Chap 9 - Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Chap 8 - Datapath.md"
+                "file": "IC Design/Chap 9 - Memory.md"
               }
             }
           }
@@ -264,8 +276,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e921cb2e5847a42",
+  "active": "b4b9ce6857228fde",
   "lastOpenFiles": [
+    "IC Design/Chap 8 - Datapath.md",
+    "IC Design/Chap 9 - Memory.md",
+    "IC Design/Chap 0 - IC.md",
     "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
     "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
     "IC Design/Chap 5 - Wires.md",
@@ -273,8 +288,6 @@
     "IC Design/Chap 3 - Delay.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Chap 1 - Introduction.md",
-    "IC Design/Chap 0 - IC.md",
-    "IC Design/Chap 8 - Datapath.md",
     "IC Design/Appendix..md",
     "Physical Design",
     "IC Design",
@@ -293,7 +306,6 @@
     "Others/2024-01-10.md",
     "Others/2024-01-03.md",
     "Others/2023-12-10.md",
-    "Others/2023-12-08.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
