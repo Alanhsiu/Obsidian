@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c4d91c4c1ec12b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC Design/Chap 3 - Delay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Chap 2 -  Devices and Layouts.md",
+                "file": "IC Design/Chap 3 - Delay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Chap 2 -  Devices and Layouts.md",
+                "file": "IC Design/Chap 3 - Delay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Chap 2 -  Devices and Layouts.md"
+                "file": "IC Design/Chap 3 - Delay.md"
               }
             }
           }
@@ -192,11 +204,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "606296c07c4e315d",
+  "active": "6c4d91c4c1ec12b8",
   "lastOpenFiles": [
+    "IC Design/Chap 2 -  Devices and Layouts.md",
+    "IC Design/Chap 3 - Delay.md",
     "IC Design/Chap 1 - Introduction.md",
     "IC Design/Chap 0 - IC.md",
-    "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Appendix..md",
     "Physical Design",
     "IC Design",
@@ -225,7 +238,6 @@
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
     "TOEFL",
-    "Cadathlon/Problems.md",
     "attachments/Pasted image 20240106110750.png",
     "attachments/Pasted image 20240106110722.png",
     "ML 2021/attachments/Pasted image 20231228184330.png",
