@@ -30,6 +30,7 @@
 	* I majored in electrical engineering in college and started working as a software engineer immediately after graduation.
 	* After three years of doing the same thing, I found the job increasingly boring, so I switched my career to become a writer.
 	* decent job with decent pay
+	* Internships can help me accumulate **hands-on experience**.
 * 網路方面
 	* I prefer learning in a classroom **over** learning online because it helps me concentrate more.
 	* Online courses are indeed more convenient for us, but they lack face-to-face interaction.
