@@ -11,4 +11,3 @@
 * ROM
 	* NOR type: fast (pseudo-nMOS)
 	* NAND type: small (no ground lines)
-	* 
