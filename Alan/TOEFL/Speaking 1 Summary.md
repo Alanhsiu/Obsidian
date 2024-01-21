@@ -26,7 +26,7 @@
 	* Just last week, my friends and I worked on a challenging programming assignment together. It was awesome because we helped each other **figure out difficult parts** and **come up with more creative solutions**.
 	* teamwork also teaches us how to communicate with others efficiently, and that's an important skill to learn.
 * 工作方面
-	* I majored in electrical engineering in college, so I started working as a software engineer immediately after graduation.
+	* I majored in electrical engineering in college and started working as a software engineer immediately after graduation.
 	* After three years of doing the same thing, I found the job increasingly boring, so I switched my career to become a writer.
 	* decent job with decent pay
 * 網路方面
@@ -34,7 +34,7 @@
 	* Online courses are indeed more convenient for us, but they lack face-to-face interaction.
 * 看電視
 	* I like to watch some channels like **National Geographic**. They showed us amazing places around the world and taught us about wildlife and different cultures.
-	* Working in a group means we learn how to talk and share ideas better. That's a really important skill.
+	* Working in a group means learning to talk and share ideas better. That's a really important skill.
 * 文法
 	* Prefer
 		* 直接+N: I prefer cake.
