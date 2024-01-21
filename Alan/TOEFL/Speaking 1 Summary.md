@@ -14,7 +14,7 @@
 	* speak clearly and fluently
 	* deliver my ideas effectively
 	* master my English abilities
-	* practice English 3 hours a day for 6 moths
+	* practice English 3 hours a day for 6 months
 * 課業方面
 	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
 	* **get refreshed after** ...
@@ -28,6 +28,7 @@
 * 工作方面
 	* I majored in electrical engineering in college, so I started working as a software engineer immediately after graduation.
 	* After three years of doing the same thing, I found the job increasingly boring, so I switched my career to become a writer.
+	* decent job with decent pay
 * 網路方面
 	* I prefer learning in a classroom **over** learning online because it helps me concentrate more.
 	* Online courses are indeed more convenient for us, but they lack face-to-face interaction.
