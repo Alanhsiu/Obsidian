@@ -6,3 +6,9 @@
 		* Shift Registers: SIPO / PISO
 		* Queue: FIFO / LIFO
 	* Content Addressable Memory (CAM)
+* Dynamic RAM
+	* periodically refresh
+* ROM
+	* NOR type: fast (pseudo-nMOS)
+	* NAND type: small (no ground lines)
+	* 
