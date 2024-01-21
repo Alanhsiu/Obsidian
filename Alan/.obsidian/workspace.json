@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90c04dcf091d0d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md"
+                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md"
               }
             }
           }
@@ -312,14 +324,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df78e925088ca9a6",
+  "active": "90c04dcf091d0d8d",
   "lastOpenFiles": [
+    "Physical Design/Chap 1 - Introduction.md",
+    "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+    "ISPD/CUDA Programming.md",
+    "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
     "Interview/attachments",
     "Interview",
-    "Physical Design/Chap 1 - Introduction.md",
-    "Physical Design/Chap 2 -.md",
-    "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+    "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
     "IC Design/Chap 4 - Power.md",
@@ -343,7 +357,6 @@
     "TOEFL/題型.md",
     "TOEFL/2024-01-18.md",
     "WorldQuant/2023-11-18.md",
-    "WorldQuant/2023-11-11.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
@@ -355,11 +368,9 @@
     "attachments/Pasted image 20231226231922.png",
     "attachments/Pasted image 20231226231854.png",
     "attachments/Pasted image 20231226231833.png",
-    "attachments/Pasted image 20231226231829.png",
     "attachments",
     "ESLab/attachments",
     "Template",
-    "ESLab",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
   ]
