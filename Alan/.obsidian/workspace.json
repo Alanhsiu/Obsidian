@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC Design/Appendix..md",
+                "file": "IC Design/Chap 4 - Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Appendix..md",
+                "file": "IC Design/Chap 4 - Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Appendix..md",
+                "file": "IC Design/Chap 4 - Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Appendix..md"
+                "file": "IC Design/Chap 4 - Power.md"
               }
             }
           }
@@ -290,6 +290,7 @@
   },
   "active": "8ab884856dfbbc89",
   "lastOpenFiles": [
+    "IC Design/Appendix..md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
     "IC Design/Chap 8 - Datapath.md",
@@ -301,7 +302,6 @@
     "IC Design/Chap 3 - Delay.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Chap 1 - Introduction.md",
-    "IC Design/Appendix..md",
     "Physical Design",
     "IC Design",
     "TOEFL/Speaking 1.md",
