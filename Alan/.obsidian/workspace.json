@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC Design/Chap 4 - Power.md",
+                "file": "IC Design/Appendix..md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Chap 4 - Power.md",
+                "file": "IC Design/Appendix..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Chap 4 - Power.md",
+                "file": "IC Design/Appendix..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Chap 4 - Power.md"
+                "file": "IC Design/Appendix..md"
               }
             }
           }
@@ -290,6 +290,7 @@
   },
   "active": "8ab884856dfbbc89",
   "lastOpenFiles": [
+    "IC Design/Chap 4 - Power.md",
     "IC Design/Appendix..md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
@@ -298,7 +299,6 @@
     "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
     "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
     "IC Design/Chap 5 - Wires.md",
-    "IC Design/Chap 4 - Power.md",
     "IC Design/Chap 3 - Delay.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Chap 1 - Introduction.md",
