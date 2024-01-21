@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC Design/Chap 1 Introduction.md",
+                "file": "IC Design/Chap 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC Design/Chap 2 Devices and Layouts.md",
+                "file": "IC Design/Chap 2 -  Devices and Layouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Chap 2 Devices and Layouts.md",
+                "file": "IC Design/Chap 2 -  Devices and Layouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Chap 2 Devices and Layouts.md",
+                "file": "IC Design/Chap 2 -  Devices and Layouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Chap 2 Devices and Layouts.md"
+                "file": "IC Design/Chap 2 -  Devices and Layouts.md"
               }
             }
           }
@@ -194,9 +194,9 @@
   },
   "active": "606296c07c4e315d",
   "lastOpenFiles": [
-    "IC Design/Chap 1 Introduction.md",
-    "IC Design/Chap 2 Devices and Layouts.md",
-    "IC Design/Chap 0 IC.md",
+    "IC Design/Chap 1 - Introduction.md",
+    "IC Design/Chap 0 - IC.md",
+    "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Appendix..md",
     "Physical Design",
     "IC Design",
