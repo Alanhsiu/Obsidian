@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "300ba9063d027bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC Design/Chap 5 - Wires.md",
+                "file": "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC Design/Chap 5 - Wires.md",
+                "file": "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC Design/Chap 5 - Wires.md"
+                "file": "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md"
               }
             }
           }
@@ -228,10 +240,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f73623947dee444e",
+  "active": "300ba9063d027bea",
   "lastOpenFiles": [
-    "IC Design/Chap 4 - Power.md",
     "IC Design/Chap 5 - Wires.md",
+    "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
+    "IC Design/Chap 4 - Power.md",
     "IC Design/Chap 3 - Delay.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Chap 1 - Introduction.md",
@@ -257,7 +270,6 @@
     "Others/2023-12-08.md",
     "Others/2023-11-14.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
-    "ML 2021/05 Transformer.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
