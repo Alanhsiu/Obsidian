@@ -13,8 +13,9 @@
 * 語言方面
 	* **speak clearly and fluently**
 	* deliver my ideas effectively
-	* master my English abilities
+	* **master** my English abilities
 	* practice English 3 hours a day for 6 months
+	* I got 100 out of 120 on my TOEFL test.
 * 課業方面
 	* As a senior high school student, I was preparing for my **college entrance exams**, which were very important to me. I often felt stressed at school, and I always watched TV to help me relax after school.
 	* **get refreshed after** ...
