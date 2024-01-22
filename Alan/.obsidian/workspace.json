@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c791d3285b17db71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Interview/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Interview/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-22.md"
+                "file": "Interview/Introduction.md"
               }
             }
           },
@@ -150,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b23af8c13ff23ddb",
+  "active": "c791d3285b17db71",
   "lastOpenFiles": [
-    "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
-    "2024-01-22.md",
+    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
+    "Interview/Introduction.md",
+    "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
@@ -196,7 +211,6 @@
     "TOEFL/Speaking 1.md",
     "TOEFL/Speaking 1 Summary.md",
     "Speech Lab/2024-01-18.md",
-    "TOEFL/2024-01-14.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
