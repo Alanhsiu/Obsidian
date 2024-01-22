@@ -3,4 +3,4 @@
 	* Geometric matching
 	* Exact zero skew
 	* Lagrangian relaxation
-* Ellmore Delay 
+* Elmore Delay 
