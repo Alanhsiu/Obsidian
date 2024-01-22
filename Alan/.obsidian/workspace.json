@@ -198,9 +198,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88a800c25a6fc95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Design/Chap 4 - Floorplanning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c123d0de21c756cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Design/Chap 5 - Placement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -274,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Design/Chap 3 - Partitioning.md",
+                "file": "Physical Design/Chap 5 - Placement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physical Design/Chap 3 - Partitioning.md",
+                "file": "Physical Design/Chap 5 - Placement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physical Design/Chap 3 - Partitioning.md"
+                "file": "Physical Design/Chap 5 - Placement.md"
               }
             }
           }
@@ -336,10 +360,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbe531e7a418942f",
+  "active": "c123d0de21c756cf",
   "lastOpenFiles": [
-    "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
+    "Physical Design/Chap 4 - Floorplanning.md",
+    "Physical Design/Chap 5 - Placement.md",
     "Physical Design/Chap 3 - Partitioning.md",
+    "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "Physical Design/Chap 1 - Introduction.md",
     "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
     "ISPD/CUDA Programming.md",
@@ -368,8 +394,6 @@
     "Speech Lab/2023-12-26.md",
     "ML 2021/12 Reinforcement Learning.md",
     "TOEFL/題型.md",
-    "TOEFL/2024-01-18.md",
-    "WorldQuant/2023-11-18.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
