@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0f699f08e37233",
+        "id": "7e4f9342d7ef51b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5f5cabde4bfaee15",
+            "id": "b23af8c13ff23ddb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f5cabde4bfaee15",
+  "active": "b23af8c13ff23ddb",
   "lastOpenFiles": [
     "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
