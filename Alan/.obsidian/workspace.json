@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+                "file": "2024-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+                "file": "2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+                "file": "2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/VLSI Physical Design CAD Intern - Summer 2024.md"
+                "file": "2024-01-22.md"
               }
             }
+          },
+          {
+            "id": "df671961729311ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +165,8 @@
   },
   "active": "b23af8c13ff23ddb",
   "lastOpenFiles": [
+    "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
+    "2024-01-22.md",
     "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
@@ -167,7 +177,6 @@
     "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
     "IC Design/Chap 8 - Datapath.md",
     "IC Design/Chap 9 - Memory.md",
-    "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
     "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "Physical Design/Chap 3 - Partitioning.md",
     "Physical Design/Chap 4 - Floorplanning.md",
@@ -188,7 +197,6 @@
     "TOEFL/Speaking 1 Summary.md",
     "Speech Lab/2024-01-18.md",
     "TOEFL/2024-01-14.md",
-    "Speech Lab/2023-12-26.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
