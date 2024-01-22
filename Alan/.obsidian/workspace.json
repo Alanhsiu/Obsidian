@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbe531e7a418942f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Design/Chap 3 - Partitioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
+                "file": "Physical Design/Chap 3 - Partitioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
+                "file": "Physical Design/Chap 3 - Partitioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physical Design/Chap 2 - EDA Paradigms & Complexity.md"
+                "file": "Physical Design/Chap 3 - Partitioning.md"
               }
             }
           }
@@ -324,8 +336,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90c04dcf091d0d8d",
+  "active": "fbe531e7a418942f",
   "lastOpenFiles": [
+    "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
+    "Physical Design/Chap 3 - Partitioning.md",
     "Physical Design/Chap 1 - Introduction.md",
     "Interview/VLSI Physical Design CAD Intern - Summer 2024.md",
     "ISPD/CUDA Programming.md",
@@ -333,7 +347,6 @@
     "Interview/attachments/Pasted image 20240122001551.png",
     "Interview/attachments",
     "Interview",
-    "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
     "IC Design/Chap 4 - Power.md",
