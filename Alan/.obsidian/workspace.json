@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Introduction.md",
+                "file": "2024-01-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Introduction.md",
+                "file": "2024-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Introduction.md",
+                "file": "2024-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Introduction.md"
+                "file": "2024-01-23.md"
               }
             }
           },
@@ -179,8 +180,10 @@
   },
   "active": "c791d3285b17db71",
   "lastOpenFiles": [
-    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/Introduction.md",
+    "2024-01-23.md",
+    "Interview/Untitled.md",
+    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "IC Design/Appendix..md",
     "IC Design/Chap 1 - Introduction.md",
@@ -209,8 +212,6 @@
     "Physical Design",
     "IC Design",
     "TOEFL/Speaking 1.md",
-    "TOEFL/Speaking 1 Summary.md",
-    "Speech Lab/2024-01-18.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
