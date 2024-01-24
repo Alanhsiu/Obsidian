@@ -1,25 +1,25 @@
 * Array / String
 	* Greatest Common Divisor of Strings
-		* gcd(greatest common divisor), lcm
-```cpp
-#include <algorithm>
-std::gcd(a, b);
-std::lcm(a, b);
-```
-		* lib: algorithm
-		* (GCD) <code>std::gcd(a, b);</code>
-		* least common multiple (LCM) <code>std::lcm(a, b);</code>
+		* gcd (greatest common divisor), lcm (least common multiple)
+	```cpp
+		#include <algorithm>
+		std::gcd(a, b);
+		std::lcm(a, b);
+	```
 	* Reverse Words in a String 
-		``` cpp
+	```cpp
 		#include <sstream>
 		stringstream ss(s);
 		while(ss >> word){}
-		```
+	```
 	* Product of Array Except Self #prefix_sum
+	* String Compression
+	```cpp
+		#include <string>
+		int num=123;
+		std::to_string(num);
+	```
 
-	* to_string
-		* lib: string
-		* <code>std::to_string(123);</code>
 * Two Pointers
 	* Move Zeros #two_pointers
 	* Is Subsequence #dynamic_programming #two_pointers 
