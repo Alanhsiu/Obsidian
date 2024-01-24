@@ -1,12 +1,15 @@
-* Hashtags: #prefix_sum
-* Others
+* Array / String
+	*  #prefix_sum
 	* stringstream
-		* library: sstream
+		* lib: sstream
 		``` cpp
 		stringstream ss(s);
 		while(ss >> word){}
 		```
 	* gcd, lcm
-		* library: algorithm
+		* lib: algorithm
 		* greatest common divisor (GCD) <code>std::gcd(a, b);</code>
 		* least common multiple (LCM) <code>std::lcm(a, b);</code>
+	* to_string
+		* lib: string
+		* <code>std::to_string(123);</code>
