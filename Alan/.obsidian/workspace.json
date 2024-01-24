@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c791d3285b17db71",
+            "id": "a9bfcaad3f897fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-23.md",
+                "file": "Others/Leetcode.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-23.md",
+                "file": "Others/Leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-23.md",
+                "file": "Others/Leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-23.md"
+                "file": "Others/Leetcode.md"
               }
             }
           },
@@ -164,40 +165,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c791d3285b17db71",
+  "active": "a9bfcaad3f897fce",
   "lastOpenFiles": [
-    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
-    "2024-01-23.md",
-    "Interview/Introduction.md",
-    "Interview/Untitled.md",
-    "Interview/NVIDIA System Software Engineering Intern - GPU.md",
-    "IC Design/Appendix..md",
-    "IC Design/Chap 1 - Introduction.md",
-    "IC Design/Chap 2 -  Devices and Layouts.md",
-    "IC Design/Chap 3 - Delay.md",
-    "IC Design/Chap 4 - Power.md",
-    "IC Design/Chap 5 - Wires.md",
-    "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
-    "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
-    "IC Design/Chap 8 - Datapath.md",
+    "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
+    "IC Design/Chap 8 - Datapath.md",
+    "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
+    "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
+    "IC Design/Chap 5 - Wires.md",
+    "IC Design/Chap 4 - Power.md",
+    "IC Design/Chap 3 - Delay.md",
+    "IC Design/Chap 2 -  Devices and Layouts.md",
+    "IC Design/Chap 1 - Introduction.md",
+    "IC Design/Chap 0 - IC.md",
+    "Physical Design/Chap 1 - Introduction.md",
     "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "Physical Design/Chap 3 - Partitioning.md",
     "Physical Design/Chap 4 - Floorplanning.md",
     "Physical Design/Chap 5 - Placement.md",
     "Physical Design/Chap 6 - Routing.md",
     "Physical Design/Chap 7 - Special Net Routing & Post-Layout Optimization.md",
-    "Physical Design/Chap 1 - Introduction.md",
-    "ISPD/CUDA Programming.md",
+    "WorldQuant/2023-11-18.md",
+    "WorldQuant/2023-11-11.md",
+    "2024-01-23.md",
+    "Others/Leetcode.md",
+    "Others/2023-11-14.md",
+    "Leetcode",
+    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
+    "Interview/Introduction.md",
+    "Interview/Untitled.md",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
     "Interview/attachments",
     "Interview",
-    "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
-    "IC Design/Chap 0 - IC.md",
     "Physical Design",
     "IC Design",
-    "TOEFL/Speaking 1.md",
     "Speech Lab",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
@@ -211,7 +213,6 @@
     "attachments/Pasted image 20231226231833.png",
     "attachments",
     "ESLab/attachments",
-    "Template",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
   ]
