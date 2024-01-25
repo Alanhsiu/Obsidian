@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "564ad9b1e1a5f4f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISPD/CUGR 2.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISPD/GAMER.md",
+                "file": "ISPD/CUGR 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISPD/GAMER.md",
+                "file": "ISPD/CUGR 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISPD/GAMER.md"
+                "file": "ISPD/CUGR 2.0.md"
               }
             }
           },
@@ -177,9 +190,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48f025f55928387e",
+  "active": "564ad9b1e1a5f4f7",
   "lastOpenFiles": [
     "ISPD/CUGR.md",
+    "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
     "ISPD/CUDA Programming.md",
     "Others/Leetcode 75.md",
@@ -204,7 +218,6 @@
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
     "2024-01-23.md",
-    "Others/2023-11-14.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",

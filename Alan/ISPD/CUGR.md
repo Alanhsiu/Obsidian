@@ -1,4 +1,4 @@
-* Previous Methods
+* Previous Works
 	* NCTU-GR, NTHU-Route, NTUgr, FastRoute 4.0
 		1. Compressing 3D routing space into 2D, fast but low quality.
 		2. Initial routing solution: pattern routing or monotonic routing.
