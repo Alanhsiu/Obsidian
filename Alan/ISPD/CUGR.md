@@ -40,5 +40,10 @@
 		* net order: use DFS and reverse order 
 	* Dynamic Programming
 		* pattern routing and layer assignment
-		* define $msc(P_i, l)$, 
-		* 
+		* define minimum sub-tree cost $msc(P_i, l)$, $msc(P_i, P_j, l)$
+* Multi-level 3D Maze Routing
+	* rip-up and reroute (RRR) by maze routing
+		1. maze rote planning
+			* grid graph coarsening
+			* 
+		1. fine-grained maze routing within guides
