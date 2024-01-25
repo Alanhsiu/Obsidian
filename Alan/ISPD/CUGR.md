@@ -45,5 +45,10 @@
 	* rip-up and reroute (RRR) by maze routing
 		1. maze rote planning
 			* grid graph coarsening
-			* 
-		1. fine-grained maze routing within guides
+			* $C_W$ and $C_V$ 
+		2. fine-grained maze routing within guides
+			* use the cost scheme before
+* Postprocessing / Guide Patching
+	* Pin Region Patching
+	* Long Segment Patching
+	* Violation Patching
