@@ -21,3 +21,10 @@
 			* add stand-alone route guides
 			* improve detailed routability
 * Problem Formulation
+	* traditional global routing problem + produce a set of connected rectangle guides (detailed routing aware)
+* Terminologies
+	* Capacity
+		* for a wire edge: max num of nets can use
+		* for a G-cell: average capacity of two neighbor edges
+	* Demand
+		* for a wire edge: sum of (demand by wires) and (demand by vias)
