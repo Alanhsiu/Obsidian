@@ -26,5 +26,9 @@
 	* Capacity
 		* for a wire edge: max num of nets can use
 		* for a G-cell: average capacity of two neighbor edges
-	* Demand
-		* for a wire edge: sum of (demand by wires) and (demand by vias)
+	* Demand (already used)
+		* for a wire edge: sum of (demand by wires) and (demand by vias -> average)
+		* for a G-cell: sum of (demand by wires -> average) and (demand by vias)
+	* Resource
+		* $r(u, v) = c(u, v) - d(u, v)$
+		* r(u)
