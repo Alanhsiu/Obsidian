@@ -39,4 +39,6 @@
 		* edge shifting (alleviate congestion)
 		* net order: use DFS and reverse order 
 	* Dynamic Programming
-	* 
+		* pattern routing and layer assignment
+		* define $msc(P_i, l)$, 
+		* 
