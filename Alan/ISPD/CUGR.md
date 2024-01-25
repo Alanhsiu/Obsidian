@@ -32,4 +32,11 @@
 	* Resource (not used)
 		* $r(u, v) = c(u, v) - d(u, v)$
 		* $r(u) = c(u) - d(u)$
-* 
+* Cost Scheme
+* Initial Routing (3D Pattern Routing)
+	* Pattern Routing Planning
+		* FLUTE generate RSMT (get 2-pin nets)
+		* edge shifting (alleviate congestion)
+		* net order: use DFS and reverse order 
+	* Dynamic Programming
+	* 
