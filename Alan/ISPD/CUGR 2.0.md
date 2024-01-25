@@ -6,4 +6,7 @@
 	* NCTU-GR: history term gradually wear off
 	* BOXRouter, SideWinder, GRIP: concurrent routing (use ILP)
 	* SPRoute: soft capacity
-	* FastGR, Gamer: GPUs
+	* FastGR, Gamer: use GPUs
+* Proposed Algorithm
+	* construct a routing DAG for a net
+	* use dynamic programming
