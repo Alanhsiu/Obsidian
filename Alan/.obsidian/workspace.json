@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9bfcaad3f897fce",
+            "id": "4fc1686d3f451cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "ISPD/CUGR.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "ISPD/CUGR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "ISPD/CUGR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Leetcode 75.md"
+                "file": "ISPD/CUGR.md"
               }
             }
           },
@@ -166,8 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9bfcaad3f897fce",
+  "active": "4fc1686d3f451cd1",
   "lastOpenFiles": [
+    "ISPD/CUDA Programming.md",
+    "ISPD/CUGR.md",
+    "Others/Leetcode 75.md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
     "IC Design/Chap 8 - Datapath.md",
@@ -189,12 +191,9 @@
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
     "2024-01-23.md",
-    "Others/Leetcode 75.md",
     "Others/2023-11-14.md",
     "Leetcode",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
-    "Interview/Introduction.md",
-    "Interview/Untitled.md",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
     "Interview/attachments",
