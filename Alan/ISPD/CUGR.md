@@ -1,4 +1,4 @@
-* Previous ways
+* Previous Ways
 	* NCTU-GR, NTHU-Route, NTUgr, FastRoute 4.0
 		1. Compressing 3D routing space into 2D, fast but low quality.
 		2. Initial routing solution: pattern routing or monotonic routing.
@@ -9,7 +9,7 @@
 		* discrete Lagrange multipliers
 	* GRIP
 		* integer linear programming
-* Proposed techs
+* Proposed Techs
 	* detailed-routability-driven 3D global router
 		1. **3D pattern routing**
 			* multi-pin -> two-pin net
@@ -20,3 +20,4 @@
 		3. patching
 			* add stand-alone route guides
 			* improve detailed routability
+* Problem Formulation
