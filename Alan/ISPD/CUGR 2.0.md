@@ -8,5 +8,5 @@
 	* SPRoute: soft capacity
 	* FastGR, Gamer: use GPUs
 * Proposed Algorithm
-	* construct a routing DAG for a net
-	* use dynamic programming
+	* **DAG-based generalized pattern routing**
+	* use dynamic programming to calculate the cost on given DAG
