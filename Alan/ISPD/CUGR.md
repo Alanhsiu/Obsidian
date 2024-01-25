@@ -10,5 +10,9 @@
 	* GRIP
 		* integer linear programming
 * Proposed techs
-	* 3D pattern routing
-	* multi-level 3D maze routing
+	* detailed-routability-driven 3D global router
+		1. 3D pattern routing
+			* multi-pin -> two-pin net
+			* L-shape patterns (dynamic programming)
+		2. multi-level 3D maze routing
+			* coarsen grid graph
