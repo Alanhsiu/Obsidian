@@ -7,4 +7,8 @@
 * Proposed Work
 	* **sweep operation**
 	* two massively parallel algorithms
-	* 
+* Highly Parallel Maze Routing
+	* Sweep
+	* Formulation
+	* Parallelization with condition partial sum
+	* reformulation and work-efficient algorithm
