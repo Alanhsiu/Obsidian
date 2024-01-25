@@ -11,8 +11,12 @@
 		* integer linear programming
 * Proposed techs
 	* detailed-routability-driven 3D global router
-		1. 3D pattern routing
+		1. **3D pattern routing**
 			* multi-pin -> two-pin net
 			* L-shape patterns (dynamic programming)
-		2. multi-level 3D maze routing
-			* coarsen grid graph
+		2. **multi-level 3D maze routing**
+			* maze route (coarsen grid graph) -> highest routability
+			* fine-grained maze routing -> find lowest cost path
+		3. patching
+			* add stand-alone route guides
+			* improve detailed routability
