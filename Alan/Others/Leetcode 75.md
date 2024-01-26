@@ -26,3 +26,6 @@
 	* Container With Most Water: use two pointers (leftmost and rightmost) #greedy #two_pointers 
 	* Max Number of K-Sum Pairs #sorting #two_pointers 
 * Sliding Window
+	* Max Consecutive Ones III #sliding_window
+	* Longest Subarray of 1's After Deleting One Element #sliding_window 
+* Prefix Sum
