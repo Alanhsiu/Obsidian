@@ -11,6 +11,9 @@
 		#include <sstream>
 		stringstream ss(s);
 		while(ss >> word){}
+		
+		string s="abc";
+		reverse(s.begin(), s.end());
 	```
 	* Product of Array Except Self #prefix_sum
 	* String Compression
