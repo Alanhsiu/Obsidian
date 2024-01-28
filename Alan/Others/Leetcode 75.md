@@ -90,7 +90,7 @@
 * Binary Tree - DFS
 	* create extra function dfs -> recursive
 * Binary Tree - BFS
-	* queue
+	* use queue
 	* vec.begin(), vec.end()
 	* vec.front(), vec.back()
 * Binary Search Tree
@@ -99,4 +99,6 @@
 	* use vector adj to record neighbors of each node
 	* use vector vis to record if the node is visited
 * Graph - BFS
+	* use queue
+	* <code>while(!q.empty()){int node=q.front(); q.pop(); for-loop}</code>
 	* 
