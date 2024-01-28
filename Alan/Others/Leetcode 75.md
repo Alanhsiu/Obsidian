@@ -31,14 +31,36 @@
 * Prefix Sum
 * Hash Map / Set
 	* 記得複習複雜度
-	* iteration
+	* unordered_set initialization
+	```cpp
+		unordered_set<int> set1(nums1.begin(), nums1.end())
+		
+		std::unordered_set<int> mySet;
+
+	    // Insert elements
+	    mySet.insert(10);
+	    mySet.insert(20);
+	    mySet.insert(30);
+
+		for (int x : mySet) { 
+			std::cout << x << " "; 
+		}
+```
+	* unordered_set find
+		```cpp
+		if (set1.count(i) == 0) {
+			temp1.push_back(i);
+		}
+```
+
+	* unordered_map iteration
 	```cpp
 		for (const auto& pair : myMap) {
 			 std::cout << "Key: " << pair.first 
 			 << ", Value: " << pair.second << std::endl;
 		}
 	```
-	* check if exists an element
+	* unordered_map find
 		```cpp
 		auto it = myMap.find(key);
 	    if (it != myMap.end()) {
