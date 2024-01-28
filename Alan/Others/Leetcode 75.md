@@ -30,21 +30,26 @@
 	* Longest Subarray of 1's After Deleting One Element #sliding_window 
 * Prefix Sum
 * Hash Map / Set
-	* 記得複習複雜度
+	* Complexity
+		* map (red-black tree): 
+			* Insertion: O(log n)
+			- Search: O(log n)
+			- Deletion: O(log n)
+			- Traversal: O(n) (in sorted order)
+		* unordered_map (hash table)
+			* Insertion: Average O(1), Worst-case O(n)
+			- Search: Average O(1), Worst-case O(n)
+			- Deletion: Average O(1), Worst-case O(n)
+			- Traversal: O(n) (no specific order)
 	* unordered_set initialization
 	```cpp
 		unordered_set<int> set1(nums1.begin(), nums1.end())
 		
 		std::unordered_set<int> mySet;
-
-	    // Insert elements
 	    mySet.insert(10);
-	    mySet.insert(20);
-	    mySet.insert(30);
 
-		for (int x : mySet) { 
+		for (int x : mySet) 
 			std::cout << x << " "; 
-		}
 ```
 	* unordered_set find
 		```cpp
@@ -69,4 +74,8 @@
 	        std::cout << "Element with key '" << key << "' does not exist in the unordered map." << std::endl;
 	    }
     ```
-    
+
+* Stack
+	```
+	std::stack<int> myStack;
+	
