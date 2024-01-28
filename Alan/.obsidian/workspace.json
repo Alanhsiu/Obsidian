@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -188,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fc1686d3f451cd1",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
     "TOEFL/Speaking 1 Summary.md",
     "Others/Leetcode 75.md",

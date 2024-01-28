@@ -31,3 +31,20 @@
 * Prefix Sum
 * Hash Map / Set
 	* 記得複習複雜度
+	* iteration
+	```cpp
+		for (const auto& pair : myMap) {
+			 std::cout << "Key: " << pair.first 
+			 << ", Value: " << pair.second << std::endl;
+		}
+	```
+	* check if exists an element
+		```cpp
+		auto it = myMap.find(key);
+	    if (it != myMap.end()) {
+	        std::cout << "Element with key '" << key << "' exists in the unordered map." << std::endl;
+	    } else {
+	        std::cout << "Element with key '" << key << "' does not exist in the unordered map." << std::endl;
+	    }
+    ```
+    
