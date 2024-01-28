@@ -121,5 +121,8 @@
 * Binary Search
 * Backtracking
 * DP - 1D
-* DP - Multimensional
-* Bit
+* DP - Multidimensional
+* Bit Manipulation
+* Trie
+* Interval
+* Monotonic Stack
