@@ -101,4 +101,5 @@
 * Graph - BFS
 	* use queue
 	* <code>while(!q.empty()){int node=q.front(); q.pop(); for-loop}</code>
+* Heap / Priority Queue
 	* 
