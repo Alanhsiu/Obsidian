@@ -86,4 +86,5 @@
 * Queue
 	* <code>q.push(); q.pop();  q.empty(); q.front()</code>
 * Linked List
-	* 
+	* <code>ListNode* nodes = new ListNode[10]; delete[] nodes;</code>
+* DFS
