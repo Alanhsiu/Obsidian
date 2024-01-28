@@ -83,11 +83,5 @@
 
 * Stack 
 	* <code>s.push(); s.pop(); s.size(); s.empty(); s.top()</code>
-	```cpp
-	std::stack<int> myStack;
-	myStack.push(10);
-	std::cout << "Top element: " << myStack.top() << std::endl;
-	std::cout << "Size of the stack: " << myStack.size() << std::endl; // s.empty() : size=0
-	myStack.pop();
-	```
-	
+* Queue
+	* <code>q.push(); q.pop();  q.empty(); q.front()</code>
