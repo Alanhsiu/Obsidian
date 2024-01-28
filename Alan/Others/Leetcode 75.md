@@ -34,12 +34,12 @@
 * Prefix Sum
 * Hash Map / Set
 	* Time Complexity
-		* map (red-black tree): 
+		* set / map (red-black tree): 
 			* Insertion: O(log n)
 			- Search: O(log n)
 			- Deletion: O(log n)
 			- Traversal: O(n) (in sorted order)
-		* unordered_map (hash table)
+		* unordered_set / unordered_map (hash table)
 			* Insertion: Average O(1), Worst-case O(n)
 			- Search: Average O(1), Worst-case O(n)
 			- Deletion: Average O(1), Worst-case O(n)
@@ -80,7 +80,11 @@
 	        std::cout << "Element with key '" << key << "' does not exist in the unordered map." << std::endl;
 	    }
     ```
-
+	* set
+	```cpp
+	if (!mySet.empty()) { int minValue = *mySet.begin();}
+	```
+	
 * Stack 
 	* <code>s.push(); s.pop(); s.size(); s.empty(); s.top()</code>
 * Queue
