@@ -88,7 +88,7 @@
 * Linked List
 	* <code>ListNode* nodes = new ListNode[10]; delete[] nodes;</code>
 * Binary Tree - DFS
-	* recursive
+	* create extra function dfs -> recursive
 * Binary Tree - BFS
 	* queue
 	* vec.begin(), vec.end()
@@ -96,6 +96,7 @@
 * Binary Search Tree
 	* Delete Node in a BST: find the rightmost child among the left-child's children to replace root (if root has 2 children)
 * Graph - DFS
-	* use vector adj to record neighbors of each element
-	* use vector vis to record if the node
+	* use vector adj to record neighbors of each node
+	* use vector vis to record if the node is visited
 * Graph - BFS
+	* 
