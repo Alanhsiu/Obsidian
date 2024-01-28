@@ -80,7 +80,7 @@
 	std::stack<int> myStack;
 	myStack.push(10);
 	std::cout << "Top element: " << myStack.top() << std::endl;
-	std::cout << "Size of the stack: " << myStack.size() << std::endl;
+	std::cout << "Size of the stack: " << myStack.size() << std::endl; // s.empty() : size=0
 	myStack.pop();
 	```
 	
