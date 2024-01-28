@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Speaking 1 Summary.md",
+                "file": "Others/Leetcode 75.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Speaking 1 Summary.md",
+                "file": "Others/Leetcode 75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Speaking 1 Summary.md",
+                "file": "Others/Leetcode 75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Speaking 1 Summary.md"
+                "file": "Others/Leetcode 75.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "4fc1686d3f451cd1",
   "lastOpenFiles": [
+    "TOEFL/Speaking 1 Summary.md",
     "Others/Leetcode 75.md",
     "ISPD/CUGR Implementation.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
@@ -218,7 +219,6 @@
     "Physical Design/Chap 6 - Routing.md",
     "Physical Design/Chap 7 - Special Net Routing & Post-Layout Optimization.md",
     "WorldQuant/2023-11-18.md",
-    "WorldQuant/2023-11-11.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
