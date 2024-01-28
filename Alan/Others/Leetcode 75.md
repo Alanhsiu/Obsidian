@@ -85,3 +85,5 @@
 	* <code>s.push(); s.pop(); s.size(); s.empty(); s.top()</code>
 * Queue
 	* <code>q.push(); q.pop();  q.empty(); q.front()</code>
+* Linked List
+	* 
