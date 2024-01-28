@@ -83,6 +83,7 @@
 	* set
 	```cpp
 	if (!mySet.empty()) { int minValue = *mySet.begin();}
+	mySet.erase(minValue);
 	```
 	
 * Stack 
