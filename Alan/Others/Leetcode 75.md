@@ -33,7 +33,7 @@
 	* Longest Subarray of 1's After Deleting One Element #sliding_window 
 * Prefix Sum
 * Hash Map / Set
-	* Complexity
+	* Time Complexity
 		* map (red-black tree): 
 			* Insertion: O(log n)
 			- Search: O(log n)
@@ -102,4 +102,13 @@
 	* use queue
 	* <code>while(!q.empty()){int node=q.front(); q.pop(); for-loop}</code>
 * Heap / Priority Queue
-	* 
+	* <code>pq.push(x); pq.pop(); pq.top(); pq.empty(); pq.size(); </code>
+	* Time Complexity
+		* push: O(log n)
+		* pop: O(log n)
+		* top, size, empty: O(1)
+	```cpp
+	std::priority_queue<int> pq; // max-heap
+	priority_queue<int> pq(nums.begin(), nums.end());
+	std::priority_queue<int, std::vector<int>, std::greater<int>> pq; 
+	```
