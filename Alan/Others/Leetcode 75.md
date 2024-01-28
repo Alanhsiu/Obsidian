@@ -93,3 +93,5 @@
 	* queue
 	* vec.begin(), vec.end()
 	* vec.front(), vec.back()
+* BST
+	* Delete Node in a BST: find the rightmost child among the left-child's children to replace root (if root has 2 children)
