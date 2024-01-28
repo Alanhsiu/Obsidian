@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Interview/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485003912f69545f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Others/Leetcode 75.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "48f025f55928387e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISPD/GAMER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "564ad9b1e1a5f4f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISPD/CUGR 2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -189,11 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4fc1686d3f451cd1",
+  "active": "485003912f69545f",
   "lastOpenFiles": [
+    "Interview/Introduction.md",
+    "Interview/NVIDIA System Software Engineering Intern - GPU.md",
+    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
+    "Others/Leetcode 75.md",
     "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
-    "Others/Leetcode 75.md",
     "TOEFL/Speaking 1 Summary.md",
     "ISPD/CUGR Implementation.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
@@ -217,9 +208,6 @@
     "Physical Design/Chap 3 - Partitioning.md",
     "Physical Design/Chap 4 - Floorplanning.md",
     "Physical Design/Chap 5 - Placement.md",
-    "Physical Design/Chap 6 - Routing.md",
-    "Physical Design/Chap 7 - Special Net Routing & Post-Layout Optimization.md",
-    "WorldQuant/2023-11-18.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",

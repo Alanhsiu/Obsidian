@@ -117,3 +117,9 @@
 	priority_queue<int> pq(nums.begin(), nums.end());
 	std::priority_queue<int, std::vector<int>, std::greater<int>> pq; 
 	```
+	* reversed sort  <code>sort(p.rbegin(), p.rend());</code>
+* Binary Search
+* Backtracking
+* DP - 1D
+* DP - Multimensional
+* Bit
