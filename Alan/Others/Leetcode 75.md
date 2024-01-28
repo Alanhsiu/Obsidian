@@ -88,4 +88,6 @@
 * Linked List
 	* <code>ListNode* nodes = new ListNode[10]; delete[] nodes;</code>
 * DFS
+	* recursive
 * BFS
+	* queue
