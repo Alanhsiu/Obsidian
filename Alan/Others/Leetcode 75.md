@@ -91,3 +91,5 @@
 	* recursive
 * BFS
 	* queue
+	* vec.begin(), vec.end()
+	* vec.front(), vec.back()
