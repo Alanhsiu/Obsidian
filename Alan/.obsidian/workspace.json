@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "TOEFL/Speaking 1 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,13 +97,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "TOEFL/Speaking 1 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "TOEFL/Speaking 1 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Leetcode 75.md"
+                "file": "TOEFL/Speaking 1 Summary.md"
               }
             }
           },
@@ -190,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c21aa537cef63246",
+  "active": "4fc1686d3f451cd1",
   "lastOpenFiles": [
+    "Others/Leetcode 75.md",
     "ISPD/CUGR Implementation.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
     "ISPD/attachments/Pasted image 20240126225128.png",
@@ -200,7 +199,6 @@
     "ISPD/GAMER.md",
     "ISPD/CUGR 2.0.md",
     "ISPD/CUDA Programming.md",
-    "Others/Leetcode 75.md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
     "IC Design/Chap 8 - Datapath.md",
