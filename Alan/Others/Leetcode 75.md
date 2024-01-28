@@ -16,8 +16,8 @@
 	* String Compression
 	```cpp
 		#include <string>
-		int num=123;
-		std::to_string(num);
+		int num=123; std::to_string(num);
+		std::string str = "1234"; int num = stoi(str);
 	```
 
 * Two Pointers
