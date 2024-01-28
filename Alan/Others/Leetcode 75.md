@@ -42,6 +42,7 @@
 			- Deletion: Average O(1), Worst-case O(n)
 			- Traversal: O(n) (no specific order)
 	* unordered_set initialization
+		* <code>set.insert()</code>
 	```cpp
 		unordered_set<int> set1(nums1.begin(), nums1.end())
 		
@@ -52,13 +53,14 @@
 			std::cout << x << " "; 
 ```
 	* unordered_set find
+		* <code>set.count()</code>
 		```cpp
-		if (set1.count(i) == 0) {
+		if (set1.count(i) == 0) 
 			temp1.push_back(i);
-		}
 ```
 
 	* unordered_map iteration
+		* <code>for (const auto& pair : myMap){} </code>
 	```cpp
 		for (const auto& pair : myMap) {
 			 std::cout << "Key: " << pair.first 
@@ -66,6 +68,7 @@
 		}
 	```
 	* unordered_map find
+		* <code>auto it = m.find(key)</code>
 		```cpp
 		auto it = myMap.find(key);
 	    if (it != myMap.end()) {
@@ -75,7 +78,8 @@
 	    }
     ```
 
-* Stack
+* Stack 
+	* <code>s.push(); s.pop(); s.size(); s.empty(); s.top()</code>
 	```cpp
 	std::stack<int> myStack;
 	myStack.push(10);
