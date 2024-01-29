@@ -122,6 +122,7 @@
 * Backtracking
 * DP - 1D
 * DP - Multidimensional
+	* `vector<vector<int>> dp(len1, vector<int>(len2, 0));`
 * Bit Manipulation
 * Trie
 * Interval
