@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISPD/CUGR 2.0.md",
+                "file": "ISPD/CUGR.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISPD/CUGR 2.0.md",
+                "file": "ISPD/CUGR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISPD/CUGR 2.0.md",
+                "file": "ISPD/CUGR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISPD/CUGR 2.0.md"
+                "file": "ISPD/CUGR.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "ISPD/CUGR Implementation.md",
     "ISPD/CUGR 2.0.md",
-    "ISPD/GAMER.md",
     "ISPD/CUGR.md",
+    "ISPD/CUGR Implementation.md",
+    "ISPD/GAMER.md",
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA Introduction.md",
     "Others/Leetcode 75.md",
