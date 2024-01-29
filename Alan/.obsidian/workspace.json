@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Introduction.md",
+                "file": "Interview/NVIDIA Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "Interview/NVIDIA Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "Interview/NVIDIA Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Leetcode 75.md"
+                "file": "Interview/NVIDIA Introduction.md"
               }
             }
           },
@@ -178,12 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "485003912f69545f",
+  "active": "4fc1686d3f451cd1",
   "lastOpenFiles": [
-    "Interview/Introduction.md",
+    "Others/Leetcode 75.md",
+    "Interview/NVIDIA Introduction.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
-    "Others/Leetcode 75.md",
     "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
     "TOEFL/Speaking 1 Summary.md",
