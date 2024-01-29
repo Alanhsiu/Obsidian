@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Google Software Intern.md",
+                "file": "ISPD/CUGR 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Google Software Intern.md",
+                "file": "ISPD/CUGR 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Google Software Intern.md",
+                "file": "ISPD/CUGR 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Google Software Intern.md"
+                "file": "ISPD/CUGR 2.0.md"
               }
             }
           },
@@ -180,19 +179,19 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "Interview/NVIDIA Introduction.md",
+    "ISPD/CUGR Implementation.md",
+    "ISPD/CUGR 2.0.md",
+    "ISPD/GAMER.md",
+    "ISPD/CUGR.md",
     "Interview/Google Software Intern.md",
+    "Interview/NVIDIA Introduction.md",
     "Others/Leetcode 75.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
-    "ISPD/CUGR 2.0.md",
-    "ISPD/GAMER.md",
     "TOEFL/Speaking 1 Summary.md",
-    "ISPD/CUGR Implementation.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
     "ISPD/attachments/Pasted image 20240126225128.png",
     "ISPD/attachments",
-    "ISPD/CUGR.md",
     "ISPD/CUDA Programming.md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
     "IC Design/Chap 9 - Memory.md",
