@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISPD/CUGR.md",
+                "file": "ISPD/CUGR Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISPD/CUGR.md",
+                "file": "ISPD/CUGR Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISPD/CUGR.md",
+                "file": "ISPD/CUGR Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISPD/CUGR.md"
+                "file": "ISPD/CUGR Implementation.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "ISPD/CUGR 2.0.md",
     "ISPD/CUGR.md",
+    "ISPD/CUGR 2.0.md",
     "ISPD/CUGR Implementation.md",
     "ISPD/GAMER.md",
     "Interview/Google Software Intern.md",
