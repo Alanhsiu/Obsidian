@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "Interview/NVIDIA Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8fa13d34b65cceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Google Software Intern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "Interview/Google Software Intern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Leetcode 75.md",
+                "file": "Interview/Google Software Intern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Leetcode 75.md"
+                "file": "Interview/Google Software Intern.md"
               }
             }
           },
@@ -164,9 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "485003912f69545f",
+  "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
     "Interview/NVIDIA Introduction.md",
+    "Interview/Google Software Intern.md",
     "Others/Leetcode 75.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
@@ -194,7 +209,6 @@
     "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "Physical Design/Chap 3 - Partitioning.md",
     "Physical Design/Chap 4 - Floorplanning.md",
-    "Physical Design/Chap 5 - Placement.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
