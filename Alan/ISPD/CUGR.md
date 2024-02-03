@@ -24,7 +24,7 @@
 	* traditional global routing problem + produce a set of connected rectangle guides (detailed routing aware)
 * Terminologies
 	* Capacity
-		* for a wire edge: max num of nets can use
+		* for a wire edge: max number of nets that can be used
 		* for a G-cell: average capacity of two neighbor edges
 	* Demand (already used)
 		* for a wire edge: sum of (demand by wires) and (demand by vias -> average)
@@ -35,7 +35,7 @@
 * Cost Scheme
 * Initial Routing (3D Pattern Routing)
 	* Pattern Routing Planning
-		* FLUTE generate RSMT (get 2-pin nets)
+		* FLUTE generates RSMT (get 2-pin nets)
 		* edge shifting (alleviate congestion)
 		* net order: use DFS and reverse order 
 	* Dynamic Programming
