@@ -10,3 +10,6 @@
 * Proposed Algorithm
 	* **DAG-based generalized pattern routing**
 	* use dynamic programming to calculate the cost of a given DAG
+	* DAG augmentation algorithm -> Over 99% of nets can be successfully routed without maze routing.
+	* new sparse graph maze routing algorithm
+* 
