@@ -15,14 +15,15 @@
 		string s="abc";
 		reverse(s.begin(), s.end());
 	```
-	* Product of Array Except Self #prefix_sum
+	* Product of Array Except for Self #prefix_sum
 	* String Compression
 	```cpp
 		#include <string>
 		int num=123; std::to_string(num);
 		std::string str = "1234"; int num = stoi(str);
 	```
-
+	* Others
+		* <code>string d="1234"; int sub_d=d.substr(0, 2); </code> // usage: str.substr(index, length);
 * Two Pointers
 	* Move Zeros #two_pointers
 	* Is Subsequence #dynamic_programming #two_pointers 
