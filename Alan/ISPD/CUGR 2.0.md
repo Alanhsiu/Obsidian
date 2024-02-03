@@ -14,4 +14,4 @@
 	* new sparse graph maze routing algorithm
 * Routing DAG
 	1. construct RSMT
-	2. DFS
+	2. DFS construct directed path -> connect the second endpoint to the first endpoint
