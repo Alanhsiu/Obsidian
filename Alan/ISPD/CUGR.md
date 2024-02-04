@@ -9,8 +9,7 @@
 		* discrete Lagrange multipliers
 	* GRIP
 		* integer linear programming
-* Proposed Algorithm
-	* detailed-routability-driven 3D global router
+* Proposed Algorithm: detailed-routability-driven 3D global router
 		1. **3D pattern routing**
 			* multi-pin -> two-pin net
 			* L-shape patterns (dynamic programming)
@@ -41,13 +40,12 @@
 	* Dynamic Programming
 		* pattern routing and layer assignment
 		* define minimum sub-tree cost $msc(P_i, l)$, $msc(P_i, P_j, l)$
-* Multi-level 3D Maze Routing
-	* rip-up and reroute (RRR) by maze routing
-		1. maze rote planning
-			* grid graph coarsening
-			* $C_W$ and $C_V$ 
-		2. fine-grained maze routing within guides
-			* use the cost scheme before
+* Multi-level 3D Maze Routing: rip-up and reroute (RRR) by maze routing
+	1. maze rote planning
+		* grid graph coarsening
+		* $C_W$ and $C_V$ 
+	2. fine-grained maze routing within guides
+		* use the cost scheme before
 * Postprocessing / Guide Patching
 	* Pin Region Patching
 	* Long Segment Patching
