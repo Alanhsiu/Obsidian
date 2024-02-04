@@ -9,6 +9,6 @@
 	* two massively parallel algorithms
 * Highly Parallel Maze Routing
 	* Sweep: four sweeps can find the shortest path
-	* Formulation
+	* Formulation: $O(n)$ dynamic programming sweep
 	* Parallelization with condition partial sum
-	* reformulation and work-efficient algorithm
+	* Reformulation and work-efficient algorithm
