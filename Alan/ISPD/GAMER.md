@@ -8,7 +8,7 @@
 	* **sweep operation**
 	* two massively parallel algorithms
 * Highly Parallel Maze Routing
-	* Sweep
+	* Sweep: four sweeps can find the shortest path
 	* Formulation
 	* Parallelization with condition partial sum
 	* reformulation and work-efficient algorithm
