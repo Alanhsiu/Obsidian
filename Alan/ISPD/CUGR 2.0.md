@@ -16,7 +16,7 @@
 	1. construct RSMT (FLUTE)
 	2. DFS construct directed path -> connect the second endpoint to the first endpoint
 * Dynamic Programming-based Vertex Cost Update
-	* $mvc(v, k)$ is the minimum routing cost to connect all the upstream pins to the vertex $v$ on layer $k$
+	* **$mvc(v, k)$ is the minimum routing cost to connect all the upstream pins to the vertex $v$ on layer $k$**
 	* the minimum routing cost for the whole net is $min[1<=k<=L]  mvc(r, k)$. r is the root vertex, and L is the number of layers.
 	* time complexity is $O(L^2|V|)$
 * DAG Augmentation for Congestion-Aware Routing
