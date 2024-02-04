@@ -13,5 +13,6 @@
 	* DAG augmentation algorithm -> Over 99% of nets can be successfully routed without maze routing.
 	* new sparse graph maze routing algorithm
 * Routing DAG
-	1. construct RSMT
+	1. construct RSMT (FLUTE)
 	2. DFS construct directed path -> connect the second endpoint to the first endpoint
+* Dynamic Programming-based Vertex Cost Update
