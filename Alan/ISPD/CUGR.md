@@ -24,7 +24,7 @@
 	* traditional global routing problem + produce a set of connected rectangle guides (detailed routing aware)
 * Terminologies
 	* Capacity
-		* for a wire edge: max number of nets that can be used
+		* for a wire edge: max number of nets can be used
 		* for a G-cell: average capacity of two neighbor edges
 	* Demand (already used)
 		* for a wire edge: sum of (demand by wires) and (demand by vias -> average)

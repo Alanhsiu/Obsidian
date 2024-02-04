@@ -22,6 +22,9 @@
 * DAG Augmentation for Congestion-Aware Routing
 	* create alternative paths for the edge on its two sides
 * CUGR 2.0
-	* Phase 1: DAG-based pattern routing
-	* Phase 1: DAG-based pattern routing with augmentation
+	* Phase 1: DAG-based pattern routing (L-shape)
+	* Phase 2: DAG-based pattern routing with augmentations
 	* Phase 3: Sparse graph maze routing
+* Experimental Results
+	* Total Time: 7.8x faster than CUGR
+	* RRR Time: 5.2x faster than GAMER, 18.9x faster than CUGR
