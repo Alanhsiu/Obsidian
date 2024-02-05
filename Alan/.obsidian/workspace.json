@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-05.md",
+                "file": "Others/2024-01-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-05.md",
+                "file": "Others/2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-05.md",
+                "file": "Others/2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-05.md"
+                "file": "Others/2024-01-10.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "ISPD/CUGR 2.0.md",
     "2024-02-05.md",
+    "Others/2024-01-10.md",
+    "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
     "ISPD/CUGR.md",
     "Interview/Leetcode 75.md",
@@ -207,7 +208,6 @@
     "IC Design/Chap 0 - IC.md",
     "Physical Design/Chap 1 - Introduction.md",
     "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
-    "Physical Design/Chap 3 - Partitioning.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
