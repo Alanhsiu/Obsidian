@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/2024-01-10.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/2024-01-10.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/2024-01-10.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/2024-01-10.md"
+                "file": "Speech Lab/2024-01-18.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "2024-02-05.md",
     "Others/2024-01-10.md",
+    "2024-02-05.md",
     "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
     "ISPD/CUGR.md",
