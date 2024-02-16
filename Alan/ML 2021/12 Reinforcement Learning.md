@@ -14,9 +14,9 @@
 		* 輸入：遊戲畫面的pixels
 		* 輸出：每個可採取行為的分數（總和為1）
 	2. Define "Loss"
-		* 1局遊戲 = 1個episode
+		* 1局遊戲 = 1個 episode
 		* Reward：每個行為得到的反饋
-		* Return：整場遊戲得到的total reward
+		* Return：整場遊戲得到的 total reward
 		* Loss：**-R** (to maximize return)
 	3. Optimization
 		* 對環境的 observation $s_1$，會變成 actor 的輸入，actor 依此輸出 action $a_1$，$a_1$又作為環境的輸入，根據 $a_1$ 輸出 $s_2$，以此類推，直至滿足遊戲終止條件
@@ -58,9 +58,9 @@
 		* 問題： Sparse Reward 就是 reward 大多數情況都是 0，只有在少數情況是一個非常大的數值。意味著很多 actions 無從判斷是好是壞。例如圍棋到遊戲結束才會有 reward，過程中都沒有 reward。
 		* 解決：Reward Shaping 定義一些額外的 reward 來幫助 actor 學習。
 	* Curiosity
-		* Curiosity based reward shaping
+		* Curiosity-based reward shaping
 		* 基於好奇心，讓 actor 看到有意義的新東西時獲得 reward
-* No Reward：Imitation Learning
+* No Reward： Imitation Learning
 	* 問題：
 		* 遊戲中雖然容易定義 reward，但在其他任務要定義 reward 很困難
 		* 人工設置一些 reward（reward shaping）教機器學時，若 reward 沒設定好，機器可能會產生奇怪、無法預期的行為

@@ -32,5 +32,13 @@
       "key": "H"
     }
   ],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ]
 }
