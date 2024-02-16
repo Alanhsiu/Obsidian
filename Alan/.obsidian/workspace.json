@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -180,6 +179,8 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
+    "Interview/NVIDIA Introduction.md",
+    "Speech Lab/2024-01-18.md",
     "Others/2024-01-10.md",
     "2024-02-05.md",
     "ISPD/CUGR 2.0.md",
@@ -188,7 +189,6 @@
     "Interview/Leetcode 75.md",
     "ISPD/CUGR Implementation.md",
     "Interview/Google Software Intern.md",
-    "Interview/NVIDIA Introduction.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "TOEFL/Speaking 1 Summary.md",
@@ -208,7 +208,6 @@
     "IC Design/Chap 1 - Introduction.md",
     "IC Design/Chap 0 - IC.md",
     "Physical Design/Chap 1 - Introduction.md",
-    "Physical Design/Chap 2 - EDA Paradigms & Complexity.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
