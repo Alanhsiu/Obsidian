@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "Speech Lab/2024-02-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "Speech Lab/2024-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "Speech Lab/2024-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Lab/2024-01-18.md"
+                "file": "Speech Lab/2024-02-17.md"
               }
             }
           },
@@ -179,8 +180,10 @@
   },
   "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "Interview/NVIDIA Introduction.md",
+    "Speech Lab/Untitled.md",
+    "Speech Lab/2024-02-17.md",
     "Speech Lab/2024-01-18.md",
+    "Interview/NVIDIA Introduction.md",
     "Others/2024-01-10.md",
     "2024-02-05.md",
     "ISPD/CUGR 2.0.md",
@@ -206,8 +209,6 @@
     "IC Design/Chap 3 - Delay.md",
     "IC Design/Chap 2 -  Devices and Layouts.md",
     "IC Design/Chap 1 - Introduction.md",
-    "IC Design/Chap 0 - IC.md",
-    "Physical Design/Chap 1 - Introduction.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
