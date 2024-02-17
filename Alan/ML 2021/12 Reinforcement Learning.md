@@ -7,12 +7,12 @@
 		* 輸入: observation (from environment)
 		* 輸出: action (to environment)
 		* 目標: 最大化reward總和 (from environment)
+	
+			![[Pasted image 20240217202912.png]]
 
-![[Pasted image 20240217202912.png]]
-*
 * 訓練三步驟
 	1. Function with Unknown
-		* Actor = Policy Network
+		* **Actor = Policy Network**
 		* 架構：FC, CNN, Transformer
 		* 輸入：遊戲畫面的pixels
 		* 輸出：每個可採取行為的分數（總和為1）
