@@ -50,7 +50,8 @@
 		2. 迭代更新 actor：用參數為 $\theta^{i-1}$ 的 actor 蒐集資料，並以此資料計算 $A$，再計算 loss $L$，做 gradient descent 更新參數
 		* On-policy Learning：訓練的 actor 跟與環境互動的 actor 是同一個
 		* Off-policy Learning：訓練的 actor 跟與環境互動的 actor 是不同的 好處是不用一直收集資料，可以用一次收集到的資料，更新多次 actor
-		* Exploration（增加 actor 做 action 的隨機性）
+			* eg. PPO (Proximal Policy Optimization) The *actor to train* has to know its difference from the *actor to interact*
+			* Exploration（增加 actor 做 action 的隨機性）
 * Critic
 	* Value Function：有一 actor 參數為 $\theta$，當前的 observation 為 s，value function $V^\theta(s)$ 為基於參數為 $\theta$ 的 actor 及 observation s，所預期的 discounted cumulated reward (期望值的概念）
 	* How to train critic
