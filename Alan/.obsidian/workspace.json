@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Speech Lab/2024-02-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Speech Lab/2024-02-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md"
+                "file": "Speech Lab/2024-02-17.md"
               }
             }
           },
@@ -202,11 +202,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc29092791fb72f5",
+  "active": "e8fa13d34b65cceb",
   "lastOpenFiles": [
-    "ML 2021/attachments/Pasted image 20240217202912.png",
     "Speech Lab/2024-01-18.md",
     "ML 2021/12 Reinforcement Learning.md",
+    "ML 2021/attachments/Pasted image 20240217202912.png",
     "Speech Lab/2024-02-17.md",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/2023-12-26.md",
@@ -248,7 +248,6 @@
     "attachments/Pasted image 20240106110722.png",
     "ML 2021/attachments/Pasted image 20231228184330.png",
     "attachments/Pasted image 20231226235026.png",
-    "attachments/Pasted image 20231226231922.png",
     "attachments",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
