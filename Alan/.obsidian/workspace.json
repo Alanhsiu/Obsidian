@@ -42,13 +42,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d633f0d0b4b63ae7",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "fc29092791fb72f5",
             "type": "leaf",
@@ -61,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -135,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Lab/2024-01-18.md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           },
@@ -206,10 +202,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "485003912f69545f",
+  "active": "fc29092791fb72f5",
   "lastOpenFiles": [
-    "ML 2021/12 Reinforcement Learning.md",
+    "ML 2021/attachments/Pasted image 20240217202912.png",
     "Speech Lab/2024-01-18.md",
+    "ML 2021/12 Reinforcement Learning.md",
     "Speech Lab/2024-02-17.md",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/2023-12-26.md",
@@ -236,7 +233,6 @@
     "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
     "IC Design/Chap 5 - Wires.md",
     "IC Design/Chap 4 - Power.md",
-    "IC Design/Chap 3 - Delay.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",

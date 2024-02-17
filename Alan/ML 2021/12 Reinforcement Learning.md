@@ -1,5 +1,5 @@
 * 應用場景
-	* 給機器一個輸入，但我們不知道最佳輸出為何
+	* 給機器一個輸入，但**我們不知道最佳輸出為何**
 	* 收集有標註的資料有難度
 * 角色
 	* Actor和Environment進行互動
@@ -7,6 +7,9 @@
 		* 輸入: observation (from environment)
 		* 輸出: action (to environment)
 		* 目標: 最大化reward總和 (from environment)
+
+![[Pasted image 20240217202912.png]]
+*
 * 訓練三步驟
 	1. Function with Unknown
 		* Actor = Policy Network
