@@ -24,6 +24,7 @@
 	3. Optimization
 		* 對環境的 observation $s_1$，會變成 actor 的輸入，actor 依此輸出 action $a_1$，$a_1$又作為環境的輸入，根據 $a_1$ 輸出 $s_2$，以此類推，直至滿足遊戲終止條件
 		* s 跟 a 所形成的 sequence $\{s_1,a_1,s_2,a_2,...\}$ 稱作 **Trajectory**，以 $\tau$ 表示
+		* **Reward 的輸入是 observation + action。**
 		* ![[Pasted image 20230927211259.png]]
 	* 目標：找到 actor 的一組參數，使得 $R(\tau)$ 越大越好
 	* 問題：
@@ -31,7 +32,7 @@
 		* environment 和 reward 是黑盒子：environment 和 reward 都不是 network，也都具有隨機性
 * Optimization: **Policy Gradient**
 	* 如何控制 Actor
-		* 若希望 actor 在看到某個 s 時採取某一 action，只需將其看做一般的分類問題即可，為其設定 ground truth $\hat{a}$，loss e 採用 cross-entropy
+		* 若希望 actor 在看到某個 s 時採取某一 action，只需將其看做一般的分類問題即可，為其設定 ground truth $\hat{a}$， loss e 採用 **cross-entropy**
 		* 若希望 actor 在看到某個 s 時不採取某一 action，只需將 cross-entropy 乘一個負號，最小化 L 等同於最大化 e，以使 actor 的 action 離 $\hat{a}$ 更遠
 		* 綜合以上兩種情況，可將 L 定義為 $e_1-e_2$，找到一組參數最小化 $e_1$，同時最大化 $e_2$，即可最小化 loss L
 	* 收集訓練資料
@@ -39,7 +40,7 @@
 		* 每個行為給定一個分數$A_n$ (不再是只有正負 1)
 	* 如何定義 A
 		* Version 0 （不正確）：將 reward 作為 A 用於定義 loss → 短視近利
-		* Version 1（Cumulated Reward）：假設遊戲非常長，把 $r_N$ 歸功於 $a_1$ 也不合適
+		* Version 1（Cumulated Reward）：**把這個動作之後的reward全部加起來**。假設遊戲非常長，把 $r_N$ 歸功於 $a_1$ 也不合適
 		* Version 2（Discounted Cumulated Reward）：新增 discount factor $\gamma$（$\gamma$<1），離 $a_t$ 比較近的 reward 給予較大的權重，較遠的 reward 給予較小的權重，使較遠的 reward 影響較小
 		* Version 3（標準化：-b）：假設某一遊戲得到的 reward 永遠都是正的，只是有大有小不同，因此每個 G 都會是正的，就算某些行為是不好的，還是會鼓勵機器採取某些行為
 		* Version 3.5（b = value function）：訓練一個 critic，給一個 observation s，輸出 $V^\theta(s)$，讓 Version 3 的 b = $V^\theta(s)​$  
