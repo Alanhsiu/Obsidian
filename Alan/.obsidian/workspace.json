@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Speech Lab/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md"
+                "file": "Speech Lab/2024-01-18.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "4e543838ff43ea97",
   "lastOpenFiles": [
-    "Speech Lab/2024-02-17.md",
+    "Speech Lab/2023-12-26.md",
     "ML 2021/12 Reinforcement Learning.md",
+    "Speech Lab/2024-02-17.md",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/2024-01-18.md",
     "Speech Lab/Untitled.md",
@@ -219,7 +220,6 @@
     "IC Design/Chap 5 - Wires.md",
     "IC Design/Chap 4 - Power.md",
     "IC Design/Chap 3 - Delay.md",
-    "IC Design/Chap 2 -  Devices and Layouts.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
