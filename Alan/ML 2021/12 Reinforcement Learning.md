@@ -39,7 +39,7 @@
 		* 為每個行為標註為”好”或”不好”（+1、-1）
 		* 每個行為給定一個分數$A_n$ (不再是只有正負 1)
 	* 如何定義 A
-		* Version 0 （不正確）：將 reward 作為 A 用於定義 loss → 短視近利
+		* Version 0 （不正確）：**一直開火**。將 reward 作為 A 用於定義 loss → 短視近利
 		* Version 1（Cumulated Reward）：**把這個動作之後的reward全部加起來**。假設遊戲非常長，把 $r_N$ 歸功於 $a_1$ 也不合適
 		* Version 2（Discounted Cumulated Reward）：新增 discount factor $\gamma$（$\gamma$<1），離 $a_t$ 比較近的 reward 給予較大的權重，較遠的 reward 給予較小的權重，使較遠的 reward 影響較小
 		* Version 3（標準化：-b）：假設某一遊戲得到的 reward 永遠都是正的，只是有大有小不同，因此每個 G 都會是正的，就算某些行為是不好的，還是會鼓勵機器採取某些行為
