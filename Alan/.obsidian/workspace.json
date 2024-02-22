@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/題型.md",
+                "file": "TOEFL/Speaking 2 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/題型.md",
+                "file": "TOEFL/Speaking 2 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/題型.md",
+                "file": "TOEFL/Speaking 2 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/題型.md"
+                "file": "TOEFL/Speaking 2 Summary.md"
               }
             }
           },
@@ -227,6 +227,7 @@
   },
   "active": "69d05ef74e87b139",
   "lastOpenFiles": [
+    "TOEFL/題型.md",
     "TOEFL/Speaking 2 Summary.md",
     "TOEFL/Speaking 2.md",
     "TOEFL/Speaking 1.md",
@@ -256,7 +257,6 @@
     "IC Design/Chap 9 - Memory.md",
     "IC Design/Chap 8 - Datapath.md",
     "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
-    "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
