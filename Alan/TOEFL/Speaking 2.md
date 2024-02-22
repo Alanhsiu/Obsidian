@@ -12,4 +12,7 @@
 	* **So, that's why he's against the policy change.**
 
 * TPO3
-	* The U announced that the dining services stop serve hot food 
+	* The U announced that the dining services stop to serve hot food because they think the cold food is ...
+	* However,
+	* First,
+	* Second,
