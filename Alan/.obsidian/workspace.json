@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Lab/2024-01-18.md",
+                "file": "TOEFL/Speaking 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "TOEFL/Speaking 1 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f520750ee7458bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/Speaking 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69d05ef74e87b139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/Speaking 2 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "TOEFL/Speaking 2 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "TOEFL/Speaking 2 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Lab/2024-02-17.md"
+                "file": "TOEFL/Speaking 2 Summary.md"
               }
             }
           },
@@ -201,12 +225,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8fa13d34b65cceb",
+  "active": "69d05ef74e87b139",
   "lastOpenFiles": [
+    "TOEFL/Speaking 2.md",
+    "TOEFL/Speaking 2 Summary.md",
+    "TOEFL/Speaking 1.md",
+    "TOEFL/Speaking 1 Summary.md",
     "Speech Lab/2024-01-18.md",
+    "Speech Lab/2024-02-17.md",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/attachments/Pasted image 20240217202912.png",
-    "Speech Lab/2024-02-17.md",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/2023-12-26.md",
     "Speech Lab/Untitled.md",
@@ -220,7 +248,6 @@
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
-    "TOEFL/Speaking 1 Summary.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
     "ISPD/attachments/Pasted image 20240126225128.png",
     "ISPD/attachments",
@@ -230,8 +257,6 @@
     "IC Design/Chap 8 - Datapath.md",
     "IC Design/Chap 7 - Sequencing (Sequential Circuit Design).md",
     "IC Design/Chap 6 - Gates ( Combinational Circuit Design ).md",
-    "IC Design/Chap 5 - Wires.md",
-    "IC Design/Chap 4 - Power.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
