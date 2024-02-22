@@ -7,6 +7,9 @@
 * TPO2
 	* The university has decided to stop the free bus service for students because A and B.
 	* **However, the man in the conversation doesn't agree with that.**
-	* **First, he thinks** the reasons that there a few students to take the 
+	* **First, he thinks** the reason that there a few students to take the bus is that
 	* **Second, he mentions that** 
 	* **So, that's why he's against the policy change.**
+
+* TPO3
+	* The U announced that the dining services stop serve hot food 
