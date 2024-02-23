@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29ac8f8b31e093d5",
+            "id": "a010bddfe5e24645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "Leading Enterprise/W1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "Leading Enterprise/W1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "Leading Enterprise/W1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Speaking 2.md"
+                "file": "Leading Enterprise/W1.md"
               }
             }
           },
@@ -164,11 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af8b03a407d75688",
+  "active": "a010bddfe5e24645",
   "lastOpenFiles": [
-    "Untitled",
-    "TOEFL/Speaking 2 Summary.md",
     "TOEFL/Speaking 2.md",
+    "Leading Enterprise/W1.md",
+    "Leading Enterprise",
+    "TOEFL/Speaking 2 Summary.md",
     "ML 2021/12 Reinforcement Learning.md",
     "Speech Lab/2024-01-18.md",
     "TOEFL/Speaking 1.md",
@@ -211,7 +212,6 @@
     "attachments/Pasted image 20240106110722.png",
     "ML 2021/attachments/Pasted image 20231228184330.png",
     "attachments/Pasted image 20231226235026.png",
-    "attachments",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
   ]
