@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "2024-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Lab/2024-02-17.md"
+                "file": "2024-02-24.md"
               }
             }
           },
@@ -166,21 +166,23 @@
   },
   "active": "a010bddfe5e24645",
   "lastOpenFiles": [
-    "Speech Lab/2024-01-18.md",
+    "Others/2024-01-10.md",
+    "2024-02-24.md",
+    "TOEFL/Untitled.md",
+    "TOEFL/Speaking 1.md",
     "Speech Lab/2024-02-17.md",
+    "Speech Lab/2024-01-18.md",
     "Leading Enterprise/W1.md",
     "TOEFL/Speaking 2.md",
     "Leading Enterprise",
     "TOEFL/Speaking 2 Summary.md",
     "ML 2021/12 Reinforcement Learning.md",
-    "TOEFL/Speaking 1.md",
     "TOEFL/Speaking 1 Summary.md",
     "TOEFL/題型.md",
     "ML 2021/attachments/Pasted image 20240217202912.png",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/2023-12-26.md",
     "Speech Lab/Untitled.md",
-    "Others/2024-01-10.md",
     "2024-02-05.md",
     "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
@@ -195,8 +197,6 @@
     "ISPD/attachments",
     "ISPD/CUDA Programming.md",
     "IC Design/Chap 10 - Power&Clock Distribution, IO, and Packaging.md",
-    "IC Design/Chap 9 - Memory.md",
-    "IC Design/Chap 8 - Datapath.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
