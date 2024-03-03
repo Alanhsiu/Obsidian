@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W2.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W2.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W2.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W2.md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           },
@@ -180,8 +179,8 @@
   },
   "active": "1501554b3c988dbb",
   "lastOpenFiles": [
-    "Leading Enterprise/W1.md",
     "Leading Enterprise/W2.md",
+    "Leading Enterprise/W1.md",
     "2024-02-24.md",
     "Others/2024-01-10.md",
     "TOEFL/Untitled.md",
