@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 590.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/01 Overview.md"
+                "file": "ML 2021/06 Generative Adversarial Network (GAN).md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "1501554b3c988dbb",
   "lastOpenFiles": [
-    "ML 2021/02 Deep Learning - General Guidance.md",
-    "ML 2021/03 CNN.md",
     "ML 2021/01 Overview.md",
     "ML 2021/00 Pytorch tutorial.md",
+    "ML 2021/03 CNN.md",
+    "ML 2021/02 Deep Learning - General Guidance.md",
     "Speech Lab/2024-02-17.md",
     "Speech Lab/2024-01-18.md",
     "Speech Lab/2023-12-26.md",
@@ -185,7 +185,7 @@
     "TOEFL/Speaking 2 Summary.md",
     "TOEFL/Speaking 1 Summary.md",
     "TOEFL/題型.md",
-    "ML 2021/attachments/Pasted image 20240217202912.png",
+    "attachments 1/Pasted image 20240217202912.png",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/Untitled.md",
     "2024-02-05.md",
@@ -210,7 +210,7 @@
     "TOEFL",
     "attachments/Pasted image 20240106110750.png",
     "attachments/Pasted image 20240106110722.png",
-    "ML 2021/attachments/Pasted image 20231228184330.png",
+    "attachments 1/Pasted image 20231228184330.png",
     "attachments/Pasted image 20231226235026.png",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
