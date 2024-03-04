@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "ML 2021/01 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "ML 2021/01 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speech Lab/2024-02-17.md",
+                "file": "ML 2021/01 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speech Lab/2024-02-17.md"
+                "file": "ML 2021/01 Overview.md"
               }
             }
           },
@@ -166,10 +166,14 @@
   },
   "active": "1501554b3c988dbb",
   "lastOpenFiles": [
+    "ML 2021/02 Deep Learning - General Guidance.md",
+    "ML 2021/03 CNN.md",
+    "ML 2021/01 Overview.md",
+    "ML 2021/00 Pytorch tutorial.md",
+    "Speech Lab/2024-02-17.md",
     "Speech Lab/2024-01-18.md",
     "Speech Lab/2023-12-26.md",
     "Leading Enterprise/W1.md",
-    "Speech Lab/2024-02-17.md",
     "ML 2021/12 Reinforcement Learning.md",
     "Leading Enterprise/W2.md",
     "2024-02-24.md",
@@ -190,13 +194,9 @@
     "ISPD/CUGR.md",
     "Interview/Leetcode 75.md",
     "ISPD/CUGR Implementation.md",
-    "Interview/Google Software Intern.md",
-    "Interview/NVIDIA System Software Engineering Intern - GPU.md",
-    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
     "ISPD/attachments/Pasted image 20240126225128.png",
     "ISPD/attachments",
-    "ISPD/CUDA Programming.md",
     "Leetcode",
     "ISPD",
     "Interview/attachments/Pasted image 20240122001551.png",
