@@ -1,7 +1,7 @@
 * Concept
 	* **Forward propagation**: the process of computing predictions using a model
 	* **Backward propagation**: the calculation of gradients to update model parameters
-	*    ```x = torch.tensor([3.0])  
+	*   ```x = torch.tensor([3.0])  
 		y = torch.tensor([18.0])
 		a = torch.tensor([1.0], requires_grad=True)  
 		loss_func = torch.nn.MSELoss()  
