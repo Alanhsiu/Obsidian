@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "1501554b3c988dbb",
   "lastOpenFiles": [
+    "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/01 Overview.md",
-    "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
     "Speech Lab/2024-02-17.md",
