@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           },
@@ -189,11 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a61352e566169a6d",
+  "active": "be49e25ec539a7ce",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "ML 2021/12 Reinforcement Learning.md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
