@@ -2,4 +2,6 @@
 * Policy Gradient
 	* Env, Reward Function 是固定的
 	* 只有 Actor 可以調整
-* Tip2
+* Tips
+	* Add a Baseline: 讓 reward 有正有負
+	* Assign Suitable Credit: 加入係數 gamma，來減少對後面 action 所得的 reward 的影響
