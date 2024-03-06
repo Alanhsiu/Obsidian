@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1211a924818055ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1501554b3c988dbb",
+  "active": "1211a924818055ca",
   "lastOpenFiles": [
     "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/12 Reinforcement Learning.md",
