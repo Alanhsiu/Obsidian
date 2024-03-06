@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1211a924818055ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1211a924818055ca",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
+    "DRL 2018",
     "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
@@ -204,7 +194,6 @@
     "ISPD/CUGR 2.0.md",
     "ISPD/GAMER.md",
     "ISPD/CUGR.md",
-    "Interview/Leetcode 75.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
     "ISPD/attachments/Pasted image 20240126225128.png",
     "ISPD/attachments",
