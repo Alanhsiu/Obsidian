@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f75755227ce88f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leading Enterprise/W5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W4.md",
+                "file": "Leading Enterprise/W5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W4.md",
+                "file": "Leading Enterprise/W5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W4.md"
+                "file": "Leading Enterprise/W5.md"
               }
             }
           },
@@ -213,10 +225,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5dcf55eca0ab26",
+  "active": "f75755227ce88f1a",
   "lastOpenFiles": [
-    "Leading Enterprise/W3.md",
     "Leading Enterprise/W4.md",
+    "Leading Enterprise/W5.md",
+    "Leading Enterprise/W3.md",
     "Leading Enterprise/W2.md",
     "ML 2021/12 Reinforcement Learning.md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
@@ -245,7 +258,6 @@
     "attachments 1/Pasted image 20240217202912.png",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/Untitled.md",
-    "2024-02-05.md",
     "ISPD/attachments/Pasted image 20240126225135.png",
     "ISPD/attachments/Pasted image 20240126225128.png",
     "ISPD/attachments",
