@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "TOEFL/Speaking 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "TOEFL/Speaking 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "TOEFL/Speaking 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Speaking 2.md"
+                "file": "TOEFL/Speaking 1.md"
               }
             }
           },
@@ -227,6 +227,10 @@
   },
   "active": "f75755227ce88f1a",
   "lastOpenFiles": [
+    "TOEFL/Speaking 1 Summary.md",
+    "TOEFL/Speaking 2.md",
+    "TOEFL/Speaking 2 Summary.md",
+    "TOEFL/題型.md",
     "TOEFL/Listening.md",
     "Leading Enterprise/W5.md",
     "Leading Enterprise/W4.md",
@@ -250,11 +254,7 @@
     "Others/2024-01-10.md",
     "TOEFL/Untitled.md",
     "TOEFL/Speaking 1.md",
-    "TOEFL/Speaking 2.md",
     "Leading Enterprise",
-    "TOEFL/Speaking 2 Summary.md",
-    "TOEFL/Speaking 1 Summary.md",
-    "TOEFL/題型.md",
     "attachments 1/Pasted image 20240217202912.png",
     "Interview/NVIDIA Introduction.md",
     "Speech Lab/Untitled.md",
