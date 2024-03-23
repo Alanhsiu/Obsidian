@@ -37,4 +37,11 @@
 	* Second,
 
 * TPO7
-	* 
+
+* TPO8
+
+* TPO9
+
+* TPO10
+	* A student in the letter suggests that the university could ...
+	* How
