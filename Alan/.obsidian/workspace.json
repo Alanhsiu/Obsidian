@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W4.md",
+                "file": "TOEFL/Speaking 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Writing 0323.md",
+                "file": "TOEFL/Speaking 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Writing 0323.md",
+                "file": "TOEFL/Speaking 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Writing 0323.md"
+                "file": "TOEFL/Speaking 2.md"
               }
             }
           },
@@ -237,19 +237,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "475d5617a3a359a1",
+  "active": "eb5dcf55eca0ab26",
   "lastOpenFiles": [
-    "TOEFL/Speaking 1 Summary.md",
+    "TOEFL/Listening.md",
+    "TOEFL/Speaking 2 Summary.md",
+    "Leading Enterprise/W4.md",
     "TOEFL/Writing 0323.md",
+    "TOEFL/Speaking 1 Summary.md",
     "Others/2024-01-03.md",
     "Others/2024-01-10.md",
     "TOEFL/題型.md",
     "TOEFL/Speaking 1.md",
     "TOEFL/Speaking 2.md",
-    "TOEFL/Speaking 2 Summary.md",
-    "TOEFL/Listening.md",
     "Leading Enterprise/W5.md",
-    "Leading Enterprise/W4.md",
     "Leading Enterprise/W3.md",
     "Leading Enterprise/W2.md",
     "ML 2021/12 Reinforcement Learning.md",
