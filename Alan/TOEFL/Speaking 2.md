@@ -29,3 +29,9 @@
 	* **The man in the conversation thinks this is a good idea.**
 	* First,
 	* Second,
+
+* TPO6
+	* **A student proposed the school to** ..., because ... and ....
+	* However, the woman in the conversation doesn't agree with the **proposal**.
+	* First,
+	* Second,
