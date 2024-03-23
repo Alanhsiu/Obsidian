@@ -23,3 +23,9 @@
 	* However,
 	* First,
 	* Second,
+
+* TPO5
+	* The U has decided to ..., and ...
+	* **The man in the conversation thinks this is a good idea.**
+	* First,
+	* Second,
