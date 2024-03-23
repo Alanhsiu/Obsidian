@@ -37,11 +37,14 @@
 	* Second,
 
 * TPO7
+	* The U has decided to ...,  because ... and ...
 
 * TPO8
+	* The U has announced that 
 
 * TPO9
+	* The U has announced that
 
 * TPO10
-	* A student in the letter suggests that the university could ...
-	* How
+	* **A student in the letter suggests that the university could** ...
+	* However, the woman in the conversation doesn't agree with the proposal.
