@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "1b39f01e59fa3f16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "f75755227ce88f1a",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,7 +247,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5dcf55eca0ab26",
+  "active": "1b39f01e59fa3f16",
   "lastOpenFiles": [
     "TOEFL/Listening.md",
     "TOEFL/Speaking 2 Summary.md",
