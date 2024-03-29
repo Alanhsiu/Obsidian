@@ -1,7 +1,7 @@
 {
   "accentColor": "#31a1dd",
   "baseFontSize": 21,
-  "cssTheme": "Dracula for Obsidian",
+  "cssTheme": "Things",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "dashboard",
