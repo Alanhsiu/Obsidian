@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W6.md",
+                "file": "WorldQuant/2023-11-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W6.md",
+                "file": "WorldQuant/2023-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W6.md",
+                "file": "WorldQuant/2023-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W6.md"
+                "file": "WorldQuant/2023-11-18.md"
               }
             }
           },
@@ -263,8 +263,11 @@
   },
   "active": "d0dd0f25d7746cb3",
   "lastOpenFiles": [
-    "Leading Enterprise/W5.md",
+    "WorldQuant/2023-11-11.md",
+    "WorldQuant/2023-11-18.md",
+    "WorldQuant/2023-11-28.md",
     "Leading Enterprise/W6.md",
+    "Leading Enterprise/W5.md",
     "TOEFL/Listening.md",
     "TOEFL/Speaking 2 Summary.md",
     "Leading Enterprise/W4.md",
@@ -289,9 +292,6 @@
     "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
     "Speech Lab/2024-02-17.md",
-    "Speech Lab/2024-01-18.md",
-    "Speech Lab/2023-12-26.md",
-    "Leading Enterprise/W1.md",
     "Leading Enterprise",
     "attachments 1/Pasted image 20240217202912.png",
     "ISPD/attachments/Pasted image 20240126225135.png",
