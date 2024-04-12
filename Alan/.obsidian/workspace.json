@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W8.md",
+                "file": "Leading Enterprise/W6.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "五",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W8.md",
+                "file": "Leading Enterprise/W6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W8.md",
+                "file": "Leading Enterprise/W6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W8.md"
+                "file": "Leading Enterprise/W6.md"
               }
             }
           },
@@ -275,12 +276,12 @@
   },
   "active": "6571730b7f798072",
   "lastOpenFiles": [
-    "Leading Enterprise/W6.md",
+    "Leading Enterprise/W5.md",
     "Leading Enterprise/W8.md",
+    "Leading Enterprise/W6.md",
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-28.md",
-    "Leading Enterprise/W5.md",
     "TOEFL/Listening.md",
     "TOEFL/Speaking 2 Summary.md",
     "Leading Enterprise/W4.md",
