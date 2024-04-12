@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W7.md",
+                "file": "Leading Enterprise/W8.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W7.md",
+                "file": "Leading Enterprise/W8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W7.md",
+                "file": "Leading Enterprise/W8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W7.md"
+                "file": "Leading Enterprise/W8.md"
               }
             }
           },
@@ -276,7 +276,7 @@
   "active": "6571730b7f798072",
   "lastOpenFiles": [
     "Leading Enterprise/W6.md",
-    "Leading Enterprise/W7.md",
+    "Leading Enterprise/W8.md",
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-28.md",
