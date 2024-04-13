@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "d0dd0f25d7746cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6571730b7f798072",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W6.md",
+                "file": "Leading Enterprise/W5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W6.md",
+                "file": "Leading Enterprise/W5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W6.md"
+                "file": "Leading Enterprise/W5.md"
               }
             }
           },
@@ -274,11 +262,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6571730b7f798072",
+  "active": "1b39f01e59fa3f16",
   "lastOpenFiles": [
+    "Leading Enterprise/W6.md",
     "Leading Enterprise/W5.md",
     "Leading Enterprise/W8.md",
-    "Leading Enterprise/W6.md",
     "WorldQuant/2023-11-18.md",
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-28.md",
