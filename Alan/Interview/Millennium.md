@@ -23,3 +23,6 @@
 		* **Polymorphism**：**多態**是一種允許不同類的對象通過同一個接口表現出不同行為的特性，它使接口的一般化設計成為可能，提高了程序的靈活性。
 		* 「基底類別」可以定義和實作『虛擬』屬性和方法（**virtual**）。
 		* 「衍生類別」可以覆寫「基底類別」的『虛擬』屬性和方法（**override**）。
+* Alpha
+	* In BRAIN platform, an 'Alpha' refers to a mathematical model or strategy, written as an expression, which places different bets (weights) on different instruments (stocks), and is expected to be profitable in the long run. After a user enters an Alpha expression that consists of data, operators and constants, the input code is evaluated for each instrument to construct a portfolio. Then BRAIN platform makes investments in each instrument for a one-day period in proportion to the values of the expression. The process repeats each day.
+	* 在BRAIN平台中，「Alpha」指的是一個數學模型或策略，以表達式的形式書寫，對不同的工具（股票）進行不同的投注（權重），並期望從長遠來看能夠盈利。用戶輸入一個包含數據、運算符和常數的Alpha表達式後，輸入代碼將針對每個工具進行評估，以構建投資組合。然後BRAIN平台根據表達式的值，按比例對每個工具進行為期一天的投資。這個過程每天重複一次。
