@@ -4,124 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "118adbfa7d2b27d7",
+        "id": "41b152ca4ee2a42b",
         "type": "tabs",
         "children": [
           {
-            "id": "1501554b3c988dbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a61352e566169a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be49e25ec539a7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8d42842e2a074be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb5dcf55eca0ab26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOEFL/Speaking 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b39f01e59fa3f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/NVIDIA Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fbb162952891e8b",
+            "id": "c271a16cdaca59ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Interview/Millennium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6571730b7f798072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f75755227ce88f1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOEFL/Speaking 1 Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "475d5617a3a359a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOEFL/Writing 0323.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Interview/Millennium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
+                "file": "Interview/Millennium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md"
+                "file": "Interview/Millennium.md"
               }
             }
           },
@@ -272,34 +164,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1501554b3c988dbb",
+  "active": "c271a16cdaca59ed",
   "lastOpenFiles": [
-    "Interview/Millennium.md",
-    "WorldQuant/2023-11-11.md",
+    "TOEFL/Writing 0323.md",
+    "TOEFL/Speaking 1 Summary.md",
+    "Leading Enterprise/W6.md",
     "Interview/NVIDIA Introduction.md",
+    "Interview/Millennium.md",
+    "TOEFL/Speaking 2.md",
+    "Leading Enterprise/W3.md",
+    "Leading Enterprise/W2.md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "ML 2021/12 Reinforcement Learning.md",
+    "ML 2021/06 Generative Adversarial Network (GAN).md",
+    "ML 2021/04 Self Attention.md",
+    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
+    "ML 2021/02 Deep Learning - General Guidance.md",
+    "ML 2021/02 Deep Learning - Loss of Classification.md",
+    "ML 2021/03 CNN.md",
+    "ML 2021/05 Transformer.md",
+    "ML 2021/07 Self Supervised Learning (BERT).md",
+    "ML 2021/01 Overview.md",
+    "WorldQuant/2023-11-11.md",
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/Leetcode 75.md",
-    "TOEFL/Speaking 2.md",
-    "TOEFL/Speaking 1 Summary.md",
     "TOEFL/Speaking 1.md",
     "TOEFL/Listening.md",
-    "Leading Enterprise/W5.md",
-    "Leading Enterprise/W6.md",
-    "Leading Enterprise/W8.md",
-    "WorldQuant/2023-11-18.md",
-    "WorldQuant/2023-11-28.md",
-    "TOEFL/Speaking 2 Summary.md",
-    "Leading Enterprise/W4.md",
-    "TOEFL/Writing 0323.md",
-    "Others/2024-01-03.md",
-    "Others/2024-01-10.md",
-    "TOEFL/題型.md",
-    "Leading Enterprise/W3.md",
-    "Leading Enterprise/W2.md",
-    "ML 2021/12 Reinforcement Learning.md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
