@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "Interview/NVIDIA Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fbb162952891e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/MLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "Interview/MLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Speaking 2.md",
+                "file": "Interview/MLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Speaking 2.md"
+                "file": "Interview/MLP.md"
               }
             }
           },
@@ -261,8 +273,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b39f01e59fa3f16",
+  "active": "5fbb162952891e8b",
   "lastOpenFiles": [
+    "Interview/NVIDIA Introduction.md",
+    "Interview/MLP.md",
+    "Interview/Google Software Intern.md",
+    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
+    "Interview/NVIDIA System Software Engineering Intern - GPU.md",
+    "Interview/Leetcode 75.md",
+    "TOEFL/Speaking 2.md",
     "TOEFL/Speaking 1 Summary.md",
     "TOEFL/Speaking 1.md",
     "TOEFL/Listening.md",
@@ -278,20 +297,13 @@
     "Others/2024-01-03.md",
     "Others/2024-01-10.md",
     "TOEFL/題型.md",
-    "TOEFL/Speaking 2.md",
     "Leading Enterprise/W3.md",
     "Leading Enterprise/W2.md",
     "ML 2021/12 Reinforcement Learning.md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
-    "ML 2021/00 Pytorch tutorial.md",
-    "ML 2021/06 Generative Adversarial Network (GAN).md",
-    "ML 2021/01 Overview.md",
-    "ML 2021/03 CNN.md",
-    "ML 2021/02 Deep Learning - General Guidance.md",
     "Leading Enterprise",
     "attachments 1/Pasted image 20240217202912.png",
     "ISPD/attachments/Pasted image 20240126225135.png",
