@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/MLP.md",
+                "file": "WorldQuant/2023-11-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/MLP.md",
+                "file": "WorldQuant/2023-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/MLP.md",
+                "file": "WorldQuant/2023-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/MLP.md"
+                "file": "WorldQuant/2023-11-11.md"
               }
             }
           },
@@ -275,8 +275,8 @@
   },
   "active": "5fbb162952891e8b",
   "lastOpenFiles": [
-    "Interview/NVIDIA Introduction.md",
     "Interview/MLP.md",
+    "Interview/NVIDIA Introduction.md",
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
