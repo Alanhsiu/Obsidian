@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Worldquant.md",
+                "file": "WorldQuant/2023-11-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b91371da4b90213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorldQuant/Dell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Worldquant.md",
+                "file": "WorldQuant/Dell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Worldquant.md",
+                "file": "WorldQuant/Dell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Worldquant.md"
+                "file": "WorldQuant/Dell.md"
               }
             }
           },
@@ -177,10 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96ba318fa85f52be",
+  "active": "5b91371da4b90213",
   "lastOpenFiles": [
-    "Interview/Google Software Intern.md",
+    "WorldQuant/2023-11-28.md",
+    "WorldQuant/Dell.md",
     "Interview/Worldquant.md",
+    "Interview/Google Software Intern.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/Leetcode 75.md",
     "Interview/NVIDIA Introduction.md",
@@ -203,8 +217,6 @@
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/03 CNN.md",
     "ML 2021/05 Transformer.md",
-    "ML 2021/07 Self Supervised Learning (BERT).md",
-    "ML 2021/01 Overview.md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
