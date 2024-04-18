@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96ba318fa85f52be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/Worldquant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Millennium.md",
+                "file": "Interview/Worldquant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Millennium.md",
+                "file": "Interview/Worldquant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Millennium.md"
+                "file": "Interview/Worldquant.md"
               }
             }
           },
@@ -164,13 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c271a16cdaca59ed",
+  "active": "96ba318fa85f52be",
   "lastOpenFiles": [
+    "Interview/Millennium.md",
+    "Interview/Worldquant.md",
     "TOEFL/Writing 0323.md",
     "TOEFL/Speaking 1 Summary.md",
     "Leading Enterprise/W6.md",
     "Interview/NVIDIA Introduction.md",
-    "Interview/Millennium.md",
     "TOEFL/Speaking 2.md",
     "Leading Enterprise/W3.md",
     "Leading Enterprise/W2.md",
@@ -191,7 +205,6 @@
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "Interview/Leetcode 75.md",
     "TOEFL/Speaking 1.md",
-    "TOEFL/Listening.md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
