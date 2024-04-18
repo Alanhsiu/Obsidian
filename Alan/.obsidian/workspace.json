@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorldQuant/Dell.md",
+                "file": "Interview/Dell 分享.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorldQuant/Dell.md",
+                "file": "Interview/Dell 分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorldQuant/Dell.md",
+                "file": "Interview/Dell 分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorldQuant/Dell.md"
+                "file": "Interview/Dell 分享.md"
               }
             }
           },
@@ -189,10 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b91371da4b90213",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
+    "WorldQuant/attachments/IMG_7759.jpeg",
+    "WorldQuant/attachments/IMG_7758.jpeg",
+    "WorldQuant/attachments",
     "WorldQuant/2023-11-28.md",
-    "WorldQuant/Dell.md",
+    "Interview/Dell 分享.md",
     "Interview/Worldquant.md",
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
@@ -216,7 +219,6 @@
     "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/03 CNN.md",
-    "ML 2021/05 Transformer.md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
@@ -231,12 +233,10 @@
     "Interview/attachments",
     "Interview",
     "Physical Design",
-    "IC Design",
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20240110195034.png",
     "attachments/Pasted image 20240106110750.png",
     "attachments/Pasted image 20240106110722.png",
-    "attachments 1/Pasted image 20231228184330.png",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
   ]
