@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "Leading Enterprise/W10.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "Leading Enterprise/W10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "Leading Enterprise/W10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md"
+                "file": "Leading Enterprise/W10.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "93eef2b664df9738",
   "lastOpenFiles": [
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "Leading Enterprise/W10.md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Leading Enterprise/W9.md",
     "Leading Enterprise/W8.md",
@@ -231,7 +232,6 @@
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "ML 2021/04 Self Attention.md",
-    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
