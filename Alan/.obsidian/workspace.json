@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41b152ca4ee2a42b",
+        "id": "57fa3751730d251e",
         "type": "tabs",
         "children": [
           {
-            "id": "c271a16cdaca59ed",
+            "id": "b6a9796d8aae8b63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Millennium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96ba318fa85f52be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WorldQuant/2023-11-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b91371da4b90213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W8.md",
+                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W8.md",
+                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W8.md",
+                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W8.md"
+                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md"
               }
             }
           },
@@ -189,26 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b91371da4b90213",
+  "active": "b6a9796d8aae8b63",
   "lastOpenFiles": [
-    "Leading Enterprise/W10.md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "Interview/Millennium.md",
+    "WorldQuant/2023-11-28.md",
+    "Leading Enterprise/W8.md",
+    "Leading Enterprise/W10.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Leading Enterprise/W9.md",
-    "Leading Enterprise/W8.md",
     "Interview/Dell 分享.md",
     "WorldQuant/attachments/IMG_7759.jpeg",
     "WorldQuant/attachments/IMG_7758.jpeg",
     "WorldQuant/attachments",
-    "WorldQuant/2023-11-28.md",
     "Interview/Worldquant.md",
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/Leetcode 75.md",
     "Interview/NVIDIA Introduction.md",
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
-    "Interview/Millennium.md",
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-18.md",
     "TOEFL/Writing 0323.md",
