@@ -13,3 +13,8 @@
 	* 其他
 		* 用戶、投資人 / VC、項目方、做市商、韭菜
 		* OTC Trading, Portfolio mana, influencers, Lending platforms, Analytical tools and info resources, Media, Bot, signal service, Exchange services
+* 代幣 / 貨幣總類
+	* Infrastructure / dApp
+	* 公鏈一定要發幣、但dApp不一定要發幣
+	* 公鏈幣：驗證費、礦工費。獎勵礦工。
+	* DeFi 賽道上的代幣：拿到這樣的代幣就可以去相對應的生態玩（如湯姆熊）。透過獎勵吸引用戶來使用產品。
