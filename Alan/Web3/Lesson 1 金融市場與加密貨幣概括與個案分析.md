@@ -10,4 +10,6 @@
 	* 交易所：如幣安、OKX。
 	* 加密貨幣錢包：中心化交易所本質上是一個熱錢包（大家的錢是混在一起的）。
 	* 礦工：負責處理和驗證交易。
-	* 
+	* 其他
+		* 用戶、投資人 / VC、項目方、做市商、韭菜
+		* OTC Trading, Portfolio mana, influencers, Lending platforms, Analytical tools and info resources, Media, Bot, signal service, Exchange services
