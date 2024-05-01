@@ -1,13 +1,13 @@
 {
   "accentColor": "#31a1dd",
   "baseFontSize": 21,
-  "cssTheme": "Minimal",
+  "cssTheme": "GitHub Theme",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "dashboard",
     "dot_relationship_line"
   ],
-  "textFontFamily": "Damascus,Arial,Georgia",
+  "textFontFamily": "Apple LiSung,Apple Braille,AppleMyungjo,Arial,Georgia",
   "interfaceFontFamily": "PingFang TC,Georgia,Microsoft Sans Serif",
   "monospaceFontFamily": "Arial,PingFang TC",
   "theme": "obsidian"
