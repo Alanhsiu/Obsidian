@@ -14,4 +14,11 @@
 
 * Fix "Target Network", after updating N times, replace it with current network.
 * Exploration
-	* 
+	* 給定一個 state，看哪一個 action 得到的 Q value 最大就採用它
+	* 問題：其他 action 就永遠不會採用到了
+	* ![[Pasted image 20240502001153.png]]
+* Replay Buffer
+	* 裡面存的可能是由不同的 $\pi$ (policy) 得到的結果
+	* 可以減少搜集資料的時間，每次隨機從裡面拿出一個 batch 拿出來 
+	* 一個 batch 裡面的資料比較 diverse (比較好)
+	* ![[Pasted image 20240502001453.png]]
