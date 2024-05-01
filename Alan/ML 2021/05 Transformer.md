@@ -26,7 +26,7 @@
 		* 傳統方法：Encoder 中會分成很多的 block，每一個 block 都是輸入一排向量，輸出一排向量。最後一個 block 會輸出最終的向量序列。Encoder 的每個 block 並不是神經網絡的一層，在每個 block 中，輸入一排向量後做 Self-attention，考慮整個序列的信息，輸出另外一排向量。接下來這排向量會進到 FC，輸出另外一排向量，這一排向量就是一個 block 的輸出
 		* ![[Pasted image 20231002154922.png]]
 	* Transformer 的 Encoder：
-		* 加入了 residual connection & layer normalization 的設計 (Add & Norm)
+		* 加入了 **residual connection** & **layer normalization** 的設計 (Add & Norm)
 		* 步驟
 			1. 考慮全部向量經由 Self-attention 得到輸出向量 a，向量 a 加上其輸入向量 b 得到新的輸出，稱為 residual connection（每個子層的輸出加上其輸入）
 			2. 計算輸入向量 a+b 的 mean 和 standard deviation，做 layer normalization

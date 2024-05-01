@@ -8,7 +8,7 @@
 	* 所有的 batch 看過一遍，叫做一個 epoch
 	* 因為有平行運算的能力，因此實際上當 batch size 小（batch 數量多）的時候，要跑完一個 Epoch 花的時間比大的 batch size 還要多；反之，大的 batch size 下，跑完一個 Epoch 花的時間反而是比較少的
 	* 使用較小的 Batch Size，在更新參數時會**有 Noisy** → 有利於訓練
-	* 使用較小的 Batch Size 可以**避免 Overfitting** → 有利於測試
+	* 使用較大的 Batch Size 可以**避免 Overfitting** → 有利於測試
 * Momentum
 	* Vanilla Gradient Descent (一般的梯度下降): 只考慮梯度的方向，往反方向移動
 	* Gradient Descent + Momentum (考慮動量): update 的方向不是只考慮現在的 gradient，而是考慮過去所有 gradient 的總合

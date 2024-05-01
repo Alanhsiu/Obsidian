@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "ML 2021/05 Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 380.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "ML 2021/05 Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "ML 2021/05 Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md"
+                "file": "ML 2021/05 Transformer.md"
               }
             }
           },
@@ -191,16 +191,20 @@
   },
   "active": "4d5478a5836f77d3",
   "lastOpenFiles": [
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "ML 2021/04 Self Attention.md",
+    "ML 2021/03 CNN.md",
+    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
+    "ML 2021/02 Deep Learning - Loss of Classification.md",
+    "ML 2021/02 Deep Learning - General Guidance.md",
+    "ML 2021/01 Overview.md",
+    "ML 2021/00 Pytorch tutorial.md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/attachments/Pasted image 20240501230211.png",
     "DRL 2018/attachments/Pasted image 20240501230126.png",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/05 Transformer.md",
-    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
-    "ML 2021/02 Deep Learning - Loss of Classification.md",
-    "ML 2021/01 Overview.md",
     "TOEFL/Speaking/Speaking 2.md",
     "TOEFL/Speaking/Speaking 2 Summary.md",
     "TOEFL/Writing/Academic Discussion 0501.md",
@@ -228,12 +232,8 @@
     "Leading Enterprise/W10.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Leading Enterprise/W9.md",
-    "Interview/Dell 分享.md",
     "WorldQuant/attachments/IMG_7759.jpeg",
     "WorldQuant/attachments",
-    "Interview/Worldquant.md",
-    "Interview/Google Software Intern.md",
-    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "ML 2021/attachments",
     "DRL 2018",
     "Leading Enterprise",
