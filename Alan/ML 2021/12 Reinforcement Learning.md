@@ -57,7 +57,7 @@
 	* How to train critic
 		* Monte Carlo（MC） Based Approach：將 actor 拿去跟環境互動很多輪（episodes），得到一些遊戲的記錄（訓練資料）
 		* Temporal-Difference（TD） Approach：不需玩完整場遊戲（一個 episode）得到訓練資料。只要在看到 observation $s_t$， actor 執行 action $a_t$，得到 reward $r_t$，接下來再看到 observation $s_{t+1}$，就能夠更新一次 critic 參數。此方法對於很長的遊戲或玩不完的遊戲非常合適
-	* Deep Q Network（DQN）https://youtu.be/o_g9JUMw1Oc
+	* Deep Q Network（DQN）[[https://youtu.be/o_g9JUMw1Oc]]
 * Reward Shaping
 	* Sparse Reward
 		* 問題： Sparse Reward 就是 reward 大多數情況都是 0，只有在少數情況是一個非常大的數值。意味著很多 actions 無從判斷是好是壞。例如圍棋到遊戲結束才會有 reward，過程中都沒有 reward。
