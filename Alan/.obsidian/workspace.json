@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06a6f1ca37224062",
+        "id": "380cf8b56c9b30e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8939b7c9b34b2345",
+            "id": "68c6db82825ff399",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,8 +164,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8939b7c9b34b2345",
+  "active": "68c6db82825ff399",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "TOEFL/Writing/Academic Discussion 0501.md",
     "TOEFL/Writing/Academic Discussion 0323.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
@@ -185,7 +186,6 @@
     "DRL 2018/attachments/Pasted image 20240428190722.png",
     "DRL 2018/attachments/Pasted image 20240428190526.png",
     "DRL 2018/attachments",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "Interview/Millennium.md",
     "WorldQuant/2023-11-28.md",
     "Leading Enterprise/W8.md",
