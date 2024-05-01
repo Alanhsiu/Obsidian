@@ -4,35 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e4910c22115b4a9d",
+        "id": "b88d701d5244bb38",
         "type": "tabs",
         "children": [
           {
-            "id": "c9343fd884bef459",
+            "id": "485623d359c46471",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc590804030d40a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOEFL/Writing 0323.md",
+                "file": "TOEFL/Writing/Academic Discussion 0323.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "06a6f1ca37224062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8939b7c9b34b2345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEFL/Writing/Academic Discussion 0501.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -106,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Writing 0323.md",
+                "file": "TOEFL/Writing/Academic Discussion 0501.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Writing 0323.md",
+                "file": "TOEFL/Writing/Academic Discussion 0501.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Writing 0323.md"
+                "file": "TOEFL/Writing/Academic Discussion 0501.md"
               }
             }
           },
@@ -177,8 +183,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc590804030d40a0",
+  "active": "8939b7c9b34b2345",
   "lastOpenFiles": [
+    "TOEFL/Writing/Academic Discussion 0323.md",
+    "TOEFL/Writing/Academic Discussion 0501.md",
+    "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
+    "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
+    "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
+    "TOEFL/Writing/attachments",
+    "TOEFL/Listening/Listening Skills.md",
+    "TOEFL/Format.md",
+    "TOEFL/Speaking/Speaking 1 Summary.md",
+    "TOEFL/Speaking",
+    "TOEFL/Writing",
+    "TOEFL/Listening",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "Web3",
@@ -205,26 +223,13 @@
     "Interview/NVIDIA System Software Engineering Intern - GPU.md",
     "WorldQuant/2023-11-11.md",
     "WorldQuant/2023-11-18.md",
-    "TOEFL/Writing 0323.md",
-    "TOEFL/Speaking 1 Summary.md",
     "Leading Enterprise/W6.md",
-    "TOEFL/Speaking 2.md",
-    "Leading Enterprise/W3.md",
-    "Leading Enterprise/W2.md",
-    "ML 2021/12 Reinforcement Learning.md",
-    "ML 2021/06 Generative Adversarial Network (GAN).md",
+    "TOEFL/Speaking/Speaking 2.md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
     "Leading Enterprise",
     "attachments 1/Pasted image 20240217202912.png",
-    "ISPD/attachments/Pasted image 20240126225135.png",
-    "ISPD/attachments/Pasted image 20240126225128.png",
-    "ISPD/attachments",
-    "Leetcode",
-    "ISPD",
-    "Interview/attachments/Pasted image 20240122001551.png",
-    "Interview/attachments",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
   ]
