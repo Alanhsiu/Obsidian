@@ -19,6 +19,8 @@
 	* ![[Pasted image 20240502001153.png]]
 * Replay Buffer
 	* 裡面存的可能是由不同的 $\pi$ (policy) 得到的結果
-	* 可以減少搜集資料的時間，每次隨機從裡面拿出一個 batch 拿出來 
+	* 可以減少搜集資料的時間，每次隨機從裡面拿出一個 batch 拿出來 update Q
 	* 一個 batch 裡面的資料比較 diverse (比較好)
 	* ![[Pasted image 20240502001453.png]]
+* Q-learning Algorithm
+	* ![[Pasted image 20240502002037.png]]
