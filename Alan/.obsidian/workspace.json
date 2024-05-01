@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b88d701d5244bb38",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "485623d359c46471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOEFL/Writing/Academic Discussion 0323.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "06a6f1ca37224062",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Writing/Academic Discussion 0501.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Writing/Academic Discussion 0501.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Writing/Academic Discussion 0501.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Writing/Academic Discussion 0501.md"
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md"
               }
             }
           },
@@ -185,8 +166,8 @@
   },
   "active": "8939b7c9b34b2345",
   "lastOpenFiles": [
-    "TOEFL/Writing/Academic Discussion 0323.md",
     "TOEFL/Writing/Academic Discussion 0501.md",
+    "TOEFL/Writing/Academic Discussion 0323.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
