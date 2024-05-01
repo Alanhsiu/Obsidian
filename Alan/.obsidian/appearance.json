@@ -1,13 +1,10 @@
 {
   "accentColor": "#31a1dd",
   "baseFontSize": 21,
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Dracula Official",
   "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "dashboard",
-    "dot_relationship_line"
-  ],
-  "textFontFamily": "Apple Braille,Arial,Georgia",
+  "enabledCssSnippets": [],
+  "textFontFamily": "AppleMyungjo,Arial,Georgia,Apple Braille",
   "interfaceFontFamily": "PingFang TC,Georgia,Microsoft Sans Serif,Apple Braille",
   "monospaceFontFamily": "Arial,PingFang TC",
   "theme": "obsidian"

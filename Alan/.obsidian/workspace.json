@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4700ee57715be013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,18 +177,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68c6db82825ff399",
+  "active": "4700ee57715be013",
   "lastOpenFiles": [
-    "DRL 2018/attachments/Pasted image 20240428190722.png",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "ML 2021/07 Self Supervised Learning (BERT).md",
+    "ML 2021/05 Transformer.md",
+    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
+    "ML 2021/02 Deep Learning - Loss of Classification.md",
+    "ML 2021/01 Overview.md",
     "TOEFL/Speaking/Speaking 2.md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "TOEFL/Speaking/Speaking 2 Summary.md",
+    "TOEFL/Writing/Academic Discussion 0501.md",
     "TOEFL/Writing/Academic Discussion 0323.md",
+    "DRL 2018/attachments/Pasted image 20240428190722.png",
     "TOEFL/Listening/Listening Skills.md",
     "TOEFL/Speaking/Speaking 1 Summary.md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/attachments/Pasted image 20240501171716.png",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
-    "TOEFL/Writing/Academic Discussion 0501.md",
     "DRL 2018/attachments/Pasted image 20240428191450.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
@@ -202,11 +221,6 @@
     "Interview/Google Software Intern.md",
     "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
     "Interview/Leetcode 75.md",
-    "Interview/NVIDIA Introduction.md",
-    "Interview/NVIDIA System Software Engineering Intern - GPU.md",
-    "WorldQuant/2023-11-11.md",
-    "WorldQuant/2023-11-18.md",
-    "Leading Enterprise/W6.md",
     "ML 2021/attachments/Pasted image 20240306143616.png",
     "ML 2021/attachments",
     "DRL 2018",
