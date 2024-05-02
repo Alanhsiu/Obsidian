@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "793112bd6d699a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d5478a5836f77d3",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md"
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md"
               }
             }
           },
@@ -190,13 +202,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4700ee57715be013",
+  "active": "793112bd6d699a01",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+    "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
+    "Untitled",
+    "DRL 2018/attachments/Pasted image 20240502104542.png",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/01 Overview.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
-    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/attachments/Pasted image 20240502093847.png",
@@ -208,7 +223,6 @@
     "DRL 2018/attachments/Pasted image 20240502094032.png",
     "DRL 2018/attachments/Pasted image 20240502094044.png",
     "DRL 2018/attachments/Pasted image 20240502094113.png",
-    "DRL 2018/attachments/Pasted image 20240502094352.png",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/05 Transformer.md",
     "ML 2021/04 Self Attention.md",
@@ -236,7 +250,6 @@
     "WorldQuant/attachments",
     "ML 2021/attachments",
     "DRL 2018",
-    "Leading Enterprise",
     "Untitled.canvas",
     "ML 2021/Untitled.canvas"
   ]

@@ -28,4 +28,8 @@
 
 * Q-function 計算出來的是一個 accumulated reward 的期望值(expect)，也就是在某一個 state 採取某一個 action，將玩到遊戲結束的所有 reward 進行一個統計，這邊得到的其實是一個 distribution，然後我們對這個 distribution 計算它的 mean，就是 Q-value。
 * 如果用一個 expect Q-value 來代表整個 reward 的話，可能無法 model reward 的 distribution。(不同的 distribution 是可能擁有相同的 mean 的)
-* 
+* Distributional Q-function 要做的就是 output distribution。
+* ![[Pasted image 20240502104542.png]]
+### Rainbow
+
+* 把剛才的所有技巧加起來就是 Rainbow，橫軸為 training process，縱軸是玩 "Atari" 的平均分數的和，取的是 median。
