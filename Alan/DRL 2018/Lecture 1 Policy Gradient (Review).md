@@ -14,4 +14,4 @@
 		* 這個 action 會影響的，是執行後到遊戲結束前的東西。前面的東西跟這個 action 沒有關。
 		* 離越遠的 action，和現在的 reward 就越沒關係。
 		* A: 在某個 state 下，執行某個 action 有多好（相較於其他 action）
-		* ![[Pasted image 20240428191450.png]]
+		* ![[Pasted image 20240502094352.png]]
