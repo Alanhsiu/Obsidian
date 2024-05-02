@@ -9,4 +9,4 @@
 	* 多加一個 constraint 到最佳化式子：$KL(\theta ,{\theta '})$
 	* TRPO (Trust Region Policy Optimization)：當成額外的 constraint
 	* KL divergence: $KL(\theta ,{\theta '})$ 指得是「行為上的距離」(action 的分佈)而不是「參數上的距離」
-	* ![[Pasted image 20240501230211.png]]
+	* ![[Pasted image 20240502094044.png]]

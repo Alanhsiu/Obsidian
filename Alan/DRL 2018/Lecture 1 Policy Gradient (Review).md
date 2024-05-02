@@ -7,7 +7,7 @@
 * Tips
 	* Add a Baseline: 讓 reward 有正有負
 		* 如果 reward 皆為正，可能會遇到的問題是有些 action 沒有被 sample 到，這樣相當於機率下降。
-		* ![[Pasted image 20240428190722.png]]
+		* ![[Pasted image 20240502094113.png]]
 	* Assign Suitable Credit: 加入係數 gamma，來減少對後面 action 所得的 reward 的影響
 		* 整場遊戲的結果是好的，不代表每一步都是好的。
 		* 理論上如果 sample 數量夠多，這樣就可以避免這個問題。（但不可能全部 sample 到）

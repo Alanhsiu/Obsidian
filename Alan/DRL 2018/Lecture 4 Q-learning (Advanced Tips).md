@@ -6,4 +6,5 @@
 
 ### Dueling DQN
 
-* 
+* 只改了 network 的架構，演算法不變。
+* ![[Pasted image 20240502093847.png]]
