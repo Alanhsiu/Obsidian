@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md"
+                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md"
               }
             }
           },
@@ -213,11 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d5478a5836f77d3",
+  "active": "4700ee57715be013",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
+    "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/12 Reinforcement Learning.md",
     "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
-    "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
@@ -225,7 +226,6 @@
     "DRL 2018/attachments/Pasted image 20240502122445.png",
     "Untitled",
     "DRL 2018/attachments/Pasted image 20240502104542.png",
-    "ML 2021/00 Pytorch tutorial.md",
     "ML 2021/01 Overview.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
     "DRL 2018/attachments/Pasted image 20240502093847.png",
