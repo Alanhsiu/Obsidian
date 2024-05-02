@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -189,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d5478a5836f77d3",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/attachments/Pasted image 20240502093847.png",
