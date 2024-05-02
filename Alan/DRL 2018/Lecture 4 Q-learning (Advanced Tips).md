@@ -10,7 +10,7 @@
 * ![[Pasted image 20240502093847.png]]
 ### Prioritized Experience Replay
 
-* 原本訓練的過程中，我們會從 buffer 中 uniform 的 sample 資料出來，但這麼不見得是好的，或許有某一筆資料的 TD erro 特別大 (target network 的 outpu t與 Q-function 的 output 差距)，這意味著過程中的對這筆資料的訓練是沒訓練好的，那就需要給它比較大的機率被sample。 
+* 原本訓練的過程中，我們會從 buffer 中 uniform 的 sample 資料出來，但這麼不見得是好的，或許有某一筆資料的 TD erro 特別大 (target network 的 output 與 Q-function 的 output 差距)，這意味著過程中的對這筆資料的訓練是沒訓練好的，那就需要給它比較大的機率被sample。 
 
 ### Multi-step
 
