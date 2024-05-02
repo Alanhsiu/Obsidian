@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               }
             }
           },
@@ -213,14 +213,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4700ee57715be013",
+  "active": "af975caa7a9c1128",
   "lastOpenFiles": [
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
-    "ML 2021/00 Pytorch tutorial.md",
-    "ML 2021/12 Reinforcement Learning.md",
-    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "ML 2021/12 Reinforcement Learning.md",
+    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+    "ML 2021/00 Pytorch tutorial.md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/attachments/Pasted image 20240502122445.png",
