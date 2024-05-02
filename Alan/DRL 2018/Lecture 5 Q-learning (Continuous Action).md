@@ -5,4 +5,4 @@
 * Solutions
 	* sample 大 N 個 action 來計算，但這可能不是那麼精確
 	* 用 gradient ascent 來解這個問題，將 action 視為 parameter，找一組來 maximize Q-function 並不一定能找到最佳結果，可能是區域最佳解且運算量很大
-	* 
+	* 特別數計一個 network，讓
