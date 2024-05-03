@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -227,17 +228,18 @@
   },
   "active": "5922f1691dda85d6",
   "lastOpenFiles": [
+    "DRL 2018/attachments/Pasted image 20240503163754.png",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "DRL 2018/Lecture 6 Actor-Critic.md",
     "Leading Enterprise/W11.md",
     "Leading Enterprise/W1.md",
     "Leading Enterprise/W10.md",
     "ML 2021/12 Reinforcement Learning.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "ML 2021/00 Pytorch tutorial.md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
-    "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/attachments/Pasted image 20240502122445.png",
     "Untitled",
     "DRL 2018/attachments/Pasted image 20240502104542.png",
@@ -263,7 +265,6 @@
     "TOEFL/Writing/Academic Discussion 0323.md",
     "TOEFL/Listening/Listening Skills.md",
     "TOEFL/Speaking/Speaking 1 Summary.md",
-    "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
     "TOEFL/Writing",
