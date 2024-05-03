@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/W11.md",
+                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/W11.md",
+                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/W11.md",
+                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/W11.md"
+                "file": "DRL 2018/Lecture 6 Actor-Critic.md"
               }
             }
           },
@@ -227,8 +227,10 @@
   },
   "active": "5922f1691dda85d6",
   "lastOpenFiles": [
+    "Leading Enterprise/W11.md",
+    "Leading Enterprise/W1.md",
+    "Leading Enterprise/W10.md",
     "ML 2021/12 Reinforcement Learning.md",
-    "ML 2021/W11.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
@@ -263,13 +265,11 @@
     "TOEFL/Speaking/Speaking 1 Summary.md",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "TOEFL/Writing/attachments",
-    "TOEFL/Format.md",
     "TOEFL/Speaking",
     "TOEFL/Writing",
     "TOEFL/Listening",
     "Web3",
     "DRL 2018/attachments",
-    "Interview/Millennium.md",
     "WorldQuant/attachments",
     "ML 2021/attachments",
     "DRL 2018",
