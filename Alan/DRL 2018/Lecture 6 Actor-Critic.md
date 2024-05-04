@@ -23,4 +23,11 @@
 	2. 不同於 Policy Gradient 直接更新參數，是利用收集到的資料來估測 value function （可以使用 TD 或 MC）
 	3. 用新的 value function 去 update $\pi$
 * Tips
-	* 訓練過程中有兩個 nn，一個是 V function，一個是 Policy (即actor)，其中V-function input state ，output scalar。而actor的話是input state，output action的distribution。因為兩個nn的input都是state，因此前面幾個layer的話是可以共用的。如果是影像的輸入的話，就可以將輸入的像素轉為較高階的資訊。
+	* ![[Pasted image 20240504160625.png]]
+	* 訓練過程中有兩個 nn，一個是 V function，一個是 Policy (actor)。其中 V function input state，output scalar。actor 的話是 input state，output action 的distribution。因為兩個 nn 的 input 都是 state，因此前面幾個 layer 的話是可以共用的。如果是影像的輸入的話，就可以將輸入的像素轉為較高階的資訊。
+	* 一樣需要 exploration 的機制，實作 Actor-Critic 的一種常見作法，就是對 actor 的 output(action distribution)多一個 constraint，讓 distribution 的 entropy 不要太小，探索更好的結果。
+* Asynchronous Advantage Actor-Critic (A3C)
+	* 鳴人用影分身訓練自己，最後再集合經驗。
+	* 同時開很多 Worker，做完就回傳參數，即使「原本取到的參數」和「回傳時的參數」不一樣也沒有關係，一樣直接用$\nabla \theta$更新。
+	* 
+
