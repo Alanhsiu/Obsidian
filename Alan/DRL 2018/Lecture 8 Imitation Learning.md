@@ -17,4 +17,6 @@
 
 ### Inverse Reinforcement Learning
 
-* 
+* 由 Expert 反推 reward function。
+* 先射箭再畫靶：expert 得到的分數一定會比 actor 的分數還要高。
+* ![[Pasted image 20240504180454.png]]
