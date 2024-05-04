@@ -34,4 +34,5 @@
 	* 概念跟 GAN 非常相似，將 Q 視為 discriminator，要依據 discriminator 決定 action 非常困難，那就另外 learn 一個 nn 來解這個問題，也就是 actor (generator)，利用 actor 來決定 action，解 argmax 的問題。
 	* ![[Pasted image 20240504162426.png]]
 	* 原本是用 Q function 決定採用那一個 action，調整為直接用 actor 來決定，不需要再解 argmax 的問題。
+	* 不解 argmax 的問題之後，target y 也調整為，原本由 Q 決定那一個 action，也直接由 actor 來決定。
 

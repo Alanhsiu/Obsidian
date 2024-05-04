@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "d2849ab90a34df67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4d5478a5836f77d3",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -155,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md"
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md"
               }
             }
           },
@@ -226,8 +237,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5922f1691dda85d6",
+  "active": "d2849ab90a34df67",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 6 Actor-Critic.md",
+    "DRL 2018/Lecture 7 Sparse Reward.md",
     "DRL 2018/attachments/Pasted image 20240504162426.png",
     "DRL 2018/attachments/Pasted image 20240504160625.png",
     "DRL 2018/attachments/Pasted image 20240504155957.png",
@@ -235,7 +248,6 @@
     "DRL 2018/attachments/Pasted image 20240503164624.png",
     "DRL 2018/attachments/Pasted image 20240503163754.png",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-    "DRL 2018/Lecture 6 Actor-Critic.md",
     "Leading Enterprise/W11.md",
     "Leading Enterprise/W1.md",
     "Leading Enterprise/W10.md",
@@ -252,7 +264,6 @@
     "ML 2021/02 Deep Learning - General Guidance.md",
     "DRL 2018/attachments/Pasted image 20240502093847.png",
     "DRL 2018/attachments/Pasted image 20240502002037.png",
-    "DRL 2018/attachments/Pasted image 20240502093927.png",
     "ML 2021/05 Transformer.md",
     "ML 2021/04 Self Attention.md",
     "ML 2021/03 CNN.md",
