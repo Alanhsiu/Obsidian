@@ -29,5 +29,9 @@
 * Asynchronous Advantage Actor-Critic (A3C)
 	* 鳴人用影分身訓練自己，最後再集合經驗。
 	* 同時開很多 Worker，做完就回傳參數，即使「原本取到的參數」和「回傳時的參數」不一樣也沒有關係，一樣直接用$\nabla \theta$更新。
-	* 
+* Pathwise derivative policy gradient
+	* Critic 不只跟 actor 說這個動作好不好，還告訴 actor 應該要採取什麼動作。
+	* 概念跟 GAN 非常相似，將 Q 視為 discriminator，要依據 discriminator 決定 action 非常困難，那就另外 learn 一個 nn 來解這個問題，也就是 actor (generator)，利用 actor 來決定 action，解 argmax 的問題。
+	* ![[Pasted image 20240504162426.png]]
+	* 原本是用 Q function 決定採用那一個 action，調整為直接用 actor 來決定，不需要再解 argmax 的問題。
 
