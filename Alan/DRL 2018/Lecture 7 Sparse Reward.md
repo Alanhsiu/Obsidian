@@ -22,3 +22,5 @@
 ### Hierarchical Reinforcement Learning
 
 * 有很多個 agent，有的負責 high-level，負責訂目標，再分配給其它 agent 來執行。
+* 上層的 output 就是下層的 input，下層再決定自己的 output。
+* 如果下層的 agent 無法達成上層所提出的 goal 的話，上層的 agen t就會被討厭而得到一個 penalty。
