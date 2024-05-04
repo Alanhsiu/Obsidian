@@ -16,3 +16,11 @@
 * Q function 的定義就是 accumulated reward 的期望值，就是 G 的期望值。
 * 把 Q function 套在 G 上面就可以將 actor-critic 兩個方法結合起來。
 * baseline 的話，可以用 **value function** 來表示，即在 policy $\pi$ 的情況下，在某一個 state s 一直互動到遊戲結束的 expected reward 有多大 (V function 沒有考慮action，Q function 才有 action 考慮)。 
+* ![[Pasted image 20240504155957.png]]
+* 將 G 取代掉的部份稱為 **Advantage function**
+* Steps
+	1. 初始的 actor $\pi$，與環境互動收集資料
+	2. 不同於 Policy Gradient 直接更新參數，是利用收集到的資料來估測 value function （可以使用 TD 或 MC）
+	3. 用新的 value function 去 update $\pi$
+* Tips
+	* 訓練過程中有兩個 nn，一個是 V function，一個是 Policy (即actor)，其中V-function input state ，output scalar。而actor的話是input state，output action的distribution。因為兩個nn的input都是state，因此前面幾個layer的話是可以共用的。如果是影像的輸入的話，就可以將輸入的像素轉為較高階的資訊。
