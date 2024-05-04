@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -239,6 +240,7 @@
   },
   "active": "d2849ab90a34df67",
   "lastOpenFiles": [
+    "DRL 2018/attachments/Pasted image 20240504164903.png",
     "DRL 2018/attachments/Pasted image 20240504164413.png",
     "DRL 2018/attachments/Pasted image 20240504164051.png",
     "DRL 2018/Lecture 6 Actor-Critic.md",
@@ -264,7 +266,6 @@
     "DRL 2018/attachments/Pasted image 20240502104542.png",
     "ML 2021/01 Overview.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
-    "DRL 2018/attachments/Pasted image 20240502093847.png",
     "ML 2021/05 Transformer.md",
     "ML 2021/04 Self Attention.md",
     "ML 2021/03 CNN.md",

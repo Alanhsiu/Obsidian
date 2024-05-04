@@ -11,4 +11,14 @@
 	* ![[Pasted image 20240504164413.png]]
 ### Curriculum Learning
 
-* 
+* 你為機器學習做規劃，給它的訓練資料是有順序的。並非 RL 獨有的概念，在很多機器學習都可以用的到。
+* 先教簡單的再教難的。例如：訓練 RNN 的時候，由短的 sequence 到長的 sequence。
+* Reverse Curriculum Generation：比較通用幫機器設計課程的方法。由目標去反推。
+	* 根據 goal state 來找尋其它接近 goal state 的 state。
+	* 利用 reward 將極端的 case 去掉。reward 過大代表太簡單，代表機器已經會了。過小代表太難，代表機器現在學不會。
+	* 利用對機器比較剛好的 case 再 sample 更多的 state
+	* ![[Pasted image 20240504164903.png]]
+
+### Hierarchical Reinforcement Learning
+
+* 有很多個 agent，有的負責 high-level，負責訂目標，再分配給其它 agent 來執行。
