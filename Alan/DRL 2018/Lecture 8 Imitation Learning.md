@@ -9,3 +9,6 @@
 ### Behavior Cloning
 
 * 與 supervised learning 是一樣的，訓練資料就是當看到什麼樣的 state (input)，希望它的 action (output)與人類愈接近愈好。
+* Problem: Expert only samples limited observation (states)
+* Solution: Dataset Aggregation
+* 
