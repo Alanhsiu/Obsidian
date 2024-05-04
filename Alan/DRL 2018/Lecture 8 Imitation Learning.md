@@ -9,6 +9,12 @@
 ### Behavior Cloning
 
 * 與 supervised learning 是一樣的，訓練資料就是當看到什麼樣的 state (input)，希望它的 action (output)與人類愈接近愈好。
-* Problem: Expert only samples limited observation (states)
-* Solution: Dataset Aggregation
+* Problem 1: Expert only samples limited observation (states)
+* Solution 1: Dataset Aggregation (expert 不斷的告訴 actor 要怎麼做，但 actor 這時候還是會自己做自己的事，之後再拿這些資料來訓練 actor）
+* Problem 2: If machine has limited capacity, it may choose the wrong behavior to copy.
+* Problem 3: In supervised learning, we expect training and testing data have the same distribution.
+* Solution: Inverse Reinforcement Learning
+
+### Inverse Reinforcement Learning
+
 * 
