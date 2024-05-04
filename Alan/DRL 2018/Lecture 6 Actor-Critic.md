@@ -12,4 +12,7 @@
 
 ### Actor-Critic
 
-* 
+* ![[Pasted image 20240504155108.png]]
+* Q function 的定義就是 accumulated reward 的期望值，就是 G 的期望值。
+* 把 Q function 套在 G 上面就可以將 actor-critic 兩個方法結合起來。
+* baseline 的話，可以用 **value function** 來表示，即在 policy $\pi$ 的情況下，在某一個 state s 一直互動到遊戲結束的 expected reward 有多大 (V function 沒有考慮action，Q function 才有 action 考慮)。 
