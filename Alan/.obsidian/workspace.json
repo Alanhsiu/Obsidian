@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 7 Sparse Reward.md"
+                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md"
               }
             }
           },
@@ -251,16 +251,16 @@
   },
   "active": "4ef2abfe7263f43d",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+    "DRL 2018/Lecture 7 Sparse Reward.md",
     "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
-    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
-    "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 8 Imitation Learning.md",
     "DRL 2018/attachments/Pasted image 20240504180627.png",
     "DRL 2018/attachments/Pasted image 20240504180454.png",
-    "DRL 2018/Lecture 7 Sparse Reward.md",
     "DRL 2018/attachments/Pasted image 20240504164903.png",
     "DRL 2018/attachments/Pasted image 20240504164413.png",
     "DRL 2018/attachments/Pasted image 20240504164051.png",
