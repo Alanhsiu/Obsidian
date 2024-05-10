@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "Leading Enterprise/W11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0c08b79d28535d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leading Enterprise/W12.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "Leading Enterprise/W12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+                "file": "Leading Enterprise/W12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md"
+                "file": "Leading Enterprise/W12.md"
               }
             }
           },
@@ -249,15 +261,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ef2abfe7263f43d",
+  "active": "d0c08b79d28535d6",
   "lastOpenFiles": [
+    "Leading Enterprise/W11.md",
+    "Leading Enterprise/W12.md",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "DRL 2018/Lecture 7 Sparse Reward.md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/Lecture 8 Imitation Learning.md",
     "DRL 2018/attachments/Pasted image 20240504180627.png",
     "DRL 2018/attachments/Pasted image 20240504180454.png",
@@ -269,7 +283,6 @@
     "DRL 2018/attachments/Pasted image 20240504155957.png",
     "DRL 2018/attachments/Pasted image 20240504155108.png",
     "DRL 2018/attachments/Pasted image 20240503164624.png",
-    "Leading Enterprise/W11.md",
     "Leading Enterprise/W1.md",
     "Leading Enterprise/W10.md",
     "ML 2021/12 Reinforcement Learning.md",
