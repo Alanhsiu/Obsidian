@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Worldquant.md",
+                "file": "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d96ddcdf975f7ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3/Lesson 2 加密貨幣交易所.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Worldquant.md",
+                "file": "Web3/Lesson 2 加密貨幣交易所.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Worldquant.md",
+                "file": "Web3/Lesson 2 加密貨幣交易所.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Worldquant.md"
+                "file": "Web3/Lesson 2 加密貨幣交易所.md"
               }
             }
           },
@@ -261,8 +273,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0c08b79d28535d6",
+  "active": "d96ddcdf975f7ece",
   "lastOpenFiles": [
+    "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
+    "Web3/Lesson 2 加密貨幣交易所.md",
+    "Interview/Worldquant.md",
     "Leading Enterprise/W12.md",
     "Leading Enterprise/W11.md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
@@ -297,9 +312,6 @@
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "TOEFL/Speaking/Speaking 2.md",
-    "TOEFL/Speaking/Speaking 2 Summary.md",
-    "TOEFL/Writing/Academic Discussion 0501.md",
-    "TOEFL/Writing/Academic Discussion 0323.md",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
     "TOEFL/Writing",
