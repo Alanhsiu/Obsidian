@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五",
+                "query": "prune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,7 +274,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d96ddcdf975f7ece",
+  "active": "c21aa537cef63246",
   "lastOpenFiles": [
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Web3/Lesson 2 加密貨幣交易所.md",
