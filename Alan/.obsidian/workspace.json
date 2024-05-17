@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W12.md",
+                "file": "Leading Enterprise/W13.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,12 +119,8 @@
             "id": "a95ed7f160c4bc92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -140,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -285,9 +281,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a95ed7f160c4bc92",
+  "active": "d96ddcdf975f7ece",
   "lastOpenFiles": [
     "Leading Enterprise/W12.md",
+    "Others/2024-01-03.md",
     "Leading Enterprise/W13.md",
     "ML 2021/00 Pytorch tutorial.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
@@ -323,7 +320,6 @@
     "ML 2021/04 Self Attention.md",
     "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
-    "ML 2021/02 Deep Learning - Loss of Classification.md",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
     "TOEFL/Writing",
