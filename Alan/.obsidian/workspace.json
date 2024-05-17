@@ -109,7 +109,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "Leading Enterprise/W12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a95ed7f160c4bc92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leading Enterprise/W13.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prune",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "Leading Enterprise/W13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "Leading Enterprise/W13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md"
+                "file": "Leading Enterprise/W13.md"
               }
             }
           },
@@ -274,13 +285,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c21aa537cef63246",
+  "active": "a95ed7f160c4bc92",
   "lastOpenFiles": [
+    "Leading Enterprise/W12.md",
+    "Leading Enterprise/W13.md",
+    "ML 2021/00 Pytorch tutorial.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Web3/Lesson 2 加密貨幣交易所.md",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "Interview/Worldquant.md",
-    "Leading Enterprise/W12.md",
     "Leading Enterprise/W11.md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
@@ -303,7 +316,6 @@
     "Leading Enterprise/W1.md",
     "Leading Enterprise/W10.md",
     "ML 2021/12 Reinforcement Learning.md",
-    "ML 2021/00 Pytorch tutorial.md",
     "Untitled",
     "ML 2021/01 Overview.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
@@ -312,7 +324,6 @@
     "ML 2021/03 CNN.md",
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
-    "ML 2021/07 Self Supervised Learning (BERT).md",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
     "TOEFL/Writing",
