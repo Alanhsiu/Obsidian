@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W13.md",
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W13.md",
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W13.md",
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W13.md"
+                "file": "DRL 2018/Lecture 7 Sparse Reward.md"
               }
             }
           },
@@ -283,21 +283,21 @@
   },
   "active": "d96ddcdf975f7ece",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 6 Actor-Critic.md",
+    "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
+    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
+    "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "Leading Enterprise/W13.md",
     "Leading Enterprise/W12.md",
     "Others/2024-01-03.md",
-    "Leading Enterprise/W13.md",
     "ML 2021/00 Pytorch tutorial.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "Web3/Lesson 2 加密貨幣交易所.md",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "Interview/Worldquant.md",
     "Leading Enterprise/W11.md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-    "DRL 2018/Lecture 6 Actor-Critic.md",
-    "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
-    "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
-    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "DRL 2018/Lecture 7 Sparse Reward.md",
     "DRL 2018/Lecture 8 Imitation Learning.md",
     "DRL 2018/attachments/Pasted image 20240504180627.png",
