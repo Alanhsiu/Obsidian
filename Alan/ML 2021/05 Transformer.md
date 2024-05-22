@@ -32,6 +32,7 @@
 			2. 計算輸入向量 a+b 的 mean 和 standard deviation，做 layer normalization
 			3. 得到的輸出作為 FC 的輸入，FC 輸出結果和原輸入做 residual connection，再做一次 layer normalization 得到的輸出就是 Transformer Encoder 中一個 block 的一個輸出向量
 		* N 表示 N 個 block。首先在輸入需要加上 positional encoding（額外的機制來考慮元素的順序，cf. RNN直接是序列處理）。Multi-head attention 就屬 Self-attention。過後再做 residual connection 和 layer normalization，接下來還要經過 FC（Feed Forward: 包含兩個全連接層，其中間有一個激活函數，通常是 ReLU 或 GELU），接著再做一次 residual connection 和 layer normalization。如此是一個 block 的輸出，總共會重覆 N 次
+		* [ChatGPT] 殘差網路（ResNet）是一種可以訓練非常深層神經網路的技術。它透過「殘差塊」，將輸入直接跳過幾層傳遞到輸出，這樣可以防止梯度消失，讓訓練更有效率。
 		* ![[Pasted image 20231002155317.png]]
 		* ![[Pasted image 20231002155327.png]]
 	* Decoder：
