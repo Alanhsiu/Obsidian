@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/01 Overview.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/01 Overview.md"
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md"
               }
             }
           },
@@ -283,14 +283,14 @@
   },
   "active": "d96ddcdf975f7ece",
   "lastOpenFiles": [
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "DRL 2018/Lecture 8 Imitation Learning.md",
     "ML 2021/01 Overview.md",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
     "ML 2021/00 Pytorch tutorial.md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 7 Sparse Reward.md",
-    "DRL 2018/Lecture 8 Imitation Learning.md",
     "ML 2021/12 Reinforcement Learning.md",
     "ML 2021/07 Self Supervised Learning (BERT).md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
