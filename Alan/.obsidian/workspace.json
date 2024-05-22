@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md"
+                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md"
               }
             }
           },
@@ -283,6 +283,7 @@
   },
   "active": "d96ddcdf975f7ece",
   "lastOpenFiles": [
+    "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 7 Sparse Reward.md",
@@ -298,7 +299,6 @@
     "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/01 Overview.md",
     "ML 2021/00 Pytorch tutorial.md",
-    "DRL 2018/Lecture 6 Actor-Critic.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
     "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
