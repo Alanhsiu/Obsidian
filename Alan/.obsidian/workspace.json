@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W14.md",
+                "file": "Web3/Lesson 2 加密貨幣交易所.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W14.md",
+                "file": "Web3/Lesson 2 加密貨幣交易所.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W14.md",
+                "file": "Web3/Lesson 2 加密貨幣交易所.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W14.md"
+                "file": "Web3/Lesson 2 加密貨幣交易所.md"
               }
             }
           },
@@ -295,8 +295,8 @@
   },
   "active": "9151d43423ccc64a",
   "lastOpenFiles": [
-    "Leading Enterprise/W13.md",
     "Leading Enterprise/W14.md",
+    "Leading Enterprise/W13.md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 8 Imitation Learning.md",
     "ML 2021/01 Overview.md",
