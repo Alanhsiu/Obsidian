@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "6b4c21e5b3022dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a95ed7f160c4bc92",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -246,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3/Lesson 4 量化交易 - 環境部署.md",
+                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3/Lesson 4 量化交易 - 環境部署.md",
+                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3/Lesson 4 量化交易 - 環境部署.md"
+                "file": "Web3/Lesson 5 量化交易 - 風險管理.md"
               }
             }
           },
@@ -317,14 +329,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cb513bd30fd8a26",
+  "active": "6b4c21e5b3022dc2",
   "lastOpenFiles": [
+    "Web3/Lesson 3 一級市場投資項目分析.md",
+    "Web3/Lesson 5 量化交易 - 風險管理.md",
+    "Web3/Lesson 4 量化交易 - 環境部署.md",
+    "Web3/attachments/Pasted image 20240529193903.png",
     "Web3/attachments/Pasted image 20240527233428.png",
     "Web3/attachments/Pasted image 20240527233228.png",
     "Web3/attachments/Pasted image 20240527225949.png",
-    "Web3/Lesson 4 量化交易 - 環境部署.md",
     "Web3/attachments/Pasted image 20240527230100.png",
-    "Web3/Lesson 3 一級市場投資項目分析.md",
     "Web3/attachments/Pasted image 20240524202518.png",
     "Web3/attachments",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
@@ -349,13 +363,10 @@
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
-    "DRL 2018/Lecture 4 Q-learning (Advanced Tips).md",
     "DRL 2018/attachments/Pasted image 20240504180627.png",
     "DRL 2018/attachments/Pasted image 20240504180454.png",
     "DRL 2018/attachments/Pasted image 20240504164903.png",
     "DRL 2018/attachments/Pasted image 20240504164413.png",
-    "DRL 2018/attachments/Pasted image 20240504164051.png",
-    "DRL 2018/attachments/Pasted image 20240504162426.png",
     "Untitled",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
