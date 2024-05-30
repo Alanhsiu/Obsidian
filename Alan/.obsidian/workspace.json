@@ -242,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 284.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -329,7 +329,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b4c21e5b3022dc2",
+  "active": "af8b03a407d75688",
   "lastOpenFiles": [
     "Web3/Lesson 3 一級市場投資項目分析.md",
     "Web3/Lesson 5 量化交易 - 風險管理.md",
