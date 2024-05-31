@@ -157,7 +157,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
+                "file": "Leading Enterprise/W14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df820413848a23b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leading Enterprise/W15.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
+                "file": "Leading Enterprise/W15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
+                "file": "Leading Enterprise/W15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3/Lesson 5 量化交易 - 風險管理.md"
+                "file": "Leading Enterprise/W15.md"
               }
             }
           },
@@ -329,10 +341,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af8b03a407d75688",
+  "active": "df820413848a23b4",
   "lastOpenFiles": [
-    "Web3/Lesson 3 一級市場投資項目分析.md",
+    "Leading Enterprise/W14.md",
+    "Leading Enterprise/W15.md",
     "Web3/Lesson 5 量化交易 - 風險管理.md",
+    "Web3/Lesson 3 一級市場投資項目分析.md",
     "Web3/Lesson 4 量化交易 - 環境部署.md",
     "Web3/attachments/Pasted image 20240529193903.png",
     "Web3/attachments/Pasted image 20240527233428.png",
@@ -343,7 +357,6 @@
     "Web3/attachments",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "Web3/Lesson 2 加密貨幣交易所.md",
-    "Leading Enterprise/W14.md",
     "Leading Enterprise/W13.md",
     "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "DRL 2018/Lecture 8 Imitation Learning.md",
