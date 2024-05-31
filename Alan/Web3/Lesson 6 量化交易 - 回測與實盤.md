@@ -1,0 +1,4 @@
+* Quant
+	* Researcher
+	* Developer
+	* Trader
