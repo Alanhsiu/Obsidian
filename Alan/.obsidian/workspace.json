@@ -4,211 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "380cf8b56c9b30e9",
+        "id": "965be4ca14a4dd03",
         "type": "tabs",
         "children": [
           {
-            "id": "68c6db82825ff399",
+            "id": "ba349f39745d43b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4700ee57715be013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "793112bd6d699a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af975caa7a9c1128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML 2021/12 Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5922f1691dda85d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRL 2018/Lecture 6 Actor-Critic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2849ab90a34df67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRL 2018/Lecture 7 Sparse Reward.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ef2abfe7263f43d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c08b79d28535d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d96ddcdf975f7ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9151d43423ccc64a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3/Lesson 2 加密貨幣交易所.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee00b8b1491fe9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3/Lesson 3 一級市場投資項目分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cb513bd30fd8a26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3/Lesson 4 量化交易 - 環境部署.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4c21e5b3022dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leading Enterprise/W14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df820413848a23b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3/Lesson 5 量化交易 - 風險管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d70e1222bb9efe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web3/Lesson 6 量化交易 - 回測與實盤.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a95ed7f160c4bc92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d5478a5836f77d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML 2021/00 Pytorch tutorial.md",
+                "file": "Leading Enterprise/W2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web3/Lesson 6 量化交易 - 回測與實盤.md",
+                "file": "Leading Enterprise/W2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web3/Lesson 6 量化交易 - 回測與實盤.md",
+                "file": "Leading Enterprise/W2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web3/Lesson 6 量化交易 - 回測與實盤.md"
+                "file": "Leading Enterprise/W2.md"
               }
             }
           },
@@ -353,45 +164,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d70e1222bb9efe3",
+  "active": "ba349f39745d43b1",
   "lastOpenFiles": [
-    "Web3/Lesson 5 量化交易 - 風險管理.md",
-    "Web3/Lesson 6 量化交易 - 回測與實盤.md",
-    "Leading Enterprise/W15.md",
-    "Leading Enterprise/W14.md",
+    "Leading Enterprise/W1.md",
+    "Leading Enterprise/W6.md",
+    "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
+    "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
+    "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
+    "attachments/Pasted image 20240106110750.png",
+    "attachments/Pasted image 20240110195034.png",
+    "attachments/Pasted image 20240110195116.png",
+    "attachments/Pasted image 20231226235026.png",
+    "attachments/Pasted image 20231226231854.png",
+    "attachments/Pasted image 20231214220259.png",
+    "attachments/Pasted image 20231226231829.png",
+    "ML 2021/05 Transformer.md",
+    "ML 2021/02 Deep Learning - Loss of Classification.md",
+    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
+    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
+    "Speech Lab/2024-02-17.md",
+    "Speech Lab/2024-01-18.md",
+    "Speech Lab/2023-12-26.md",
+    "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
+    "ML 2021/04 Self Attention.md",
+    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
+    "ML 2021/02 Deep Learning - General Guidance.md",
+    "ML 2021/01 Overview.md",
+    "ML 2021/00 Pytorch tutorial.md",
+    "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
+    "ML 2021/12 Reinforcement Learning.md",
+    "DRL 2018/Lecture 6 Actor-Critic.md",
+    "DRL 2018/Lecture 7 Sparse Reward.md",
+    "Leading Enterprise/W11.md",
+    "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
+    "Leading Enterprise/W13.md",
+    "Web3/Lesson 2 加密貨幣交易所.md",
     "Web3/Lesson 3 一級市場投資項目分析.md",
     "Web3/Lesson 4 量化交易 - 環境部署.md",
-    "Web3/attachments/Pasted image 20240529193903.png",
-    "Web3/attachments/Pasted image 20240527233428.png",
-    "Web3/attachments/Pasted image 20240527233228.png",
-    "Web3/attachments/Pasted image 20240527225949.png",
-    "Web3/attachments/Pasted image 20240527230100.png",
-    "Web3/attachments/Pasted image 20240524202518.png",
+    "Leading Enterprise/W14.md",
     "Web3/attachments",
-    "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
-    "Web3/Lesson 2 加密貨幣交易所.md",
-    "Leading Enterprise/W13.md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
-    "DRL 2018/Lecture 8 Imitation Learning.md",
-    "ML 2021/01 Overview.md",
-    "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-    "ML 2021/00 Pytorch tutorial.md",
-    "DRL 2018/Lecture 6 Actor-Critic.md",
-    "DRL 2018/Lecture 3 Q-learning (Basic Idea).md",
-    "DRL 2018/Lecture 7 Sparse Reward.md",
-    "ML 2021/12 Reinforcement Learning.md",
-    "ML 2021/07 Self Supervised Learning (BERT).md",
-    "ML 2021/06 Generative Adversarial Network (GAN).md",
-    "ML 2021/05 Transformer.md",
-    "ML 2021/04 Self Attention.md",
-    "ML 2021/03 CNN.md",
-    "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
-    "ML 2021/02 Deep Learning - Loss of Classification.md",
-    "ML 2021/02 Deep Learning - General Guidance.md",
-    "DRL 2018/attachments/Pasted image 20240504180627.png",
-    "DRL 2018/attachments/Pasted image 20240504180454.png",
-    "DRL 2018/attachments/Pasted image 20240504164903.png",
-    "DRL 2018/attachments/Pasted image 20240504164413.png",
     "Untitled",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
