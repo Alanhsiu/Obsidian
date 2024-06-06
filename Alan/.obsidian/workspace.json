@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W2.md",
+                "file": "Leading Enterprise/W1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W2.md",
+                "file": "Leading Enterprise/W1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W2.md",
+                "file": "Leading Enterprise/W1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W2.md"
+                "file": "Leading Enterprise/W1.md"
               }
             }
           },
@@ -166,8 +166,18 @@
   },
   "active": "ba349f39745d43b1",
   "lastOpenFiles": [
-    "Leading Enterprise/W1.md",
+    "Leading Enterprise/W15.md",
+    "Leading Enterprise/W13.md",
+    "Leading Enterprise/W14.md",
+    "Leading Enterprise/W12.md",
+    "Leading Enterprise/W9.md",
+    "Leading Enterprise/W8.md",
     "Leading Enterprise/W6.md",
+    "Leading Enterprise/W5.md",
+    "Leading Enterprise/W4.md",
+    "Leading Enterprise/W3.md",
+    "Leading Enterprise/W2.md",
+    "Leading Enterprise/W1.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
@@ -192,16 +202,6 @@
     "ML 2021/01 Overview.md",
     "ML 2021/00 Pytorch tutorial.md",
     "DRL 2018/Lecture 5 Q-learning (Continuous Action).md",
-    "ML 2021/12 Reinforcement Learning.md",
-    "DRL 2018/Lecture 6 Actor-Critic.md",
-    "DRL 2018/Lecture 7 Sparse Reward.md",
-    "Leading Enterprise/W11.md",
-    "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
-    "Leading Enterprise/W13.md",
-    "Web3/Lesson 2 加密貨幣交易所.md",
-    "Web3/Lesson 3 一級市場投資項目分析.md",
-    "Web3/Lesson 4 量化交易 - 環境部署.md",
-    "Leading Enterprise/W14.md",
     "Web3/attachments",
     "Untitled",
     "TOEFL/Writing/attachments",
