@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leading Enterprise/W15.md",
+                "file": "2024-06-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leading Enterprise/W15.md",
+                "file": "2024-06-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leading Enterprise/W15.md",
+                "file": "2024-06-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leading Enterprise/W15.md"
+                "file": "2024-06-11.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "a3b8e6cc0d14b23c",
   "lastOpenFiles": [
+    "Leading Enterprise/W15.md",
+    "2024-06-11.md",
     "Leading Enterprise/W16.md",
     "Leading Enterprise/W10.md",
     "Leading Enterprise/W9.md",
@@ -178,7 +180,6 @@
     "Leading Enterprise/W1.md",
     "Leading Enterprise/W12.md",
     "Leading Enterprise/W13.md",
-    "Leading Enterprise/W15.md",
     "Leading Enterprise/W14.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
@@ -201,7 +202,6 @@
     "ML 2021/04 Self Attention.md",
     "ML 2021/02 Deep Learning - 類神經網路優化技巧.md",
     "ML 2021/02 Deep Learning - General Guidance.md",
-    "ML 2021/01 Overview.md",
     "Web3/attachments",
     "Untitled",
     "TOEFL/Writing/attachments",
