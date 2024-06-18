@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa799054e3375c36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3b8e6cc0d14b23c",
+  "active": "fa799054e3375c36",
   "lastOpenFiles": [
     "Web3/Lesson 2 加密貨幣交易所.md",
     "Web3/Lesson 3 一級市場投資項目分析.md",
