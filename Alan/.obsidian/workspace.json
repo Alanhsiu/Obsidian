@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-18.md",
+                "file": "Google/2024-06-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-18.md",
+                "file": "Google/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-18.md",
+                "file": "Google/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-18.md"
+                "file": "Google/2024-06-18.md"
               }
             }
           },
@@ -179,7 +179,9 @@
   },
   "active": "fa799054e3375c36",
   "lastOpenFiles": [
-    "2024-06-18.md",
+    "Untitled.md",
+    "Google/2024-06-18.md",
+    "Google",
     "Web3/Lesson 2 加密貨幣交易所.md",
     "Web3/Lesson 3 一級市場投資項目分析.md",
     "Web3/Lesson 4 量化交易 - 環境部署.md",
@@ -214,9 +216,7 @@
     "ML 2021/05 Transformer.md",
     "ML 2021/02 Deep Learning - Loss of Classification.md",
     "DRL 2018/Lecture 1 Policy Gradient (Review).md",
-    "DRL 2018/Lecture 2 Proximal Policy Optimization (PPO).md",
     "Web3/attachments",
-    "Untitled",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
     "TOEFL/Writing",
