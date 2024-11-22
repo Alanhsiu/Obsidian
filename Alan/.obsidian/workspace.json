@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-19.md",
+                "file": "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-11-19.md",
+                "file": "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-11-19.md",
+                "file": "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-19.md"
+                "file": "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "128c3a1b2514d9c6",
   "lastOpenFiles": [
-    "2024-11-17.md",
     "2024-11-19.md",
+    "2024-11-17.md",
     "ML 2021/06 Generative Adversarial Network (GAN).md",
     "2024-11-05.md",
     "TOEFL/Speaking/Speaking 1.md",
