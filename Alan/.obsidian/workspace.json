@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4591cd820d9a87f7",
+        "id": "176922f833da2753",
         "type": "tabs",
         "children": [
           {
-            "id": "99549078c5bf1539",
+            "id": "128c3a1b2514d9c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOEFL/Speaking/Speaking 2 Summary.md",
+                "file": "2024-11-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "64a7ec702ff9d1af",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOEFL/Speaking/Speaking 2 Summary.md",
+                "file": "2024-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOEFL/Speaking/Speaking 2 Summary.md",
+                "file": "2024-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOEFL/Speaking/Speaking 2 Summary.md"
+                "file": "2024-11-19.md"
               }
             }
           },
@@ -165,12 +164,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99549078c5bf1539",
+  "active": "128c3a1b2514d9c6",
   "lastOpenFiles": [
-    "TOEFL/Speaking/Speaking 1 Summary.md",
+    "2024-11-17.md",
+    "2024-11-19.md",
+    "ML 2021/06 Generative Adversarial Network (GAN).md",
+    "2024-11-05.md",
     "TOEFL/Speaking/Speaking 1.md",
-    "2024-06-11.md",
+    "TOEFL/Speaking/Speaking 2.md",
+    "TOEFL/Speaking/Speaking 1 Summary.md",
+    "TOEFL/Speaking/Speaking 2 Summary.md",
+    "TOEFL/Listening/Listening Skills.md",
+    "Template/Table.md",
     "Google/2024-06-18.md",
+    "2024-06-11.md",
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "Untitled.md",
     "Google",
@@ -186,13 +193,6 @@
     "Leading Enterprise/W8.md",
     "Leading Enterprise/W6.md",
     "Leading Enterprise/W5.md",
-    "Leading Enterprise/W4.md",
-    "Leading Enterprise/W3.md",
-    "Leading Enterprise/W2.md",
-    "Leading Enterprise/W1.md",
-    "Leading Enterprise/W12.md",
-    "Leading Enterprise/W13.md",
-    "Leading Enterprise/W14.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
@@ -203,7 +203,6 @@
     "attachments/Pasted image 20231226231854.png",
     "attachments/Pasted image 20231214220259.png",
     "attachments/Pasted image 20231226231829.png",
-    "ML 2021/05 Transformer.md",
     "Web3/attachments",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
