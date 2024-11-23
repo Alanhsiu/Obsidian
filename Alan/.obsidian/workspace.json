@@ -11,11 +11,100 @@
             "id": "8a4357ee1311d031",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a10498b7025dfb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/08 Auto Encoder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fed632b5f9d6057f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/08 Auto Encoder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966c12f2480294f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/10 Explainable ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8732686a3daec1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/11 Domain Adaptation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106f4c6ef3a9393a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/13 Life Long Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9579b322792fc2c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/14 Network Compression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a68715a899618c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML 2021/12 Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -89,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML 2021/12 Reinforcement Learning.md"
+              }
             }
           },
           {
@@ -156,8 +249,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a4357ee1311d031",
+  "active": "7a68715a899618c9",
   "lastOpenFiles": [
+    "ML 2021/15 Meta Learning.md",
+    "ML 2021/14 Network Compression.md",
+    "ML 2021/13 Life Long Learning.md",
+    "ML 2021/11 Domain Adaptation.md",
+    "ML 2021/10 Explainable ML.md",
+    "ML 2021/08 Auto Encoder.md",
+    "ML 2021/09 Adversarial Attack.md",
+    "ML 2021/07 Self Supervised Learning (BERT).md",
+    "ML 2021/01 Overview.md",
+    "ML 2021/12 Reinforcement Learning.md",
     "DLHLP 2020/Deep Learning for Human Language Processing (Course Overview).md",
     "2024-11-19.md",
     "2024-11-17.md",
@@ -175,16 +278,6 @@
     "Untitled.md",
     "Google",
     "Web3/Lesson 2 加密貨幣交易所.md",
-    "Web3/Lesson 3 一級市場投資項目分析.md",
-    "Web3/Lesson 4 量化交易 - 環境部署.md",
-    "Web3/Lesson 5 量化交易 - 風險管理.md",
-    "Web3/Lesson 6 量化交易 - 回測與實盤.md",
-    "Leading Enterprise/W15.md",
-    "Leading Enterprise/W16.md",
-    "Leading Enterprise/W10.md",
-    "Leading Enterprise/W9.md",
-    "Leading Enterprise/W8.md",
-    "Leading Enterprise/W6.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
