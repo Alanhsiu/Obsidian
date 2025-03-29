@@ -123,12 +123,14 @@
             "id": "414c6e539d12191e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "ML 2021/12 Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "12 Reinforcement Learning"
             }
           }
         ],
@@ -214,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 07 Self Supervised Learning (BERT)"
+              "title": "Backlinks for 12 Reinforcement Learning"
             }
           },
           {
@@ -233,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md",
+                "file": "ML 2021/12 Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 07 Self Supervised Learning (BERT)"
+              "title": "Outgoing links from 12 Reinforcement Learning"
             }
           },
           {
@@ -260,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML 2021/07 Self Supervised Learning (BERT).md"
+                "file": "ML 2021/12 Reinforcement Learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 07 Self Supervised Learning (BERT)"
+              "title": "Outline of 12 Reinforcement Learning"
             }
           },
           {
@@ -297,6 +299,7 @@
   },
   "active": "414c6e539d12191e",
   "lastOpenFiles": [
+    "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/15 Meta Learning.md",
     "ML 2021/14 Network Compression.md",
     "ML 2021/13 Life Long Learning.md",
@@ -323,7 +326,6 @@
     "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
     "Untitled.md",
     "Google",
-    "Web3/Lesson 2 加密貨幣交易所.md",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144004.png",
