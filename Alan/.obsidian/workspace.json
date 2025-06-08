@@ -123,12 +123,14 @@
             "id": "24f5510bc812c81e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Interview/Worldquant.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Worldquant"
             }
           }
         ],
@@ -298,6 +300,13 @@
   },
   "active": "24f5510bc812c81e",
   "lastOpenFiles": [
+    "Interview/NVIDIA VLSI Physical Design CAD Intern - Summer 2024.md",
+    "Interview/Worldquant.md",
+    "WorldQuant/2023-11-11.md",
+    "WorldQuant/2023-11-18.md",
+    "WorldQuant/2023-11-28.md",
+    "WorldQuant/attachments/IMG_7759.jpeg",
+    "WorldQuant/attachments/IMG_7758.jpeg",
     "ML 2021/02 Deep Learning - General Guidance.md",
     "ML 2021/15 Meta Learning.md",
     "ML 2021/14 Network Compression.md",
@@ -319,11 +328,6 @@
     "TOEFL/Speaking/Speaking 1 Summary.md",
     "TOEFL/Speaking/Speaking 2 Summary.md",
     "TOEFL/Listening/Listening Skills.md",
-    "Template/Table.md",
-    "Google/2024-06-18.md",
-    "2024-06-11.md",
-    "Web3/Lesson 1 金融市場與加密貨幣概括與個案分析.md",
-    "Untitled.md",
     "Google",
     "TOEFL/Writing/attachments/Pasted image 20240501144029.png",
     "TOEFL/Writing/attachments/Pasted image 20240501144015.png",
@@ -333,8 +337,6 @@
     "attachments/Pasted image 20240110195116.png",
     "attachments/Pasted image 20231226235026.png",
     "attachments/Pasted image 20231226231854.png",
-    "attachments/Pasted image 20231214220259.png",
-    "attachments/Pasted image 20231226231829.png",
     "Web3/attachments",
     "TOEFL/Writing/attachments",
     "TOEFL/Speaking",
